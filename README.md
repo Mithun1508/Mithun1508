@@ -9,8 +9,7 @@ Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## 😂 Here is a random joke that'll make you laugh!
+https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&show_icons=true&theme=radical
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
