@@ -68,6 +68,15 @@ You can click the Preview link to take a look at your changes.
                                                                                                                 
 </p>
 <figure><embed src="https://wakatime.com/share/@7ea96c3a-4602-4383-aec1-3014bf4396ea/6e2c2b38-a677-4b83-a585-6abace0ba333.svg"></embed></figure>
+[![Badge](https://cp-logo.vercel.app/codechef/codechef_username)]
+(https://www.codechef.com/users/mithun_77)
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mithun1508.Mithun1508)
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&count_private=true&show_icons=true&hide=contribs)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/Mithun1508/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508)](https://git.io/streak-stats)
 
 
