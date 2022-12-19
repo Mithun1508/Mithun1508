@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&show_icons=true)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
- <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
-"/>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
