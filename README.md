@@ -15,3 +15,23 @@ You can click the Preview link to take a look at your changes.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Mithun1508/Mithun1508)
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python">
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square" alt="made with python">\
+
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: <Mithun1508> # optional, but default will use the same from github
+          <!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
