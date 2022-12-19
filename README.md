@@ -9,6 +9,7 @@ Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mithun1508&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
