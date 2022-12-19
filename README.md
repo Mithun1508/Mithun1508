@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mithun
-- 👀 I’m passionate about Everything about Algorithms & Software development 
-- 📫 How to reach me . mithuntran@gmail.com 
+- 👀 I’m passionate Everything about Algorithms & Software development 
+
 
 
 
