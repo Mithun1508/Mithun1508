@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mithun
-- 👀 Tech | Learning. 
+- 👀 Tech | Learning
 
 
 
