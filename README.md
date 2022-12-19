@@ -73,7 +73,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mithun1508.Mithun1508)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&count_private=true&show_icons=true&hide=contribs)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/Mithun1508/github-profile-trophy)
 
