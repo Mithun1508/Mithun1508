@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mithun
-- 👀 I’m passionate Everything about Algorithms & Software development 
+- 👀 Tech | Learning 
 
 
 
