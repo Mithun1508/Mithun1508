@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mithun
 - 👀 Tech | Learning
-👯 I’m looking to collaborate on Flutter Projects
-🤝 I’m looking for Open source Collaborations 
+👯 I’m looking to collaborate on Open Source
+🤝 I’m looking for Full time Opportunities
 🌱 I’m currently learning New Technologies
 💬 Ask me about Application Development
 ⚡ Fun fact I am Totally Amazing
