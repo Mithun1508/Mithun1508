@@ -8,7 +8,7 @@
 Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://media2.giphy.com/media/3o7TKQJMnEKOdTwrWU/giphy.gif?cid=ecf05e47tkzwy53425bvu6rablahlzqqy1u8613642ohxnqs&rid=giphy.gif&ct=g" width="300">
+<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="300">
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
