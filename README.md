@@ -10,7 +10,7 @@
  
  💬 Ask me about Application Development
  
- ⚡ Fun fact I am Totally Amazing
+ 💻 unravel the Mystery behind Programming   
 
 
 <!---
