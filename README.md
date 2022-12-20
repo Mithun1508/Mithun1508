@@ -10,7 +10,7 @@
  
  💬 Ask me about Application Development
  
- 💻 unravel the Mystery behind Programming   
+ 💻  I am very precise and more presentable in expressing My ideas & Process 
 
 
 <!---
