@@ -1,6 +1,6 @@
  👋 Hi, I’m @Mithun
  
- 👀 Tech | Learning | keep on Hustling..!!
+ 👀 Tech | Learning 
  
  👯 I’m looking to collaborate on Open Source
  
