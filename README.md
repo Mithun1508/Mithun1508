@@ -2,7 +2,7 @@
  
  👀 Tech | Learning 
  
- 👯 I’m looking to collaborate on open-source projects on GitHub
+ 👯 I’m looking to collaborate on open-source projects in GitHub
  
  🤝 I’m looking for Full time Opportunities & Connecting with Peers 
  
