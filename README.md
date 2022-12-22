@@ -4,8 +4,6 @@
  
  👯 I’m looking to collaborate on open-source Contributing projects in GitHub 
  
- 🤝 I’m looking for Full time Opportunities & Connecting with Peers 
- 
  🌱 I’m currently learning React-Native, Kubernetes(K8), Jenkins(CI/CD), Ansible, Elasticsearch
  
  💬 Ask me about Application Development
