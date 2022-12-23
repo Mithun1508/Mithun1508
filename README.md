@@ -18,6 +18,7 @@ Full Stack Development:-
 ⚡ Idea on various technology stack for web development
 
 Cloud Infra-Architecture:-
+
 ⚡ Experience working on AWS components such as EC2, S3
 
 ⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases
@@ -27,6 +28,7 @@ Cloud Infra-Architecture:-
 ⚡ knowledge on various cloud concepts and services
 
 Tools & Technologies:-
+
 ⚡ Languages : Python, Java, JavaScript, C, C#, HTML5, CSS3
 
 ⚡ Git, Github
