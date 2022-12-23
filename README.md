@@ -2,7 +2,7 @@
  
  👀 Tech | Learning 
  
- 👯 I’m looking to collaborate on open-source Contributing projects in GitHub 
+ 👯 I’m looking to collaborate on open-source Contributing projects in GitHub and willing to work on cutting edge technologies
  
 
 Full Stack Development:-
@@ -11,7 +11,7 @@ Full Stack Development:-
 
 ⚡ Developing mobile friendly web applications using Bootstrap
 
-⚡ Knowledge in creating application backend in Flask
+⚡ Knowledge in creating application backend in Java Spring Boot and MVC.
 
 ⚡ Able to implement common tasks using JQuery
 
@@ -21,25 +21,24 @@ Cloud Infra-Architecture:-
 
 ⚡ Experience working on AWS components such as EC2, S3
 
-⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases
+⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases 
 
 ⚡ Deploying deep learning models on cloud for production
 
-⚡ knowledge on various cloud concepts and services
 
 Tools & Technologies:-
 
-⚡ Languages : Python, Java, JavaScript, C, C#, HTML5, CSS3
+⚡ Languages : Python, Java, Vanilla JS, HTML5, CSS3
 
 ⚡ Git, Github
 
-⚡ MySQL
+⚡ POSTGRE SQL , MongoDB 
 
 ⚡ Notebooks ( Google colabs, kaggle, jupyter )
 
-⚡ Visual studio, Anaconda, Pycharm
+⚡ Visual studio CODE, IntelliJ IDEA
 
-⚡ Web development
+⚡ Application development 
  
  💻  I am very precise and more presentable in Expressing My ideas & Process 
 
