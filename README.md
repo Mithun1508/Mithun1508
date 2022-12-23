@@ -29,6 +29,7 @@ CLOUD INFRA-ARCHITECTURE:-
 TOOLS & TECHNOLOGIES:-
 
   {
+   
    Languages : Python, Java, Vanilla JS,Typescript, HTML5, CSS3
 
     VCS : Git, Github
