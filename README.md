@@ -5,7 +5,8 @@
  👯 I’m looking to collaborate on open-source Contributing projects in GitHub 
  
 
-Full Stack Development
+Full Stack Development:-
+
 ⚡ Building resposive website front end using React
 
 ⚡ Developing mobile friendly web applications using Bootstrap
@@ -16,7 +17,7 @@ Full Stack Development
 
 ⚡ Idea on various technology stack for web development
 
-Cloud Infra-Architecture
+Cloud Infra-Architecture:-
 ⚡ Experience working on AWS components such as EC2, S3
 
 ⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases
@@ -25,7 +26,7 @@ Cloud Infra-Architecture
 
 ⚡ knowledge on various cloud concepts and services
 
-Tools & Technologies
+Tools & Technologies:-
 ⚡ Languages : Python, Java, JavaScript, C, C#, HTML5, CSS3
 
 ⚡ Git, Github
