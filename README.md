@@ -15,7 +15,7 @@ Full Stack Development:-
 
 ⚡ Able to implement common tasks using JQuery
 
-⚡ Idea on various technology stack for web development
+⚡ Implementation on various technology stack for web development
 
 Cloud Infra-Architecture:-
 
@@ -28,7 +28,7 @@ Cloud Infra-Architecture:-
 
 Tools & Technologies:-
 
-⚡ Languages : Python, Java, Vanilla JS, HTML5, CSS3
+⚡ Languages : Python, Java, Vanilla JS,Typescript, HTML5, CSS3
 
 ⚡ Git, Github
 
