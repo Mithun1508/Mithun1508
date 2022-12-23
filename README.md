@@ -40,7 +40,7 @@ Tools & Technologies:-
 
 ⚡ Application development 
  
- 💻  I am very precise and more presentable in Expressing My ideas & Process 
+ 💻  I am very precise and more presentable in Expressing My ideas & Process thinking out of box and getting things done
 
 
 <!---
