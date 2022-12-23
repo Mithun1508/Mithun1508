@@ -11,7 +11,7 @@ Full Stack Development:-
 
 ⚡ Developing mobile friendly web applications using Bootstrap
 
-⚡ Knowledge in creating application backend in Java Spring Boot and MVC.
+⚡ Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
 
 ⚡ Able to implement common tasks using JQuery
 
