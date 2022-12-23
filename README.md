@@ -2,7 +2,7 @@
  
  👀 Tech | Learning 
  
- 👯 I’m looking to collaborate on open-source Contributing projects in GitHub and willing to work on cutting edge technologies
+ 👯 I’m looking to collaborate on open-source as well as Contributing projects On GitHub and willing to work on cutting edge technologies
  
 
 FULL STACK DEVELOPMENT:-
