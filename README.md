@@ -4,9 +4,39 @@
  
  👯 I’m looking to collaborate on open-source Contributing projects in GitHub 
  
- 🌱 I’m currently learning React-Native, Kubernetes(K8), Jenkins(CI/CD), Ansible, Elasticsearch
- 
- 💬 Ask me about Application Development
+
+Full Stack Development
+⚡ Building resposive website front end using React
+
+⚡ Developing mobile friendly web applications using Bootstrap
+
+⚡ Knowledge in creating application backend in Flask
+
+⚡ Able to implement common tasks using JQuery
+
+⚡ Idea on various technology stack for web development
+
+Cloud Infra-Architecture
+⚡ Experience working on AWS components such as EC2, S3
+
+⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases
+
+⚡ Deploying deep learning models on cloud for production
+
+⚡ knowledge on various cloud concepts and services
+
+Tools & Technologies
+⚡ Languages : Python, Java, JavaScript, C, C#, HTML5, CSS3
+
+⚡ Git, Github
+
+⚡ MySQL
+
+⚡ Notebooks ( Google colabs, kaggle, jupyter )
+
+⚡ Visual studio, Anaconda, Pycharm
+
+⚡ Web development
  
  💻  I am very precise and more presentable in Expressing My ideas & Process 
 
