@@ -5,7 +5,7 @@
  👯 I’m looking to collaborate on open-source Contributing projects in GitHub and willing to work on cutting edge technologies
  
 
-Full Stack Development:-
+FULL STACK DEVELOPMENT:-
 
 ⚡ Building resposive website front end using React
 
@@ -17,7 +17,7 @@ Full Stack Development:-
 
 ⚡ Implementation on various technology stack for web development
 
-Cloud Infra-Architecture:-
+CLOUD INFRA-ARCHITECTURE:-
 
 ⚡ Experience working on AWS components such as EC2, S3
 
@@ -26,21 +26,22 @@ Cloud Infra-Architecture:-
 ⚡ Deploying deep learning models on cloud for production
 
 
-Tools & Technologies:-
+TOOLS & TECHNOLOGIES:-
 
-⚡ Languages : Python, Java, Vanilla JS,Typescript, HTML5, CSS3
+  {
+   Languages : Python, Java, Vanilla JS,Typescript, HTML5, CSS3
 
-⚡ Git, Github
+    VCS : Git, Github
 
-⚡ POSTGRE SQL , MongoDB 
+    DATABASES: POSTGRE SQL , MongoDB 
 
-⚡ Notebooks ( Google colabs, kaggle, jupyter )
+     Notebooks :( Google colabs, kaggle, jupyter )
 
-⚡ Visual studio CODE, IntelliJ IDEA
-
-⚡ Application development 
+     IDE :  Visual studio CODE, IntelliJ IDEA
+     
+  }
  
- 💻  I am very precise and more presentable in Expressing My ideas & Process thinking out of box and getting things done
+ 💻  I am very precise and more presentable in Expressing My ideas/Process thinking out of box and getting things done
 
 
 <!---
