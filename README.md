@@ -38,7 +38,7 @@ TOOLS & TECHNOLOGIES:-
 
      Notebooks :( Google colabs, kaggle, jupyter )
 
-     IDE :  Visual studio CODE, IntelliJ IDEA
+     IDE :  Visual studio CODE, IntelliJ IDEA, CodeSandbox, Replit 
    }
    
  
