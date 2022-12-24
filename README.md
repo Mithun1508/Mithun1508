@@ -33,16 +33,16 @@ TOOLS & TECHNOLOGIES:-
    Languages : Python, Java, Vanilla JS,Typescript, HTML5, CSS3
    
    UI FrameWork: BootStrap, Material UI 
-
-    VCS : Git, Github
-
-    DATABASES: POSTGRE SQL , MongoDB 
-
-     Notebooks :( Google colabs, kaggle, jupyter )
-     
-     continuous integration and continuous delivery (CI/CD) pipelines : Jenkins
-
-     IDE :  Visual studio CODE, IntelliJ IDEA, CodeSandbox, Replit 
+   
+   VCS : Git, Github
+   
+   DATABASES: POSTGRE SQL , MongoDB 
+   
+   Notebooks :( Google colabs, kaggle, jupyter )
+   
+   continuous integration and continuous delivery (CI/CD) pipelines : Jenkins
+   
+   IDE :  Visual studio CODE, IntelliJ IDEA, CodeSandbox, Replit 
    }
    
  
