@@ -43,6 +43,7 @@ TOOLS & TECHNOLOGIES:-
    continuous integration and continuous delivery (CI/CD) pipelines : Jenkins
    
    IDE :  Visual studio CODE, IntelliJ IDEA, CodeSandbox, Replit 
+   
    }
    
  
