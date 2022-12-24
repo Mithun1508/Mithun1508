@@ -1,6 +1,6 @@
- 👋 Hi, I’m @Mithun
+ 👋 Hello World! This is Mithun.
  
- 👀 Tech | Learning 
+ 👀 I'm Passionate Everything about Computer Science/Technologies 
  
  👯 I’m looking to collaborate on open-source as well as Contributing projects On GitHub and willing to work on cutting edge technologies
  
