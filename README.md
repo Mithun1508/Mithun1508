@@ -24,6 +24,7 @@ CLOUD INFRA-ARCHITECTURE:-
 ⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases 
 
 ⚡ Deploying deep learning models on cloud for production
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3556442b-471f-4d6b-bc6a-5fc430890262/deploy-status)](https://app.netlify.com/sites/user-react-form/deploys)
 
 
 TOOLS & TECHNOLOGIES:-
