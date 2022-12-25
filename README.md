@@ -41,7 +41,7 @@ TOOLS & TECHNOLOGIES:-
    
    Languages : Python, Java, Vanilla JS,Typescript, HTML5, CSS3
    
-   UI FrameWork & Tools: BootStrap,Tailwind CSS, Material UI, eslint, Babel, prettier, webpack 
+   Other UI FrameWork & Tools: BootStrap,Tailwind CSS, Material UI, eslint, Babel, prettier, webpack 
    
    VCS : Git, Github
    
