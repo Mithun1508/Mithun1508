@@ -1,6 +1,6 @@
 <iframe src="https://giphy.com/embed/QXygWUGl3iwUCIe692" width="480" height="182" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QXygWUGl3iwUCIe692">via GIPHY</a></p>
  
- 👋 Hello World! This is Mithun.
+ 👋 Hello World! This is Mithun
  
  👀 I'm Passionate Everything about Computer Science/Technologies 
  
