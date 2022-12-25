@@ -30,7 +30,6 @@ CLOUD INFRA-ARCHITECTURE:-
 ⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases 
 
 ⚡ Deploying static websites on cloud for production 
-[![Test Coverage](https://cdn.hackernoon.com/images/2hVuiN1gfbdO9OXUxjCttPNETq73-2022-08-08T22:19:48.257Z-cl6lbgrz6002p0as65v8sfgja)](https://drakulavich.github.io/spring-boot-realworld-example-app/)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Mithun1508/basic-react-form/tree/circleci-project-setup.svg?style=svg&circle-token=50d1108250c6d801e9ae6ae1a4de598068a02a72)](https://dl.circleci.com/status-badge/redirect/gh/Mithun1508/basic-react-form/tree/circleci-project-setup)
 
 
