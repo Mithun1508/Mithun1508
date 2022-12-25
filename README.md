@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/QXygWUGl3iwUCIe692./myScreen.gif" alt="My Project GIF" width="500" height="600">
+
  
  👋 Hello World! This is Mithun
  
