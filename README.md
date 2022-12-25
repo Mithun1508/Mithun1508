@@ -31,7 +31,7 @@ CLOUD INFRA-ARCHITECTURE:-
 
 ⚡ Deploying static websites on cloud for production 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Mithun1508/basic-react-form/tree/circleci-project-setup.svg?style=svg&circle-token=50d1108250c6d801e9ae6ae1a4de598068a02a72)](https://dl.circleci.com/status-badge/redirect/gh/Mithun1508/basic-react-form/tree/circleci-project-setup)
-
+![Gitlab code coverage](https://img.shields.io/gitlab/pipeline-coverage/basic-react-form?branch=master&style=plastic)
 
 
 TOOLS & TECHNOLOGIES:-
