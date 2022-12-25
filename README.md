@@ -55,7 +55,7 @@ TOOLS & TECHNOLOGIES:-
    
    Web Servers : Apache HTTP, Tomcat, Nginx
    
-   Project Manageemnt Tools : Jira, confluence, Atlassian
+   Project Management Tools : Jira, confluence, Atlassian
    
   
    }
