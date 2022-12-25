@@ -24,6 +24,7 @@ CLOUD INFRA-ARCHITECTURE:-
 ⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases 
 
 ⚡ Deploying deep learning models on cloud for production 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
 
 
 
@@ -45,7 +46,7 @@ TOOLS & TECHNOLOGIES:-
    
    IDE :  Visual studio CODE, IntelliJ IDEA, CodeSandbox, Replit 
    
-    API'S: RESTFUL API, Discord API
+  
    }
    
  
@@ -189,4 +190,4 @@ You can click the Preview link to take a look at your changes.
 [![gists-readme](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=d68a6e2a168b4cbdc956bc8735e5f917&owner=true)](https://gist.github.com/Yizack)
 [![gists-readme](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=3c454d9e2801ab43b335ae9c88c1f423+&owner=true)](https://gist.github.com/Yizack)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
+
