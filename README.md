@@ -183,9 +183,10 @@ You can click the Preview link to take a look at your changes.
 
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+                 [![Gmail Badge]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](your-linkedin-url)
                  [![Codechef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.hackerrank.com/mithuntran)
-                 [![Linkedin Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](your-linkedin-url)
-                  [![Linkedin Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-linkedin-url)
+                 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](your-linkedin-url)
+                  [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-linkedin-url)
 
 [![gists-readme](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=c91de84cf8992173974a70b449ec89a0&owner=true)](https://gist.github.com/Yizack)
 [![gists-readme](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=41354e79af4157bc8e1c9e8aebcd0842&owner=true)](https://gist.github.com/Yizack)
