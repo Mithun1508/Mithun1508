@@ -41,7 +41,7 @@ TOOLS & TECHNOLOGIES:-
    
    Languages : Python, Java, Vanilla JS,Typescript, HTML5, CSS3
    
-   UI FrameWork: BootStrap, Material UI 
+   UI FrameWork: BootStrap,Tailwind CSS, Material UI 
    
    VCS : Git, Github
    
