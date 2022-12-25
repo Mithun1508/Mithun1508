@@ -6,6 +6,8 @@
  
  👯 I’m looking to collaborate on open-source as well as Contributing projects On GitHub and willing to work on cutting edge technologies
  
+ 
+ 💻  I am very precise and more presentable in Expressing My ideas/Process thinking out of box and getting things done
 
 FULL STACK DEVELOPMENT:-
 
@@ -50,9 +52,7 @@ TOOLS & TECHNOLOGIES:-
    
   
    }
-   
- 
- 💻  I am very precise and more presentable in Expressing My ideas/Process thinking out of box and getting things done
+  
 
 
 <!---
