@@ -177,6 +177,6 @@ You can click the Preview link to take a look at your changes.
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://gist.github.com/Mithun1508api?user={Mithun1508}
+https://activity-graph.herokuapp.com/graph?username={Mithun1508}&theme=minimal
 
 
