@@ -49,9 +49,11 @@ TOOLS & TECHNOLOGIES:-
    
    Notebooks :( Google colabs, kaggle, jupyter )
    
-   continuous integration and continuous delivery (CI/CD) pipelines : Jenkins, JEST
+   continuous integration and continuous delivery (CI/CD) pipelines & Build Tools : Jenkins,Maven,Gradle, JEST
    
    IDE :  Visual studio CODE, IntelliJ IDEA, CodeSandbox, Replit 
+   
+   Web Servers : Apache HTTP, Tomcat, Nginx
    
   
    }
