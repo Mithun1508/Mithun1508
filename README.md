@@ -2,6 +2,10 @@
  
  👀 I'm Passionate Everything about Computer Science/Technologies 
  
+ - :seedling: Exploring Technical Content Writing.
+  
+ - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ 
  👯 I’m looking to collaborate on open-source as well as Contributing projects On GitHub and willing to work on cutting edge technologies
  
 
@@ -177,6 +181,10 @@ You can click the Preview link to take a look at your changes.
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 [![gists-readme](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=c91de84cf8992173974a70b449ec89a0&owner=true)](https://gist.github.com/Yizack)
 [![gists-readme](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=41354e79af4157bc8e1c9e8aebcd0842&owner=true)](https://gist.github.com/Yizack)
