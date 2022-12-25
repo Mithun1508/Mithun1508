@@ -2,9 +2,7 @@
  
  👀 I'm Passionate Everything about Computer Science/Technologies 
  
- - :seedling: Exploring Technical Content Writing.
-  
- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  seedling:  In my free time, I solve problems on GeeksforGeeks and read tech articles.Exploring Technical Content Writing.
  
  👯 I’m looking to collaborate on open-source as well as Contributing projects On GitHub and willing to work on cutting edge technologies
  
