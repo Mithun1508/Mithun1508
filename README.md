@@ -31,12 +31,7 @@ CLOUD INFRA-ARCHITECTURE:-
 
 ⚡ Deploying static websites on cloud for production 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Mithun1508/basic-react-form/tree/circleci-project-setup.svg?style=svg&circle-token=50d1108250c6d801e9ae6ae1a4de598068a02a72)](https://dl.circleci.com/status-badge/redirect/gh/Mithun1508/basic-react-form/tree/circleci-project-setup)
-https://img.shields.io/badge/Code%20Coverage-83%25-success?style=flat
 
-Company.Example: Line Rate = 83%, Branch Rate = 69%, Complexity = 671, ✔
-Company.Example.Library: Line Rate = 27%, Branch Rate = 100%, Complexity = 11, ❌
-Summary: Line Rate = 83% (1212 / 1460), Branch Rate = 69% (262 / 378), Complexity = 682, ✔
-Minimum allowed line rate is 50%
 
 
 TOOLS & TECHNOLOGIES:-
