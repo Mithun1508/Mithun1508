@@ -177,7 +177,6 @@ You can click the Preview link to take a look at your changes.
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://gist.github.com/Mithun1508/api/pin?user={Mithun1508}&id={59a4d340ae1af906d6c5e3c21062ad98}&owner=true
 
 
-.
+
