@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/QXygWUGl3iwUCIe692" width="480" height="182" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QXygWUGl3iwUCIe692">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/QXygWUGl3iwUCIe692" width="900">
  
  👋 Hello World! This is Mithun
  
