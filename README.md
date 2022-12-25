@@ -4,7 +4,7 @@
  
  👀 I'm Passionate Everything about Computer Science/Technologies 
  
-  :seedling:  In my free time, I solve problems on GeeksforGeeks and read tech articles and Contributing to Web Development 
+  :seedling:  In my free time, I solve problems on GeeksforGeeks,reading tech articles and Contributing to Web Development 
  
  👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
  
