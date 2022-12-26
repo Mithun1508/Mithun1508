@@ -55,6 +55,8 @@ TOOLS & TECHNOLOGIES:-
    Web Servers : Apache HTTP, Tomcat, Nginx
    
    Project Management Tools : Jira, confluence, Atlassian
+   
+   Virtual Machines, Containerization & OS: Docker,Kubernetes,Oracle VirtualBox Hyper-V
     
    }
   
