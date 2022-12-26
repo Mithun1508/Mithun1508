@@ -56,7 +56,7 @@ TOOLS & TECHNOLOGIES:-
    
    Project Management Tools : Jira, confluence, Atlassian
    
-   Virtual Machines, Containerization & OS: Docker,Kubernetes,Oracle VirtualBox Hyper-V
+   Virtual Machines, Containerization & OS: Docker,Kubernetes,Oracle VirtualBox Hyper-V,ubuntu 
     
    }
   
