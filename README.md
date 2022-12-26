@@ -34,34 +34,6 @@ CLOUD INFRA-ARCHITECTURE:-
 ![Gitlab code coverage](https://img.shields.io/gitlab/pipeline-coverage/basic-react-form?branch=master&style=plastic)
 
 
-TOOLS & TECHNOLOGIES:-
-
-  {
-   
-   Languages : Python, Java, Vanilla JS,Typescript, HTML5, CSS3
-   
-   Other UI FrameWork & Tools: BootStrap,Tailwind CSS, Material UI, eslint, Babel, prettier, webpack 
-   
-   VCS : Git, Github
-   
-   DATABASES: POSTGRE SQL , MongoDB 
-   
-   Notebooks :( Google colabs, kaggle, jupyter )
-   
-   continuous integration and continuous delivery (CI/CD) pipelines Devops & Build Tools : GitLab,Maven,Gradle, JEST
-   
-   IDE :  Visual studio CODE, IntelliJ IDEA, CodeSandbox, Replit 
-   
-   Web Servers : Apache HTTP, Tomcat, Nginx
-   
-   Project Management Tools : Jira, confluence, Atlassian
-   
-   Virtual Machines, Containerization & OS: Docker,Kubernetes,Oracle VirtualBox Hyper-V,ubuntu 
-    
-   }
-  
-
-
 <!---
 Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
