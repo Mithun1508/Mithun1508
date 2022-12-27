@@ -171,5 +171,5 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5
 
 
 
-[![gists-readme](https://gists-readme.Mithun1508.com/api?user=Mithun1508&n=20&title=Mithun+Gists)](https://gist.github.com/Mithun1508)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
