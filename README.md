@@ -30,7 +30,7 @@ CLOUD INFRA-ARCHITECTURE:-
 ⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases 
 
 ⚡ Deploying static websites on cloud for production 
-[![Jekyll site CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/jekyll-docker.yml)
+[![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 
 <!---
 Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
