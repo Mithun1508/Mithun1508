@@ -31,6 +31,7 @@ CLOUD INFRA-ARCHITECTURE:-
 
 ⚡ Deploying static websites on cloud for production 
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
+[![Build Status](https://github.com/Mithun1508/Mithun1508/actions/workflows/mainN.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/mainN.yml)
 
 <!---
 Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
