@@ -11,9 +11,9 @@
  
  💻  I am very precise and more presentable in Expressing My ideas/Process thinking out of box and getting things done
 
-FULL STACK DEVELOPMENT:-
+# FULL STACK DEVELOPMENT:-
 
-⚡ Building resposive website front end using React
+⚡ Building responsive website front end using React
 
 ⚡ Developing mobile friendly web applications using Bootstrap
 
@@ -23,7 +23,7 @@ FULL STACK DEVELOPMENT:-
 
 ⚡ Implementation on various technology stack for web development
 
-CLOUD INFRA-ARCHITECTURE:-
+# CLOUD INFRA-ARCHITECTURE:-
 
 ⚡ Experience working on AWS components such as EC2, S3
 
