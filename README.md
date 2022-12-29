@@ -169,7 +169,5 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5
                  [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mithuntran)
                   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Mith1508/)
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.1.0
 
 
