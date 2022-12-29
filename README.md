@@ -170,4 +170,4 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5
                   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Mith1508/)
 
 
-![snake gif](https://github.com/Mithun1508/Mithun1508/blob/output/github-contribution-grid-snake.gif)
+
