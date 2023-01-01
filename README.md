@@ -11,7 +11,7 @@
  
  💻  I am very precise and more presentable in Expressing My ideas/Process thinking out of box and getting things done
 
-# software Development:-
+# software development:-
 
 ⚡ Building responsive website front end using React
 
