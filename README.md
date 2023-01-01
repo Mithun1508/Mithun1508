@@ -30,6 +30,7 @@
 ⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases 
 
 ⚡ Deploying static websites on cloud for production 
+
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 [![Build Status](https://github.com/Mithun1508/Mithun1508/actions/workflows/mainN.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/mainN.yml)
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
