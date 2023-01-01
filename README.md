@@ -2,7 +2,7 @@
  
  👋 Hello World! This is Mithun
  
- 🔭 I am passionate Everything about Computer science/Technologies. Exploring the world of 0's and 1's
+ 🔭 I am passionate Everything About Computer science/Software Development. Fast Learner and Quickly Adapt to New  Technologies 
  
  📫  In my free time, I solve problems on GeeksforGeeks,reading tech articles and Contributing to Web Development 
  
