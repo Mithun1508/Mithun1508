@@ -23,7 +23,7 @@
 
 ⚡ Implementation on various technology stack for web development
 
-# CLOUD INFRA-ARCHITECTURE:-
+# cloud infra-Architecture:-
 
 ⚡ Experience working on AWS components such as EC2, S3
 
