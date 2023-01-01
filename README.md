@@ -2,7 +2,7 @@
  
  👋 Hello World! This is Mithun
  
- 🔭 I am passionate Everything About Computer science/Software Development. Fast Learner and Quickly Adapt to New  Tech. 
+ 🔭 I am passionate Everything About Computer science/Technologies. Fast Learner and Quickly Adapt to New Languages. 
  
  📫  In my free time, I solve problems on GeeksforGeeks,reading tech articles and Contributing to Web Development 
  
