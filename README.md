@@ -11,7 +11,7 @@
  
  💻  I am very precise and more presentable in Expressing My ideas/Process thinking out of box and getting things done
 
-# S/w Development:-
+# software Development:-
 
 ⚡ Building responsive website front end using React
 
@@ -23,7 +23,7 @@
 
 ⚡ Implementation on various technology stack for web development
 
-# Cloud INFRA-ARCHITECTURE:-
+# CLOUD INFRA-ARCHITECTURE:-
 
 ⚡ Experience working on AWS components such as EC2, S3
 
