@@ -102,9 +102,6 @@ You can click the Preview link to take a look at your changes.
 <figure><embed src="https://wakatime.com/share/@7ea96c3a-4602-4383-aec1-3014bf4396ea/6e2c2b38-a677-4b83-a585-6abace0ba333.svg"></embed></figure>
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mithun1508.Mithun1508)
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/Mithun1508/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508)](https://git.io/streak-stats)
