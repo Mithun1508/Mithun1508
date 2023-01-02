@@ -4,7 +4,7 @@
  
  🔭 I am passionate Everything About Computer science/programming. Fast Learner and Quickly Adapt to New Tech. 
  
- 📫  In my free time, I solve problems on GeeksforGeeks,reading tech articles and Contributing to Web Development 
+ 📫  In my free time, I solve problems on GeeksforGeeks,reading tech blogs and Contributing to Web Development 
  
  👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
  
