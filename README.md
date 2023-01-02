@@ -13,7 +13,7 @@
 
 # software development:-
 
-⚡ Building responsive website front end using React
+⚡ Building Responsive website front end using React
 
 ⚡ Developing mobile friendly web applications using Bootstrap
 
