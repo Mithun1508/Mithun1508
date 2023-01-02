@@ -4,7 +4,7 @@
  
  🔭 I am passionate Everything About Computer science/programming. Fast Learner and Quickly Adapt to New Tech. 
  
- 📫  In my free time, I solve problems on GeeksforGeeks,reading tech blogs and Contributing to Web Development 
+ 📫  In my free time, I solve problems on GeeksforGeeks,reading Tech blogs and Contributing to Web Development 
  
  👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
  
@@ -161,7 +161,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# You can reach out to me: 
+# My Competitive Coding Profiles:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-5a1735156)
                  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mithuntran@gmail.com)
                  [![Codechef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mithun_77)
