@@ -1,6 +1,6 @@
 
  
- 👋 Hello World! This is Mithun
+ 👋 Hello World! This is Mithun.
  
  🔭 I am passionate Everything About Computer science/programming. Fast Learner and Quickly Adapt to New Tech. 
  
