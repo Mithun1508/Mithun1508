@@ -167,7 +167,7 @@ You can click the Preview link to take a look at your changes.
                  [![Codechef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mithun_77)
                  [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mithuntran)
                   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Mith1508/)
-# Fun Fact ~@..!..!!!
+# Programming Fact ~@..!..!!!
      
 ![New code pass](https://user-images.githubusercontent.com/93249038/210291256-5e9145c2-4d80-402e-bae1-8dac78ff31d6.jpg)
 
