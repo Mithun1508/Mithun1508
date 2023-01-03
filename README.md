@@ -168,7 +168,7 @@ You can click the Preview link to take a look at your changes.
                  [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mithuntran)
                   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Mith1508/)
 
-      # Fun fact ..!!
-
+     
+# Fun Fact ~..!@!!
 ![code pass test ](https://user-images.githubusercontent.com/93249038/210289777-80e211f4-b535-4976-9c2b-522033686d0a.jpg)
 
