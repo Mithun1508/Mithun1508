@@ -159,7 +159,10 @@ You can click the Preview link to take a look at your changes.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
 
-
+# OS USED 
+![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
 
 # Competitive Coding and Social Media Profiles
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-5a1735156)
