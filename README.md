@@ -174,8 +174,7 @@ You can click the Preview link to take a look at your changes.
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&style=flat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)
 ![FireBase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&style=flat)
-![AWS](https://img.shields.io/badge/Amazon AWS-232F3E.svg?logo=amazon-aws&style=flat&logoColor=white)
-	![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)
+ ![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)
  
  # API'S Explored :
  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=flat&logoColor=white)
