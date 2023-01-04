@@ -106,8 +106,6 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508)](https://git.io/streak-stats)
 
-# Langauges and Frameworks
-
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -164,6 +162,22 @@ You can click the Preview link to take a look at your changes.
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
 
+# EDITOR / IDE
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visual-studio&style=flat)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&style=flat&logoColor=white)
+
+# Server/Cloud/SaaS
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&style=flat&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)
+![FireBase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&style=flat)
+![AWS](https://img.shields.io/badge/Amazon AWS-232F3E.svg?logo=amazon-aws&style=flat&logoColor=white)
+	![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)
+ 
+ # API'S EXPLORED :
+ ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=flat&logoColor=white)
+ ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white)
+
 # Competitive Coding and Social Media Profiles
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-5a1735156)
                  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mithuntran@gmail.com)
@@ -171,7 +185,8 @@ You can click the Preview link to take a look at your changes.
                  [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mithuntran)
                   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Mith1508/)
 
-     
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)   
+
 ![New code pass](https://user-images.githubusercontent.com/93249038/210291256-5e9145c2-4d80-402e-bae1-8dac78ff31d6.jpg)
 
 
