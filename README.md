@@ -106,7 +106,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508)](https://git.io/streak-stats)
 
-# LANGUAGES/ FRAMEWORKS:
+# Languages/ Frameworks:
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -159,12 +159,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# OS USED 
+# OS Used
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
 
-# EDITOR / IDE
+# Editor / IDE
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visual-studio&style=flat)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&style=flat&logoColor=white)
@@ -176,7 +176,7 @@ You can click the Preview link to take a look at your changes.
 ![AWS](https://img.shields.io/badge/Amazon AWS-232F3E.svg?logo=amazon-aws&style=flat&logoColor=white)
 	![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)
  
- # API'S EXPLORED :
+ # API'S Explored :
  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=flat&logoColor=white)
  ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white)
 
