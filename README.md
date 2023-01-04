@@ -106,6 +106,8 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508)](https://git.io/streak-stats)
 
+# LANGUAGES/ FRAMEWORKS:
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -155,7 +157,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # OS USED 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
