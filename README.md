@@ -189,5 +189,5 @@ You can click the Preview link to take a look at your changes.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)   
 
-
+[![Frameworks & Library](https://github-readme-activity-graph.cyclic.app/graph?username={Mithun1508}&theme=minimal)](https://www.apple.com/macos/catalina-preview)
 
