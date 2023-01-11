@@ -189,8 +189,6 @@ You can click the Preview link to take a look at your changes.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)   
 
- https://gists-readme.yizack.com/api?user={Mithun1508}
-
 ![New code pass](https://user-images.githubusercontent.com/93249038/210291256-5e9145c2-4d80-402e-bae1-8dac78ff31d6.jpg)
 
 
