@@ -191,4 +191,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user={Mithun1508}&id={gist_id}&owner=true)](https://www.apple.com/macos/catalina-preview)
 [![Frameworks & Library](https://gists-readme.yizack.com/api?user={Mithun1508})](https://www.apple.com/macos/catalina-preview)
-[![Frameworks & Library](https://github-readme-activity-graph.cyclic.app/graph?username={Mithun1508}&theme=minimal)](https://www.apple.com/macos/catalina-preview)
+
