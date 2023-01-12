@@ -189,6 +189,7 @@ You can click the Preview link to take a look at your changes.
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)   
 
 [![Frameworks & Library](https://gists-readme.yizack.com/api?user={Mithun1508})](https://www.apple.com/macos/catalina-preview)
+# Low-Level Design (Object-Oriented Design) in Java Adapted to Singleton Pattern
 
 [![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=6f649b1c961c48e6921fee2a485eefee&owner=true)](https://www.apple.com/macos/catalina-preview)
 [![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=99b4ea92189dc0775859bee4ac0f98e5&owner=true)](https://www.apple.com/macos/catalina-preview)
