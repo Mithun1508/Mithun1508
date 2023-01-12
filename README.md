@@ -195,5 +195,18 @@ You can click the Preview link to take a look at your changes.
 [![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=c91de84cf8992173974a70b449ec89a0&owner=true)](https://www.apple.com/macos/catalina-preview)
 [![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=59a4d340ae1af906d6c5e3c21062ad98&owner=true)](https://www.apple.com/macos/catalina-preview)
 [![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=41354e79af4157bc8e1c9e8aebcd0842&owner=true)](https://www.apple.com/macos/catalina-preview)
-
+[![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=e6e507c05a46d9d5487946990b5087f2+&owner=true
+)](https://www.apple.com/macos/catalina-preview)
+[![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=c55fdaa78e170a119a44e6efd499ada4+&owner=true
+)](https://www.apple.com/macos/catalina-preview)
+[![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=bd1df340a448448e538ad2e38f5ac1a9&owner=true
+)](https://www.apple.com/macos/catalina-preview)
+[![Frameworks & Library](
+https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=3c454d9e2801ab43b335ae9c88c1f423&owner=true
+)](https://www.apple.com/macos/catalina-preview)
+[![Frameworks & Library](
+https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=d68a6e2a168b4cbdc956bc8735e5f917+&owner=true
+)](https://www.apple.com/macos/catalina-preview)
+[![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=bb5ccb6c64cd351248e93ecb5bbe0b1a+&owner=true)](https://www.apple.com/macos/catalina-preview)
+[![Frameworks & Library](https://gists-readme.yizack.com/api/pin?user=Mithun1508&id=a022ced1ded0d5bdb0e88d26ccd85d01+&owner=true)](https://www.apple.com/macos/catalina-preview)
 
