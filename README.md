@@ -41,9 +41,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900">
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2> 🚀 &nbsp;Tools and Technologies</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
