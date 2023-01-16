@@ -36,9 +36,8 @@
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&layout=compact)](https://github.com/yushi1007)
+ 
 Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
