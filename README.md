@@ -191,7 +191,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Frameworks & Library](https://gists-readme.yizack.com/api?user={Mithun1508})](https://www.apple.com/macos/catalina-preview)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 
 
 # My Low-Level Design (Object-Oriented Design)
