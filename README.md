@@ -190,6 +190,10 @@ You can click the Preview link to take a look at your changes.
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)   
 
 [![Frameworks & Library](https://gists-readme.yizack.com/api?user={Mithun1508})](https://www.apple.com/macos/catalina-preview)
+
+![Snake animation](https://github.com/{{your_username}}/{{Mithun1508}}/blob/output/github-contribution-grid-snake.svg)
+
+
 # My Low-Level Design (Object-Oriented Design)
 Coded in Java Adapted Singleton Pattern
 
