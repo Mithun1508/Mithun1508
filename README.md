@@ -35,8 +35,10 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&layout=compact)](https://github.com/yushi1007)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mithun1508&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&langs_count=5&theme=tokyonight)]()
+
  
 Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
