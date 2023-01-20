@@ -36,9 +36,6 @@
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mithun1508&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&langs_count=5&theme=tokyonight)]()
-
  
 
 --->
