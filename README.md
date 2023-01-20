@@ -40,8 +40,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&langs_count=5&theme=tokyonight)]()
 
  
-Mithun1508/Mithun1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900">
 
