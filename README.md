@@ -12,7 +12,7 @@
 
 # Software development
 
-👯 Building Responsive website front end using React
+👨‍💻 Building Responsive website front end using React
 
 🤔 Developing mobile friendly web applications using Bootstrap
 
@@ -26,9 +26,9 @@
 
 🎮  Experience working on AWS components such as EC2, S3
 
-⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases 
+📝 Hosting and maintaining websites on virtual machine instances along with integration of databases 
 
- 🔭 Deploying static websites on cloud for production 
+ 📄 Deploying static websites on cloud for production 
 
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
