@@ -8,28 +8,27 @@
  
  👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
  
- 
  💻  I am very precise and more presentable in Expressing My ideas/thought Process thinking out of box and getting tasks done
 
 # Software development
 
-⚡ Building Responsive website front end using React
+👯 Building Responsive website front end using React
 
-⚡ Developing mobile friendly web applications using Bootstrap
+🤔 Developing mobile friendly web applications using Bootstrap
 
-⚡ Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
+✨  Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
 
 ⚡ Able to implement common tasks using JQuery
 
-⚡ Implementation on various technology stack for web development
+💬 Implementation on various technology stack for web development
 
 # Cloud infra-Architecture
 
-⚡ Experience working on AWS components such as EC2, S3
+🎮  Experience working on AWS components such as EC2, S3
 
 ⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases 
 
-⚡ Deploying static websites on cloud for production 
+ 🔭 Deploying static websites on cloud for production 
 
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
