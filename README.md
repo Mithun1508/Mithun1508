@@ -33,6 +33,7 @@
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
+[![Deploy static content to Pages](https://github.com/Mithun1508/React-Icon-system-/actions/workflows/static.yml/badge.svg)](https://github.com/Mithun1508/React-Icon-system-/actions/workflows/static.yml)
 
 
  
