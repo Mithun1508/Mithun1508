@@ -8,7 +8,7 @@
  
  👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
  
- 💻  I am very precise and more presentable in Expressing My ideas/thought Process thinking out of box and getting tasks done
+ 💻  I am very precise and more presentable in Expressing My ideas/thought Process doing Static Code Analysis thinking out of box and getting tasks done
 
 # Software development
 
