@@ -32,7 +32,7 @@
 
 🎮  Experience working on AWS components such as EC2, S3
 
-📝 Hosting and maintaining websites on virtual machine instances along with integration of databases 
+📝 Hosting and maintaining websites on virtual machine (used Oracle Virtual box and VMware ESXi hypervisor) instances along with integration of databases 
 
 📄 Deploying static websites on cloud for production 
  
