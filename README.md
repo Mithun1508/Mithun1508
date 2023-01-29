@@ -20,6 +20,8 @@
 
 ⚡ Able to implement common tasks using JQuery
 
+📝 Wrote unit Test cases for code coverage used JUnit Test Driven Development and Jest for JavaScript libraries
+
 💬 Proficient Using Dev Tools Such as Git Bash
   
 📫  Worked with Data Analytics ELK / Prometheus 
