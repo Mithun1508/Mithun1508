@@ -38,6 +38,7 @@
  
 💻 worked with container management platforms such as Kubernetes/Docker.
 
+💬 Online Debugger/Compiler: GDB 
  
 
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
