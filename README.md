@@ -24,7 +24,7 @@
 
 💬 Proficient Using Dev Tools Such as Git Bash
   
-📫  Worked with Data Analytics ELK / Prometheus 
+📫  Worked with Data Analytics ELK / Grafana
  
 📄  Used Tomcat / Nginx as a web server for starting the Application locally. 
 
