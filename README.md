@@ -10,7 +10,7 @@
  
  💻  I am very precise and more presentable in Expressing My ideas/thought Process.
  
-  ✨  I used to work on New codebases with Minimal supervision Handling all the Exceptions in the Production code Static Code Analysis thinking out of box and doing lot of Analysis getting tasks done.
+  ✨  I used to work on New codebases with Minimal supervision Handling all the Exceptions in the Production code Static Code Analysis thinking out of box and getting tasks done.
 
 # Software development
 
