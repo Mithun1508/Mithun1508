@@ -22,7 +22,7 @@
 
 ⚡ Able to implement common tasks using JQuery
 
-📝 Wrote unit Test cases for code coverage used JUnit Test Driven Development and Jest for JavaScript libraries
+📝 Wrote unit Test cases for code coverage used JUnit Test Driven Development and Jest for Native js and RTL for React Libraries
 
 💬 Proficient Using Dev Tools Such as Git Bash
   
