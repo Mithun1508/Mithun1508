@@ -8,7 +8,9 @@
  
  👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
  
- 💻  I am very precise and more presentable in Expressing My ideas/thought Process. I used to work on New codebases Setting up the Clean code Architecture and doing Static Code Analysis thinking out of box  by doing a lot of Analysis come up with the Alternatives and getting tasks done
+ 💻  I am very precise and more presentable in Expressing My ideas/thought Process.
+ 
+  ✨  I used to work on New codebases with Minimal supervision Handling all the Exceptions in the Production code Static Code Analysis thinking out of box and doing lot of Analysis getting tasks done.
 
 # Software development
 
