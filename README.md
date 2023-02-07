@@ -8,10 +8,20 @@
  
  👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
  
- 💻  I am very precise and more presentable in Expressing My ideas/thought Process.
+ 💻  I am very precise and more presentable in Expressing My ideas/thought Process thinking out of box and getting tasks done..
  
-  ✨  I used to work on New codebases with Minimal supervision Handling all the Exceptions in the Production code Static Code Analysis thinking out of box and getting tasks done.
-
+  ✨ I used to work on New codebases with Minimal KT /Supervision.
+  
+  🎮  I’ve had opportunity to solve 100+ bugs till now, of various kinds — kernel crashes and hardware malfunction to system and network wide issues.
+       I'd prefer   following strategies for debugging the Production code :
+  
+  ⚡ Doing Static Code Analysis ⚡OpenGrok, LXR - Good web interface for code navigationCscope & Ctags - Good for command-line + vim traversing of code,
+  ⚡  Adding debugging output ⚡Adding programmatic assertions ⚡using Build custom Tools ⚡ Memory debuggers and profilers
+  ⚡ Netbeans IDEs built-in code navigator ⚡ using Loggers to Log4j, Log4C  and ELK stack ⚡ Source Level Debuggers/Compiler: GDB
+  ⚡ Remote debugging from the server 11) Putting breakpoint going line by line gives detail knowledge about the code when I deal with legacy Code.
+  ⚡ tracker issues are identified and prioritised using bug triage 
+  ⚡  Metrics,traces,Logfiles through Application performance monitoring
+  
 # Software development
 
 👨‍💻 Building Responsive website front end using React
@@ -39,8 +49,6 @@
 📄 Deploying static websites on cloud for production 
  
 💻 worked with container management platforms such as Kubernetes/Docker.
-
-💬 Online Debugger/Compiler: GDB
 
 👯  Project Management Tools: JIRA/Confluence
  
