@@ -225,7 +225,7 @@
 
 [![Frameworks & Library](https://gists-readme.yizack.com/api?user={Mithun1508})](https://www.apple.com/macos/catalina-preview)
 
-Here is My updated Resume 
+# Here is My updated Resume 
 [MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)
 
 
