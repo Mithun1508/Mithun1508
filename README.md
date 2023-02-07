@@ -4,17 +4,17 @@
  
  🔭 I am passionate Everything About Computer science/programming. Fast Learner and Quickly Adapt to New Tech. 
  
- 📫  In my free time, I solve problems on GeeksforGeeks, Reading Tech Articles/blogs and Contributing to Web Development
+ 📫  In my free time, I solve problems on GeeksforGeeks, Reading Tech Articles/blogs and Contributing to Web Development also I made an Android apps on Playstore
  
  👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
  
- 💻  I am very precise and more presentable in Expressing My ideas/thought Process thinking out of box and getting tasks done..
+ 💻  Soft skills: problem solving . I will make Myself more presentable Expressing My intuition/ thought Process thinking out of box trying to solve problems in an efficient way and getting tasks done 
  
-  ✨ I used to work on New codebases with Minimal KT /Supervision.
+ ✨ I used to work on New codebases with Minimal KT /Supervision.
   
-  🎮  I’ve had opportunity to solve 100+ bugs till now, of various kinds — kernel crashes and hardware malfunction to system and network wide issues.
+ 🎮  I’ve had opportunity to solve 100+ bugs till now, of various kinds — kernel crashes and hardware malfunction to system and network wide issues.
        
-  📝  I'd prefer My following strategies for debugging the Production code :
+ 📝  I'd prefer these following strategies for debugging the Production code :
   
    ⚡ Doing Static Code Analysis   ⚡OpenGrok, LXR - Good web interface for code navigationCscope & Ctags - Good for command-line + vim traversing of code,
   ⚡  Adding debugging output   ⚡Adding programmatic assertions    ⚡using Build custom Tools     ⚡ Memory debuggers and profilers
