@@ -20,8 +20,8 @@
   ⚡  Adding debugging output   ⚡Adding programmatic assertions    ⚡using Build custom Tools     ⚡ Memory debuggers and profilers
    ⚡ Netbeans IDEs built-in code navigator       ⚡ using Loggers to Log4j, Log4C  and ELK stack         ⚡ Source Level Debuggers/Compiler: GDB
   ⚡ Remote debugging from the server     ⚡ Putting breakpoint going line by line gives detail knowledge about the code when I deal with legacy Code.
-  ⚡ tracker issues are identified and prioritised using bug triage 
-  ⚡  Metrics,traces,Logfiles through Application performance monitoring
+  ⚡ tracker issues computing and then prioritised using bug triage 
+  ⚡  Metrics,traces,Logfiles through Application performance monitoring ⚡Optimizing Databases BY indexing and performance Tuning 
   
 # Software development
 
