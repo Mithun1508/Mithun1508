@@ -14,7 +14,7 @@
   
  🎮  I’ve had opportunity to solve 100+ bugs till now, of various kinds — kernel crashes and hardware malfunction to system and network wide issues.
        
- 📝  I'd prefer these following strategies for debugging the Production code :
+ 📝   Following strategies in Intellij IDEA for debugging the Production code :
   
    ⚡ Doing Static Code Analysis   ⚡OpenGrok, LXR - Good web interface for code navigationCscope & Ctags - Good for command-line + vim traversing of code,
   ⚡  Adding debugging output   ⚡Adding programmatic assertions    ⚡using Build custom Tools     ⚡ Memory debuggers and profilers
