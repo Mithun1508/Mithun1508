@@ -59,7 +59,12 @@
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
 
 
+# Do checkout My portfolio 
+https://earnest-duckanoo-191707.netlify.app/
 
+
+# Here is My updated Resume 
+[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)
  
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900">
 
@@ -225,8 +230,7 @@
 
 [![Frameworks & Library](https://gists-readme.yizack.com/api?user={Mithun1508})](https://www.apple.com/macos/catalina-preview)
 
-# Here is My updated Resume 
-[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)
+
 
 
 
