@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
  👋 Hello World! This is Mithun.
  
  🔭 I am passionate Everything About Computer science/programming. Fast Learner and Quickly Adapt to New Tech. 
