@@ -4,6 +4,24 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
+<h3 align="left">Connect with My User Profile:</h3>
+<p align="left">
+<a href="https://codepen.io/mithun1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mithun1508" height="30" width="40" /></a>
+<a href="https://dev.to/mithun1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mithun1508" height="30" width="40" /></a>
+<a href="https://twitter.com/mithun1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mithun1508" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mithun-5a1735156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithun-5a1735156" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mithun" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mithuntran" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mithun_77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mithun_77" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mithuntran" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mithuntran" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mithun1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mithun1508" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithun1508&show_icons=true&locale=en&layout=compact" alt="mithun1508" /></p>
+
+
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
