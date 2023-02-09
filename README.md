@@ -40,6 +40,15 @@
   
 # Software development
 
+- 👨‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
+
+- 📄 Know about my experiences [[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)]([MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf))
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 👨‍💻 Building Responsive website front end using React
 
 🤔 Developing mobile friendly web applications using Bootstrap
@@ -72,16 +81,6 @@
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
-
-- 📄 Know about my experiences [[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)]([MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf))
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
  
