@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"/>
 </div>
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
@@ -79,9 +81,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
 
-
- 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900">
 
 <h2> 🚀 &nbsp;Tools and Technologies</h2>
 <p align="left">
