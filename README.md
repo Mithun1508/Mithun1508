@@ -90,8 +90,6 @@
 
  🐳  Managed application source code using Git ,Stash,Bitbucket
 
- 🎨  Test automation : Junit,JEST,cypress
-
  💻  Build tool :  Maven, Gradle
  
  📄  Build Management :  Jenkins
@@ -106,7 +104,9 @@
 
  ✨ Application deployments using uDeploy (IBM Urban Code)
 
-  ⛈ Application Monitoring using Grafana,ELK.
+ ⛈ Application Monitoring using Grafana,ELK.
+     
+ 🎉 unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function  
 
 # Cloud infra-Architecture
 
