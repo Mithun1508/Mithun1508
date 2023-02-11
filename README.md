@@ -31,21 +31,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mithun1508/Mithun1508/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Mithun1508/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mithun1508/Mithun1508/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
