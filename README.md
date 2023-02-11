@@ -8,7 +8,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
-<h2 align="left">Hi 👋! This is Mithun ... and I'm a Progarfmmer ..., Interluded from electrical to CS ....</h2>
+<h2 align="left">Hi 👋! This is Mithun ... and I'm a Programmer ..., Interluded from Electrical to CS ....</h2>
 
 
 ###
