@@ -76,22 +76,37 @@
 
  📄 Know about my experiences [[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)]
 
+ 👨‍💻 Building Responsive website front end using React
 
-👨‍💻 Building Responsive website front end using React
+ 🤔 Developing mobile friendly web applications using Bootstrap
 
-🤔 Developing mobile friendly web applications using Bootstrap
+ ✨  Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
 
-✨  Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
+ ⚡ Able to implement common tasks using JQuery
 
-⚡ Able to implement common tasks using JQuery
+ 🚀 Databases worked: Oracle 10G or higher,PostgresSQL,MongoDB,Redis,AmazonRDS
+    
+ 🧩  Experienced in CI/CD implementations
 
-📝 Wrote unit Test cases for code coverage used JUnit Test Driven Development and Jest for Native js and RTL for React Libraries
+ 🐳  Managed application source code using Git ,Stash,Bitbucket
 
-💬 Proficient Using Dev Tools Such as Git Bash
-  
-📫  Worked with Data Analytics ELK / Grafana
+ 🎨  Test automation : Junit,JEST,cypress
+
+ 💻  Build tool :  Maven, Gradle
  
-📄  Used Tomcat / Nginx as a web server for starting the Application locally. 
+ 📄  Build Management :  Jenkins
+ 
+ 📝 Repository Management : Artifactory , Nexus
+ 
+ 👯 Code and Build Quality :Sonar ,VeraCode
+
+ 🎮  Cloud environments like Openshift, Azure, and AWS etc.
+
+ 🎯 Experienced in Apache Tomcat, Weblogic and JBoss Application Server.
+
+ ✨ Application deployments using uDeploy (IBM Urban Code)
+
+  ⛈ Application Monitoring using Grafana,ELK.
 
 # Cloud infra-Architecture
 
