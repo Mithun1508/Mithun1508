@@ -19,7 +19,7 @@
 </div>
 
 ###
-
+## I code with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -62,12 +62,12 @@
        
  📝  Some strategies I opt in Intellij IDEA  to debug the Production code :
   
-   ⚡ Doing Static Code Analysis   ⚡OpenGrok, LXR - Good web interface for code navigationCscope & Ctags - Good for command-line + vim traversing of code,
-  ⚡  Adding debugging output   ⚡Adding programmatic assertions    ⚡using Build custom Tools     ⚡ Memory debuggers and profilers
-   ⚡ Netbeans IDEs built-in code navigator       ⚡ using Loggers to Log4j, Log4C  and ELK stack         ⚡ Source Level Debuggers/Compiler: GDB
-  ⚡ Remote debugging from the server     ⚡ Putting breakpoint going line by line gives detail knowledge about the code when I deal with legacy Code.
-  ⚡ tracker issues computing and then prioritised using bug triage 
-  ⚡  Metrics,traces,Logfiles through Application performance monitoring ⚡Optimizing Databases BY indexing and performance Tuning 
+   ✨ Doing Static Code Analysis  📚 OpenGrok, LXR - Good web interface for code navigationCscope & Ctags - Good for command-line + vim traversing of code,
+   🎯  Adding debugging output   ❄ Adding programmatic assertions    🐳 using Build custom Tools     🎲 Memory debuggers and profilers
+   🌑 Intellij IDEs built-in code navigator       🚀using Loggers to Log4j, Log4C  and ELK stack         📅  Source Level Debuggers/Compiler: GDB
+   ⛈ Remote debugging from the server     🧩 Putting breakpoint going line by line gives detail knowledge about the code when I deal with legacy Code.
+  🎊 tracker issues computing and then prioritised using bug triage 
+  🎉 Metrics,traces,Logfiles through Application performance monitoring 🎨Optimizing Databases BY indexing and performance Tuning 
   
 # Software development
 
