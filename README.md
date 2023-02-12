@@ -8,7 +8,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
-<h2 align="left">Hello World! 👋! This is Mithun ... and I'm a Programmer ..., Interluded from Electrical to CS ....</h2>
+<h2 align="left">Hi there 👋! This is Mithun ... I'm passionate about Software development and Learning New Technologies ..., Interluded from Electrical to CS ....</h2>
 
 
 ###
@@ -49,7 +49,7 @@
 
 
  
- 🔭 I am passionate Everything About Computer science/programming. Fast Learner and Quickly Adapt to New Tech. 
+ 🔭  Fast Learner and Quickly Adapt to New Tech. 
  
  📫  In my free time, I solve problems on GeeksforGeeks, Reading Tech Articles/blogs and Contributing to Web Development also I made an Android apps on Playstore
  
@@ -74,41 +74,41 @@
 
  👨‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
 
- 📄 Know about my experiences [[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)]
+ 📦 Know about my experiences [[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)]
 
- 🎯 Develop code ,integerate code, End-to-end running tests ,write tests write API DOCS,Deploy and release a new version 
+ 📖 Develop code ,integerate code, End-to-end running tests ,write tests write API DOCS,Deploy and release a new version 
  
- 👨‍💻 Building Responsive website front end using React
+ 📝 Building Responsive website front end using React
 
  🤔 Developing mobile friendly web applications using Bootstrap
 
- ✨  Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
+ 🏡  Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
 
- ⚡ Able to implement common tasks using JQuery
+ 🤖  Able to implement common tasks using JQuery
 
  🚀 Databases worked: Oracle 10G or higher,PostgresSQL,MongoDB,Redis,AmazonRDS
     
- 🧩  Experienced in CI/CD implementations
+ ⚙️   Experienced in CI/CD implementations
 
  🐳  Managed application source code using Git ,Stash,Bitbucket
 
- 💻  Build tool :  Maven, Gradle
+ ✍️  Build tool :  Maven, Gradle
  
  📄  Build Management :  Jenkins
  
  📝 Repository Management : Artifactory , Nexus
  
- 👯 Code and Build Quality :Sonar ,VeraCode
+ 🔰 Code and Build Quality :Sonar ,VeraCode
 
  🎮  Cloud environments like Openshift, Azure, and AWS etc.
 
  🎯 Experienced in Apache Tomcat, Weblogic and JBoss Application Server.
 
- ✨ Application deployments using uDeploy (IBM Urban Code)
+ 📣  Application deployments using uDeploy (IBM Urban Code)
 
- ⛈ Application Monitoring using Grafana,ELK.
+ 📜  Application Monitoring using Grafana,ELK.
      
- 🎉 unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function  
+ ⭐ unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function  
 
 # Cloud infra-Architecture
 
@@ -120,7 +120,7 @@
  
 💻 worked with container management platforms such as Kubernetes/Docker.
 
-👯  Project Management Tools: JIRA/Confluence
+📜 Project Management Tools: JIRA/Confluence
  
 
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
