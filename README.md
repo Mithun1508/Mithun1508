@@ -8,9 +8,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
-<h2 align="left">Hi there! This is Mithun I'm passionate everything about Software development and Currently Learning New Technologies. Do Checkout My portfolio at 
-	
-	https://profile.codersrank.io/user/mithun1508....</h2>
+<h2 align="left">Hi there! Checkout My portfolio at https://profile.codersrank.io/user/mithun1508....</h2>
 
 
 ###
