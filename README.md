@@ -81,19 +81,20 @@
     
   # For Debugging Distributed Microservices Application 
   
-    1) Cloud Infrastructure-as-a-Code tools     2)  Centralized Logging
-     
-    3) Serverless Frameworks IaC        4) Local conatainers like Docker and kubernetes(k8)
-     
-    5) Non-Breaking, Non-Intrusive Options     6) Observability into Code
-     
-    7) Autonomous Exception Capture       8)  Debugging Dumpsters
-     
-     9) Application performance management (APM) solutions
-     
-      10) Log Analyzers
-      
-      11) Viewing stack traces of Log files Log4j and global variables during execution, along with individual watch variables.
+   📆 Cloud Infrastructure-as-a-Code tools     📈  Centralized Logging
+ 
+    📦 Serverless Frameworks IaC        📝 Local conatainers like Docker and kubernetes(k8)
+ 
+   😊 Non-Breaking, Non-Intrusive Options     🎉 Observability into Code
+ 
+  🗒️  Autonomous Exception Capture         📄 Debugging Dumpsters
+ 
+ 📝 Application performance management (APM) solutions
+ 
+  🏆 Log Analyzers
+  
+  🧬 Viewing stack traces of Log files Log4j and global variables during execution, along with individual watch variables. 
+
   
 # Software development
 
