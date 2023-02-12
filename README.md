@@ -47,11 +47,7 @@
 
 ###
 
-<script src="https://unpkg.com/@codersrank/work-experience@x.x.x/codersrank-work-experience.min.js"></script>
 
-
-
- 
  🔭  Fast Learner and Quickly Adapt to New Tech 
  
  📫  In my free time, I solve problems on GeeksforGeeks, Reading Tech Articles/blogs and Contributing to Web Development also I made an Android apps on Playstore
