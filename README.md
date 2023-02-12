@@ -47,9 +47,7 @@
 
 ###
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=MithunE&max-items=2&dates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
-/>
+<codersrank-work-experience username="Mithun E"></codersrank-work-experience>
 
 
  
