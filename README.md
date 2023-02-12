@@ -49,7 +49,7 @@
 
 <script src="https://unpkg.com/@codersrank/work-experience@x.x.x/codersrank-work-experience.min.js"></script>
 
-<codersrank-work-experience username="MithunE"></codersrank-work-experience>
+<codersrank-work-experience username="Mithun E"></codersrank-work-experience>
 
 
  
