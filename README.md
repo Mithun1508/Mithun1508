@@ -8,7 +8,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
-<h2 align="left">Hi there 👋! This is Mithun ... I'm passionate about Software development and Learning New Technologies ..., Interluded from Electrical to CS ....</h2>
+<h2 align="left">Hi there 👋! This is Mithun ... I'm passionate about Software development and Currently Learning New Technologies ..., Interluded from Electrical to CS ....</h2>
 
 
 ###
