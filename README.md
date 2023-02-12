@@ -78,6 +78,22 @@
    🔱finding a working version of the code and seeing what changed
     😎 adding extra logging
     ⭐ Looking through the github issues to see if anything matches
+    
+  # For Debugging Distributed Microservices Application 
+  
+    1) Cloud Infrastructure-as-a-Code tools     2)  Centralized Logging
+     
+    3) Serverless Frameworks IaC        4) Local conatainers like Docker and kubernetes(k8)
+     
+    5) Non-Breaking, Non-Intrusive Options     6) Observability into Code
+     
+    7) Autonomous Exception Capture       8)  Debugging Dumpsters
+     
+     9) Application performance management (APM) solutions
+     
+      10) Log Analyzers
+      
+      11) Viewing stack traces of Log files Log4j and global variables during execution, along with individual watch variables.
   
 # Software development
 
