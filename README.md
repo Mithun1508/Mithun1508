@@ -82,8 +82,8 @@
   # For Debugging Distributed Microservices Application 
   
    📆 Cloud Infrastructure-as-a-Code tools     📈  Centralized Logging
- 
-    📦 Serverless Frameworks IaC        📝 Local conatainers like Docker and kubernetes(k8)
+  
+   📦 Serverless Frameworks IaC                📝 Local conatainers like Docker and kubernetes(k8)
  
    😊 Non-Breaking, Non-Intrusive Options     🎉 Observability into Code
  
