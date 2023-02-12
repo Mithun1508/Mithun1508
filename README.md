@@ -47,7 +47,7 @@
 
 ###
 
-<codersrank-timeline type="technologies" username="Mithun E"></codersrank-timeline>
+<codersrank-timeline type="technologies" username="MithunE"></codersrank-timeline>
 
 
  
