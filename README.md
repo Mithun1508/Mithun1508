@@ -67,7 +67,17 @@
    🌑 Intellij IDEs built-in code navigator       🚀using Loggers to Log4j, Log4C  and ELK stack         📅  Source Level Debuggers/Compiler: GDB
    ⛈ Remote debugging from the server     🧩 Putting breakpoint going line by line gives detail knowledge about the code when I deal with legacy Code.
   🎊 tracker issues computing and then prioritised using bug triage 
-  🎉 Metrics,traces,Logfiles through Application performance monitoring 🎨Optimizing Databases BY indexing and performance Tuning 
+  🎉 Metrics,traces,Logfiles through Application performance monitoring 🎨Optimizing Databases BY indexing and performance Tuning
+  👨‍💻  writing program specs.‌‌   🤔  Familiarize Myself with error messages and their probable solutions.‌
+   ⚙️ finding the Root cause of the bug Computing through bug clustering 
+   🐳 using dynamic tool that instruments programs to identify invalid accesses memory leaks
+   🔰  using  debuggers print statements or assertions.   🎯 Instrument program to log information 
+   📛 debuggers (gdb etc)        ✏️ browser developer tools
+    🎲  profilers                   🌟 strace / ltrace
+    ☁️ tcpdump / wireshark core dumps   💭 writing a tiny standalone program to reproduce the bug
+   🔱finding a working version of the code and seeing what changed
+    😎 adding extra logging
+    ⭐ Looking through the github issues to see if anything matches
   
 # Software development
 
