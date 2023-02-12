@@ -51,7 +51,7 @@
 
 
  
- 🔭  Fast Learner and Quickly Adapt to New Tech. 
+ 🔭  Fast Learner and Quickly Adapt to New Tech 
  
  📫  In my free time, I solve problems on GeeksforGeeks, Reading Tech Articles/blogs and Contributing to Web Development also I made an Android apps on Playstore
  
