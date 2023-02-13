@@ -150,25 +150,29 @@
  
  6 Make it easy to get the newest deliverables
  
-  For Continuous Integration Phase:
+ ## For Continuous Integration Phase:
+ 
     Version Control -> Build -> Unit Test -> Deploy -> Auto Test -> Deploy to Production ->Measure + validate and then Production feedback
     
-  For Continuous Delivery& Continuous Deployment Phase: 
+  ## For Continuous Delivery& Continuous Deployment Phase:
+  
         Source -> Build -> Staging -> Production 
 	
-	-> Git Version Control System tool
+   ## Devops Tools Used
+   
+       1 Git Version Control System tool
 	
-       -> Jenkins & Plugins Continuous Integration tool
+       2 Jenkins & Plugins Continuous Integration tool
        
-       -> Selenium Continuous Testing tool
+       3 Selenium Continuous Testing tool
        
-       -> Puppet, Chef, Ansible are Configuration Management and Deployment tools
+       4 Puppet, Chef, Ansible are Configuration Management and Deployment tools
        
-       -> Nagios Continuous Monitoring tool
+       5 Nagios Continuous Monitoring tool
        
-       -> Docker Containerization tool
+       6  Docker Containerization tool
 
-WORKFLOW:
+## DEVOPS WORKFLOW:
 
 DEVELOP CODE ---> MANAGED BY GIT VERSION CONTROL ---> COMMITED TO REPOSITORY---> CODE PULLED BY JENKINS USING GIT PLUGIN AND Build Tools ---->Configuration Management Tools like deploys & provisions test Environment ---->Jenkins releases the code on the test Environment testing tools like Selenium  ----> Once its tested Jenkins sends it for the deployment on production sever --> after deployment continously monitored by Nagios -----> Docker container provides the Testing Environment to test the Build features
   
