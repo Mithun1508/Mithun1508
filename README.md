@@ -151,12 +151,10 @@
  6 Make it easy to get the newest deliverables
  
  ## For Continuous Integration Phase:
- 
-    Version Control -> Build -> Unit Test -> Deploy -> Auto Test -> Deploy to Production ->Measure + validate and then Production feedback
+     Version Control -> Build -> Unit Test -> Deploy -> Auto Test -> Deploy to Production ->Measure + validate and then Production feedback
     
   ## For Continuous Delivery& Continuous Deployment Phase:
-  
-        Source -> Build -> Staging -> Production 
+         Source -> Build -> Staging -> Production 
 	
    ## Devops Tools Used
    
