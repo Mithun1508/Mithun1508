@@ -135,6 +135,43 @@
  📜  Application Monitoring using Grafana,ELK.
      
  ⭐ unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function  
+ 
+ 🚀 DevOps Practices Followed:
+ 
+ 1 Maintained Code Repository
+ 
+ 2 Automate the builds
+ 
+ 3 Perform daily checkin and commits to baseline
+ 
+ 4 Test in clone environment
+ 
+ 5 Keeping the build fast
+ 
+ 6 Make it easy to get the newest deliverables
+ 
+  For Continuous Integration Phase:
+    Version Control -> Build -> Unit Test -> Deploy -> Auto Test -> Deploy to Production ->Measure + validate and then Production feedback
+    
+  For Continuous Delivery& Continuous Deployment Phase: 
+        Source -> Build -> Staging -> Production 
+	
+	-> Git Version Control System tool
+	
+       -> Jenkins & Plugins Continuous Integration tool
+       
+       -> Selenium Continuous Testing tool
+       
+       -> Puppet, Chef, Ansible are Configuration Management and Deployment tools
+       
+       -> Nagios Continuous Monitoring tool
+       
+       -> Docker Containerization tool
+
+WORKFLOW:
+
+DEVELOP CODE ---> MANAGED BY GIT VERSION CONTROL ---> COMMITED TO REPOSITORY---> CODE PULLED BY JENKINS USING GIT PLUGIN AND Build Tools ---->Configuration Management Tools like deploys & provisions test Environment ---->Jenkins releases the code on the test Environment testing tools like Selenium  ----> Once its tested Jenkins sends it for the deployment on production sever --> after deployment continously monitored by Nagios -----> Docker container provides the Testing Environment to test the Build features
+  
 
 # Cloud infra-Architecture
 
@@ -144,7 +181,7 @@
 
 📄 Deploying static websites on cloud for production 
  
-💻 worked with container management platforms such as Kubernetes/Docker.
+💻 worked with container management platforms such as Kubernetes/Docker Ubuntu 12.04 LTS+.
 
 📜 Project Management Tools: JIRA/Confluence
  
