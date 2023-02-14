@@ -18,7 +18,7 @@
 	
         Java Enterprise Edition(JEE) skills: web service design& development, API(REST,Messaging),JSP,API Gateways
 	
-	  Application/web servers:  Apache Tomcat
+	 Application/web servers:  Apache Tomcat
 	
 	 Web services/Tools: RESTFul services,XML, JAX WS, Apache Kafka(pub-sub) 
 	
@@ -26,11 +26,13 @@
 	
 	 Messaging : AWS SQS ,Active MQ
 	
-       Testing tools: Selenium, Junit ,POSTMAN
+        Testing tools: Selenium, Junit ,POSTMAN
 	
 	Build & Automation tools: Maven,jenkins
 	
-	Relational Databases: Oracle/MS SQL or DB2(PLSQL,Database design,Normalisation,Execution plan Analysis, Index creation,Stored procedures,PostGres/MYSQL)
+	Relational Databases: Oracle/MS SQL or DB2
+	(PLSQL,Database design,Normalisation,Execution plan Analysis, 
+	Index creation,Stored procedures,PostGres/MYSQL)
 	
 	source control Tools: Github
 	
