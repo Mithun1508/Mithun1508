@@ -8,7 +8,35 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
-<h2 align="left">Hi there!! This is Mithun. I am a Java developer by profession Checkout My portfolio at https://profile.codersrank.io/user/mithun1508....</h2>
+<h2 align="left">Hi there!! This is Mithun Java developer by profession.Do Checkout My portfolio at https://profile.codersrank.io/user/mithun1508. 
+	TECHNOLOGIES WORKED
+	{
+	Java & Java Frameworks : Spring(core,MVC,boot,batch),strutS,JPA/Hibernate ,Multithreading
+	
+        Java Enterprise Edition(JEE) skills: web service design& development, API(REST,Messaging),JSP,API Gateways
+	
+	  Application/web servers:  Apache Tomcat
+	
+	 Web services/Tools: RESTFul services,XML, JAX WS, Apache Kafka(pub-sub) 
+	
+	 CI/CD : Jenkins,Docker
+	
+	 Messaging : AWS SQS ,Active MQ
+	
+       Testing tools: Selenium, Junit ,POSTMAN
+	
+	Build & Automation tools: Maven,jenkins
+	
+	Relational Databases: Oracle/MS SQL or DB2(PLSQL,Database design,Normalisation,Execution plan Analysis, Index creation,Stored procedures,PostGres/MYSQL)
+	
+	source control Tools: Github
+	
+	Amazon web services: Hands On Exp
+	
+	Other skills: Unix/Shell scripting 
+	
+	}
+	</h2>
 
 
 ###
