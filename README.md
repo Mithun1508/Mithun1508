@@ -8,7 +8,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
-<h2 align="left">Hi there!! This is Mithun Java developer by profession.Do Checkout My portfolio at https://profile.codersrank.io/user/mithun1508. 
+<h2 align="left">Hi there!! This is Mithun Java developer by profession.Do Checkout My portfolio at https://profile.codersrank.io/user/mithun1508.
+	
 	TECHNOLOGIES WORKED
 	
 	{
@@ -37,10 +38,7 @@
 	
 	Other skills: Unix/Shell scripting 
 	
-	}
-	</h2>
-
-
+	}</h2>
 ###
 
 <div align="center">
