@@ -16,7 +16,8 @@
 	
 	Java & Java Frameworks : Spring(core,MVC,boot,batch),strutS,JPA/Hibernate ,Multithreading
 	
-        Java Enterprise Edition(JEE) skills: web service design& development, API(REST,Messaging),JSP,API Gateways
+        Java Enterprise Edition(JEE) skills: web service design& development, 
+	 API(REST,Messaging),JSP,API Gateways
 	
 	 Application/web servers:  Apache Tomcat
 	
