@@ -34,13 +34,22 @@
 	
 	Relational Databases: Oracle/MS SQL or DB2
 	(PLSQL,Database design,Normalisation,Execution plan Analysis, 
-	Index creation,Stored procedures,PostGres/MYSQL)
+	Index creation,Stored procedures,PostGres/MYSQL),SQL Server
 	
-	source control Tools: Github
+	Middleware/ESB
+	
+	ETL/Data Management Services
+	
+	Platform 
+	
+	Data visulaization: power BI
+	
+   source control Tools: Github,Gitlab
 	
 	Amazon web services: Hands On Exp
 	
-	Other skills: Unix/Shell scripting 
+	Other skills: Unix/Shell scripting
+	
 	
 	}
 	
