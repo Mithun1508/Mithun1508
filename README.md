@@ -44,7 +44,7 @@
 	
 	Data visulaization: power BI
 	
-   source control Tools: Github,Gitlab
+        source control Tools: Github
 	
 	Amazon web services: Hands On Exp
 	
