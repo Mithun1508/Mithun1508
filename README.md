@@ -100,15 +100,13 @@
    
    📛 debuggers (gdb etc)        ✏️ browser developer tools
    
-    🎲  profilers                   🌟 strace / ltrace
+    🎲  profilers                   🌟 strace / ltrace     ☁️ tcpdump / wireshark core dumps  
     
-    ☁️ tcpdump / wireshark core dumps   💭 writing a tiny standalone program to reproduce the bug
+    💭 writing a tiny standalone program to reproduce the bug
+  
+  🔱finding a working version of the code and seeing what changed    😎 adding extra logging
     
-   🔱finding a working version of the code and seeing what changed
-   
-    😎 adding extra logging
-    
-    ⭐ Looking through the github issues to see if anything matches
+  ⭐ Looking through the github issues to see if anything matches
     
   # For Debugging Distributed Microservices Application 
   
