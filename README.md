@@ -60,7 +60,7 @@
 
 
 
-###
+### Soft skills and Area of interest 
 
 
  🔭  Fast Learner and Quickly Adapt to New Tech 
@@ -74,24 +74,40 @@
  ✨ I used to work on New codebases with Minimal KT /Supervision.
   
  🎮  I’ve had opportunity to solve 100+ bugs till now, of various kinds — kernel crashes and hardware malfunction to system and network wide issues.
+ 
        
-  ## Some strategies I opt in Intellij IDEA  to debug the Production code :
+  ## Some strategies I opt in Intellij IDEA  to debug the Production code 
   
    ✨ Doing Static Code Analysis  📚 OpenGrok, LXR - Good web interface for code navigationCscope & Ctags - Good for command-line + vim traversing of code,
+   
    🎯  Adding debugging output   ❄ Adding programmatic assertions    🐳 using Build custom Tools     🎲 Memory debuggers and profilers
+   
    🌑 Intellij IDEs built-in code navigator       🚀using Loggers to Log4j, Log4C  and ELK stack         📅  Source Level Debuggers/Compiler: GDB
+   
    ⛈ Remote debugging from the server     🧩 Putting breakpoint going line by line gives detail knowledge about the code when I deal with legacy Code.
+   
   🎊 tracker issues computing and then prioritised using bug triage 
+  
   🎉 Metrics,traces,Logfiles through Application performance monitoring 🎨Optimizing Databases BY indexing and performance Tuning
+  
   👨‍💻  writing program specs.‌‌   🤔  Familiarize Myself with error messages and their probable solutions.‌
+  
    ⚙️ finding the Root cause of the bug Computing through bug clustering 
+   
    🐳 using dynamic tool that instruments programs to identify invalid accesses memory leaks
+   
    🔰  using  debuggers print statements or assertions.   🎯 Instrument program to log information 
+   
    📛 debuggers (gdb etc)        ✏️ browser developer tools
+   
     🎲  profilers                   🌟 strace / ltrace
+    
     ☁️ tcpdump / wireshark core dumps   💭 writing a tiny standalone program to reproduce the bug
+    
    🔱finding a working version of the code and seeing what changed
+   
     😎 adding extra logging
+    
     ⭐ Looking through the github issues to see if anything matches
     
   # For Debugging Distributed Microservices Application 
@@ -150,8 +166,16 @@
  📣  Application deployments using uDeploy (IBM Urban Code)
 
  📜  Application Monitoring using Grafana,ELK.
-     
- ⭐ unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function  
+ 
+ 🧬  Database Design & Implementation: 
+
+✔️ Capture Entities ✔️ Designing ERD ✔️ ERD Cardinalities ✔️One to One Relationships ✔️ One to Many Relationships
+✔️ Many to Many Relationships  ✔️ Defining Constraints ✔️ Database Normalisation ✔️ SQL Implementation
+	
+  ⭐ unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function
+✔️ Unit Testing ✔️ Matchers ✔️Jest ✔️Mocking ✔️Code Coverage ✔️Testing Asynchronous Code ✔️ Jest CLI   ✔️ Selenium, ✔️ Junit ✔️ POSTMAN 
+
+  🎉 Terminal Bash and VIM 
  
  🚀 DevOps Practices Followed:
  
