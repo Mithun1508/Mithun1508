@@ -98,15 +98,11 @@
    
    🔰  using  debuggers print statements or assertions.   🎯 Instrument program to log information 
    
-   📛 debuggers (gdb etc)        ✏️ browser developer tools
-   
-    🎲  profilers                   🌟 strace / ltrace     ☁️ tcpdump / wireshark core dumps  
+   📛 debuggers (gdb etc)        ✏️ browser developer tools     🎲  profilers       🌟 strace / ltrace     ☁️ tcpdump / wireshark core dumps  
     
-    💭 writing a tiny standalone program to reproduce the bug
+  💭 writing a tiny standalone program to reproduce the bug  🔱finding a working version of the code and seeing what changed    
   
-  🔱finding a working version of the code and seeing what changed    😎 adding extra logging
-    
-  ⭐ Looking through the github issues to see if anything matches
+  😎 adding extra logging      ⭐ Looking through the  stackoverflow / github issues to see if anything matches
     
   # For Debugging Distributed Microservices Application 
   
