@@ -132,12 +132,14 @@
  📝 Building Responsive website front end using React
 
  🤔 Developing mobile friendly web applications using Bootstrap
+ 
+ 
 
  🏡  Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
 
  🤖  Able to implement common tasks using JQuery
 
- 🚀 Databases worked: Oracle 10G or higher,PostgresSQL,MongoDB,Redis,AmazonRDS
+ 🚀 Databases worked: Oracle 10G or higher,PostgresSQL,MongoDB,Redis,DynamoDB, AmazonRDS,NOSQL like cassandra
     
  ⚙️   Experienced in CI/CD implementations
 
@@ -169,9 +171,13 @@
   ⭐ unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function
 ✔️ Unit Testing ✔️ Matchers ✔️Jest ✔️Mocking ✔️Code Coverage ✔️Testing Asynchronous Code ✔️ Jest CLI   ✔️ Selenium, ✔️ Junit ✔️ POSTMAN 
 
-  🎉 Terminal Bash and VIM 
+  🐳 Application Integration,Monitoring,Alerting,Identity and Acess Management
+  
+   🎮 Configuration Management using Ansible
+   
+   🎉 Terminal Bash and VIM 
  
- 🚀 DevOps Practices Followed:
+ 🚀 ## DevOps Practices Followed:
  
  1 Maintained Code Repository
  
@@ -219,8 +225,13 @@ DEVELOP CODE ---> MANAGED BY GIT VERSION CONTROL ---> COMMITED TO REPOSITORY--->
 💻 worked with container management platforms such as Kubernetes/Docker Ubuntu 12.04 LTS+.
 
 📜 Project Management Tools: JIRA/Confluence
- 
 
+ 🎯 Worked on Infrastructure as a  coding and AWS Cloud services like compute, Storage ,databases, Networking
+ 
+  Central logging, Monitoring using stacks like ELK 
+ 
+ 
+  
 [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
