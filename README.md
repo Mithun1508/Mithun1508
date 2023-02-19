@@ -59,175 +59,8 @@
   [![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)](https://stackblitz.com/@Mithun1508)
   [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mithun1508)
    [![CodePen](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Mithun1508)
-  
-
-## Checkout My Hackathon Participation and My Projects submitted here : https://devpost.com/software/hacktrack-45hwr9
-
-### Soft skills and Area of interest 
-
-
- 🔭  Fast Learner and Quickly Adapt to New Tech 
- 
- 📫  In my free time, I solve problems on GeeksforGeeks, Reading Tech Articles/blogs and Contributing to Web Development also I made an Android apps on Playstore
- 
- 👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
- 
- 💻  Soft skills: problem solving . I will make Myself more presentable Expressing My intuition/ thought Process thinking out of box trying to solve problems in an efficient way and getting tasks done 
- 
- ✨ I used to work on New codebases with Minimal KT /Supervision.
-  
- 🎮  I’ve had opportunity to solve 100+ bugs till now, of various kinds — kernel crashes and hardware malfunction to system and network wide issues.
- 
-       
-  ## Some strategies I opt in Intellij IDEA  to debug the Production code 
-  
-   ✨ Doing Static Code Analysis  📚 OpenGrok, LXR - Good web interface for code navigationCscope & Ctags - Good for command-line + vim traversing of code,
    
-   🎯  Adding debugging output   ❄ Adding programmatic assertions    🐳 using Build custom Tools     🎲 Memory debuggers and profilers
-   
-   🌑 Intellij IDEs built-in code navigator       🚀using Loggers to Log4j, Log4C  and ELK stack         📅  Source Level Debuggers/Compiler: GDB
-   
-   ⛈ Remote debugging from the server     🧩 Putting breakpoint going line by line gives detail knowledge about the code when I deal with legacy Code.
-   
-  🎊 tracker issues computing and then prioritised using bug triage 
-  
-  🎉 Metrics,traces,Logfiles through Application performance monitoring 🎨Optimizing Databases BY indexing and performance Tuning
-  
-  👨‍💻  writing program specs.‌‌   🤔  Familiarize Myself with error messages and their probable solutions.‌
-  
-   ⚙️ finding the Root cause of the bug Computing through bug clustering 
-   
-   🐳 using dynamic tool that instruments programs to identify invalid accesses memory leaks
-   
-   🔰  using  debuggers print statements or assertions.   🎯 Instrument program to log information 
-   
-   📛 debuggers (gdb etc)        ✏️ browser developer tools     🎲  profilers       🌟 strace / ltrace     ☁️ tcpdump / wireshark core dumps  
-    
-  💭 writing a tiny standalone program to reproduce the bug  🔱finding a working version of the code and seeing what changed    
-  
-  😎 adding extra logging      ⭐ Looking through the  stackoverflow / github issues to see if anything matches
-    
-  # For Debugging Distributed Microservices Application 
-  
-   📆 Cloud Infrastructure-as-a-Code tools     📈  Centralized Logging
-  
-   📦 Serverless Frameworks IaC                📝 Local conatainers like Docker and kubernetes(k8)
- 
-   😊 Non-Breaking, Non-Intrusive Options     🎉 Observability into Code
- 
-  🗒️  Autonomous Exception Capture         📄 Debugging Dumpsters
- 
- 📝 Application performance management (APM) solutions
- 
-  🏆 Log Analyzers
-  
-  🧬 Viewing stack traces of Log files Log4j and global variables during execution, along with individual watch variables. 
-
-  
-# Software development
-
- 👨‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
-
- 📦 Know about my experiences [[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)]
-
- 📖 Develop code ,integerate code, End-to-end running tests ,write tests write API DOCS,Deploy and release a new version 
- 
- 📝 Building Responsive website front end using React
-
- 🤔 Developing mobile friendly web applications using Bootstrap
- 
- 
-
- 🏡  Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
-
- 🤖  Able to implement common tasks using JQuery
-
- 🚀 Databases worked: Oracle 10G or higher,PostgresSQL,MongoDB,Redis,DynamoDB, AmazonRDS,NOSQL like cassandra
-    
- ⚙️   Experienced in CI/CD implementations
-
- 🐳  Managed application source code using Git ,Stash,Bitbucket
-
- ✍️  Build tool :  Maven, Gradle
- 
- 📄  Build Management :  Jenkins
- 
- 📝 Repository Management : Artifactory , Nexus
- 
- 🔰 Code and Build Quality :Sonar ,VeraCode
-
- 🎮  Cloud environments like Openshift, Azure, and AWS etc.
- 
- 📜 API Documentation: Swagger
-
- 🎯 Experienced in Apache Tomcat, Weblogic and JBoss Application Server.
-
- 📣  Application deployments using uDeploy (IBM Urban Code)
-
- 📜  Application Monitoring using Grafana,ELK.
- 
- 🧬  Database Design & Implementation: 
-
-✔️ Capture Entities ✔️ Designing ERD ✔️ ERD Cardinalities ✔️One to One Relationships ✔️ One to Many Relationships
-✔️ Many to Many Relationships  ✔️ Defining Constraints ✔️ Database Normalisation ✔️ SQL Implementation
-	
-  ⭐ unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function
-✔️ Unit Testing ✔️ Matchers ✔️Jest ✔️Mocking ✔️Code Coverage ✔️Testing Asynchronous Code ✔️ Jest CLI   ✔️ Selenium, ✔️ Junit ✔️ POSTMAN 
-
-  🐳 Application Integration,Monitoring,Alerting,Identity and Acess Management
-  
-   🎮 Configuration Management using Ansible
-   
-   🎉 Terminal Bash and VIM 
- 
- 🚀 ## DevOps Practices Followed:
- 
- 1 Maintained Code Repository
- 
- 2 Automate the builds
- 
- 3 Perform daily checkin and commits to baseline
- 
- 4 Test in clone environment
- 
- 5 Keeping the build fast
- 
- 6 Make it easy to get the newest deliverables
- 
- ## For Continuous Integration Phase:  Version Control -> Build -> Unit Test -> Deploy -> Auto Test -> Deploy to Production ->Measure + validate and then Production feedback
-  
-  ## For Continuous Delivery& Continuous Deployment Phase:  Source -> Build -> Staging -> Production 
-	
-## Devops Tools Used
-   
-✔️ Git Version Control System tool   ✔️ Jenkins & Plugins Continuous Integration tool  ✔️ Selenium Continuous Testing tool
-✔️ Puppet, Chef, Ansible are Configuration Management and Deployment tools
-✔️ Nagios Continuous Monitoring tool ✔️  Docker Containerization tool
-
-## DEVOPS WORKFLOW:
-
-DEVELOP CODE ---> MANAGED BY GIT VERSION CONTROL ---> COMMITED TO REPOSITORY---> CODE PULLED BY JENKINS USING GIT PLUGIN AND Build Tools ---->Configuration Management Tools like deploys & provisions test Environment ---->Jenkins releases the code on the test Environment testing tools like Selenium  ----> Once its tested Jenkins sends it for the deployment on production sever --> after deployment continously monitored by Nagios -----> Docker container provides the Testing Environment to test the Build features
-  
-
-# Cloud infra-Architecture
-
-🎮  Experience working on AWS components such as EC2, S3
-
-📝 Hosting and maintaining websites on virtual machine (used Oracle Virtual box and VMware ESXi hypervisor) instances along with integration of databases 
-
-📄 Deploying static websites on cloud for production 
- 
-💻 worked with container management platforms such as Kubernetes/Docker Ubuntu 12.04 LTS+.
-
-📜 Project Management Tools: JIRA/Confluence
-
- 🎯 Worked on Infrastructure as a  coding and AWS Cloud services like compute, Storage ,databases, Networking
- 
-  Central logging, Monitoring using stacks like ELK 
- 
- 
-  
-[![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
+   [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
 
@@ -378,6 +211,173 @@ DEVELOP CODE ---> MANAGED BY GIT VERSION CONTROL ---> COMMITED TO REPOSITORY--->
 
 
 [![Frameworks & Library](https://gists-readme.yizack.com/api?user={Mithun1508})](https://www.apple.com/macos/catalina-preview)
+  
+
+## Checkout My Hackathon Participation and My Projects submitted here : https://devpost.com/software/hacktrack-45hwr9
+
+### Soft skills and Area of interest 
+
+
+ 🔭  Fast Learner and Quickly Adapt to New Tech 
+ 
+ 📫  In my free time, I solve problems on GeeksforGeeks, Reading Tech Articles/blogs and Contributing to Web Development also I made an Android apps on Playstore
+ 
+ 👯 I’m looking to collaborate on open-source projects On GitHub and willing to work on cutting edge technologies
+ 
+ 💻  Soft skills: problem solving . I will make Myself more presentable Expressing My intuition/ thought Process thinking out of box trying to solve problems in an efficient way and getting tasks done 
+ 
+ ✨ I used to work on New codebases with Minimal KT /Supervision.
+  
+ 🎮  I’ve had opportunity to solve 100+ bugs till now, of various kinds — kernel crashes and hardware malfunction to system and network wide issues.
+ 
+       
+  ## Some strategies I opt in Intellij IDEA  to debug the Production code 
+  
+   ✨ Doing Static Code Analysis  📚 OpenGrok, LXR - Good web interface for code navigationCscope & Ctags - Good for command-line + vim traversing of code,
+   
+   🎯  Adding debugging output   ❄ Adding programmatic assertions    🐳 using Build custom Tools     🎲 Memory debuggers and profilers
+   
+   🌑 Intellij IDEs built-in code navigator       🚀using Loggers to Log4j, Log4C  and ELK stack         📅  Source Level Debuggers/Compiler: GDB
+   
+   ⛈ Remote debugging from the server     🧩 Putting breakpoint going line by line gives detail knowledge about the code when I deal with legacy Code.
+   
+  🎊 tracker issues computing and then prioritised using bug triage 
+  
+  🎉 Metrics,traces,Logfiles through Application performance monitoring 🎨Optimizing Databases BY indexing and performance Tuning
+  
+  👨‍💻  writing program specs.‌‌   🤔  Familiarize Myself with error messages and their probable solutions.‌
+  
+   ⚙️ finding the Root cause of the bug Computing through bug clustering 
+   
+   🐳 using dynamic tool that instruments programs to identify invalid accesses memory leaks
+   
+   🔰  using  debuggers print statements or assertions.   🎯 Instrument program to log information 
+   
+   📛 debuggers (gdb etc)        ✏️ browser developer tools     🎲  profilers       🌟 strace / ltrace     ☁️ tcpdump / wireshark core dumps  
+    
+  💭 writing a tiny standalone program to reproduce the bug  🔱finding a working version of the code and seeing what changed    
+  
+  😎 adding extra logging      ⭐ Looking through the  stackoverflow / github issues to see if anything matches
+    
+  # For Debugging Distributed Microservices Application 
+  
+   📆 Cloud Infrastructure-as-a-Code tools     📈  Centralized Logging
+  
+   📦 Serverless Frameworks IaC                📝 Local conatainers like Docker and kubernetes(k8)
+ 
+   😊 Non-Breaking, Non-Intrusive Options     🎉 Observability into Code
+ 
+  🗒️  Autonomous Exception Capture         📄 Debugging Dumpsters
+ 
+ 📝 Application performance management (APM) solutions
+ 
+  🏆 Log Analyzers
+  
+  🧬 Viewing stack traces of Log files Log4j and global variables during execution, along with individual watch variables. 
+
+  
+# Software development
+
+ 👨‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
+
+ 📦 Know about my experiences [[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)]
+
+ 📖 Develop code ,integerate code, End-to-end running tests ,write tests write API DOCS,Deploy and release a new version 
+ 
+ 📝 Building Responsive website front end using React
+
+ 🤔 Developing mobile friendly web applications using Bootstrap
+ 
+ 🏡  Knowledge in creating application backend in Java Spring Boot, Node Js and Express.
+
+ 🤖  Able to implement common tasks using JQuery
+
+ 🚀 Databases worked: Oracle 10G or higher,PostgresSQL,MongoDB,Redis,DynamoDB, AmazonRDS,NOSQL like cassandra
+    
+ ⚙️   Experienced in CI/CD implementations
+
+ 🐳  Managed application source code using Git ,Stash,Bitbucket
+
+ ✍️  Build tool :  Maven, Gradle
+ 
+ 📄  Build Management :  Jenkins
+ 
+ 📝 Repository Management : Artifactory , Nexus
+ 
+ 🔰 Code and Build Quality :Sonar ,VeraCode
+
+ 🎮  Cloud environments like Openshift, Azure, and AWS etc.
+ 
+ 📜 API Documentation: Swagger
+
+ 🎯 Experienced in Apache Tomcat, Weblogic and JBoss Application Server.
+
+ 📣  Application deployments using uDeploy (IBM Urban Code)
+
+ 📜  Application Monitoring using Grafana,ELK.
+ 
+ 🧬  Database Design & Implementation: 
+
+✔️ Capture Entities ✔️ Designing ERD ✔️ ERD Cardinalities ✔️One to One Relationships ✔️ One to Many Relationships
+✔️ Many to Many Relationships  ✔️ Defining Constraints ✔️ Database Normalisation ✔️ SQL Implementation
+	
+  ⭐ unit Test : Used Junit, JEST, cypress Followed a Test Driven development(TDD) Model/pattern wrote a unit test cases to ship a code against a function and writing a code inside the main function trying to implement passes the test case wrote the Test class  for that specific function
+✔️ Unit Testing ✔️ Matchers ✔️Jest ✔️Mocking ✔️Code Coverage ✔️Testing Asynchronous Code ✔️ Jest CLI   ✔️ Selenium, ✔️ Junit ✔️ POSTMAN 
+
+  🐳 Application Integration,Monitoring,Alerting,Identity and Acess Management
+  
+   🎮 Configuration Management using Ansible
+   
+   🎉 Terminal Bash and VIM 
+ 
+ 🚀 ## DevOps Practices Followed:
+ 
+ 1 Maintained Code Repository
+ 
+ 2 Automate the builds
+ 
+ 3 Perform daily checkin and commits to baseline
+ 
+ 4 Test in clone environment
+ 
+ 5 Keeping the build fast
+ 
+ 6 Make it easy to get the newest deliverables
+ 
+ ## For Continuous Integration Phase:  Version Control -> Build -> Unit Test -> Deploy -> Auto Test -> Deploy to Production ->Measure + validate and then Production feedback
+  
+  ## For Continuous Delivery& Continuous Deployment Phase:  Source -> Build -> Staging -> Production 
+	
+## Devops Tools Used
+   
+✔️ Git Version Control System tool   ✔️ Jenkins & Plugins Continuous Integration tool  ✔️ Selenium Continuous Testing tool
+✔️ Puppet, Chef, Ansible are Configuration Management and Deployment tools
+✔️ Nagios Continuous Monitoring tool ✔️  Docker Containerization tool
+
+## DEVOPS WORKFLOW:
+
+DEVELOP CODE ---> MANAGED BY GIT VERSION CONTROL ---> COMMITED TO REPOSITORY---> CODE PULLED BY JENKINS USING GIT PLUGIN AND Build Tools ---->Configuration Management Tools like deploys & provisions test Environment ---->Jenkins releases the code on the test Environment testing tools like Selenium  ----> Once its tested Jenkins sends it for the deployment on production sever --> after deployment continously monitored by Nagios -----> Docker container provides the Testing Environment to test the Build features
+  
+
+# Cloud infra-Architecture
+
+🎮  Experience working on AWS components such as EC2, S3
+
+📝 Hosting and maintaining websites on virtual machine (used Oracle Virtual box and VMware ESXi hypervisor) instances along with integration of databases 
+
+📄 Deploying static websites on cloud for production 
+ 
+💻 worked with container management platforms such as Kubernetes/Docker Ubuntu 12.04 LTS+.
+
+📜 Project Management Tools: JIRA/Confluence
+
+ 🎯 Worked on Infrastructure as a  coding and AWS Cloud services like compute, Storage ,databases, Networking
+ 
+  Central logging, Monitoring using stacks like ELK 
+ 
+ 
+  
+
 
 
 
