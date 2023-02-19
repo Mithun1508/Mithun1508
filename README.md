@@ -280,8 +280,6 @@
 
  👨‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
 
- 📦 Know about my experiences [[MyUpdatedResume2022 (1) (1) (1).pdf](https://github.com/Mithun1508/Mithun1508/files/10673793/MyUpdatedResume2022.1.1.1.pdf)]
-
  📖 Develop code ,integerate code, End-to-end running tests ,write tests write API DOCS,Deploy and release a new version 
  
  📝 Building Responsive website front end using React
