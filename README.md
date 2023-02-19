@@ -200,17 +200,9 @@
 	
 ## Devops Tools Used
    
-       1 Git Version Control System tool
-	
-       2 Jenkins & Plugins Continuous Integration tool
-       
-       3 Selenium Continuous Testing tool
-       
-       4 Puppet, Chef, Ansible are Configuration Management and Deployment tools
-       
-       5 Nagios Continuous Monitoring tool
-       
-       6  Docker Containerization tool
+✔️ Git Version Control System tool   ✔️ Jenkins & Plugins Continuous Integration tool  ✔️ Selenium Continuous Testing tool
+✔️ Puppet, Chef, Ansible are Configuration Management and Deployment tools
+✔️ Nagios Continuous Monitoring tool ✔️  Docker Containerization tool
 
 ## DEVOPS WORKFLOW:
 
