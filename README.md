@@ -330,19 +330,11 @@
    
    🎉 Terminal Bash and VIM 
  
- 🚀 ## DevOps Practices Followed:
+ 🚀 DevOps Practices Followed:
  
- 1 Maintained Code Repository
- 
- 2 Automate the builds
- 
- 3 Perform daily checkin and commits to baseline
- 
- 4 Test in clone environment
- 
- 5 Keeping the build fast
- 
- 6 Make it easy to get the newest deliverables
+  ✔️ Maintained Code Repository  ✔️  Automate the builds   ✔️ Perform daily checkin and commits to baseline
+  ✔️ Test in clone environment  ✔️  Keeping the build fast
+   ✔️ Make it easy to get the newest deliverables
  
  ## For Continuous Integration Phase:  Version Control -> Build -> Unit Test -> Deploy -> Auto Test -> Deploy to Production ->Measure + validate and then Production feedback
   
