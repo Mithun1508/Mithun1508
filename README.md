@@ -8,7 +8,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
-<h2 align="left">Hi there!! This is Mithun Java developer by profession  1) Writing codes -> 2) Applying Logic -> 3) Debugging Logical and Syntax Errors Exception handling in codebases  4) code compilation .Do Checkout My portfolio at https://profile.codersrank.io/user/mithun1508.</h2>
+<h2 align="left">Hi there!! This is Mithun Java developer by profession  1) Writing codes -> 2) Applying Logic -> 3) Debugging Logical and Syntax Errors Exception handling in codebases  4) code compilation .
+	Do Checkout My portfolio at https://profile.codersrank.io/user/mithun1508.</h2>
 
 	
 <div align="center">
