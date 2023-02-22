@@ -51,6 +51,7 @@
  [![Leetcode Badge](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mithuntran/) 
  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mithuntran)
   [![CodePen](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)](https://www.topcoder.com/members/mithune)
+  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Mithun1508)
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20698323/mithun?tab=profile)
   [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mithun1508)
   [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Mithun1508)
@@ -60,10 +61,14 @@
   [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mithun1508)
    [![CodePen](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Mithun1508)
   [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/Mithun1508)
+   [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fccec926b4a-a620-47f9-910c-462c98df49f1)
    
    [![CI](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml/badge.svg)](https://github.com/Mithun1508/Mithun1508/actions/workflows/blank.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46a48bbf-2187-4b9b-9596-dc98c7913bc3/deploy-status)](https://app.netlify.com/sites/lighthearted-dragon-9a218d/deploys)
 [![Running Code Coverage](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml/badge.svg)](https://github.com/Mithun1508/basic-react-form/actions/workflows/codecov.yml)
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+	![GitHub issues](https://img.shields.io/github/issues/username/repo)
+	![GitHub](https://img.shields.io/github/license/username/repo)
 
 
 <h2> 🚀 &nbsp;Tools and Technologies</h2>
