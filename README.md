@@ -47,11 +47,12 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-![Snake animation](https://github.com/Mithun1508/Mithun1508/blob/output/github-contribution-grid-snake.svg)
+
 
 [![An image of @mithun1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithun1508)](https://holopin.io/@mithun1508)
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+	![Snake animation](https://github.com/Mithun1508/Mithun1508/blob/output/github-contribution-grid-snake.svg)
 
 	
 # Competitive Coding and Social Media Profile Links
