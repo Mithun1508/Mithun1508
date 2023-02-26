@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"/>
 	<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
-	 <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </div>
 
 
