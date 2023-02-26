@@ -43,6 +43,7 @@
 
 [![An image of @mithun1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithun1508)](https://holopin.io/@mithun1508)
 
+![Snake animation](https://github.com/Mithun1508/Mithun1508/blob/output/github-contribution-grid-snake.svg)
 	
 # Competitive Coding and Social Media Profile Links
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-5a1735156)
