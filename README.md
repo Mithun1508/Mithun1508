@@ -42,7 +42,7 @@
 </div>
 
 [![An image of @mithun1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithun1508)](https://holopin.io/@mithun1508)
-	[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mithun1508 &bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+	[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mithun1508 &bg_color=d1ffe7&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 	
 # Competitive Coding and Social Media Profile Links
