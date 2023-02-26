@@ -3,7 +3,9 @@
 	<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
 </div>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
@@ -43,7 +45,7 @@
 
 [![An image of @mithun1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithun1508)](https://holopin.io/@mithun1508)
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mithun1508/Mithun1508/blob/output/github-contribution-grid-snake.svg)
 	
 # Competitive Coding and Social Media Profile Links
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-5a1735156)
