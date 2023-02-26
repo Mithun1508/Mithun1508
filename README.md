@@ -12,9 +12,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
-<h2 align="left">Hi there!! This is Mithun Java developer by profession  1) Writing codes -> 2) Applying Logic -> 3) Debugging Logical and Syntax Errors Exception handling in codebases  4) code compilation .
-
-	
+<h2 align="left">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Mithun1508" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Mithun1508" height="150" alt="languages graph"  />
