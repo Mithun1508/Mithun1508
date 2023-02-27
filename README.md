@@ -85,7 +85,7 @@
 	![GitHub](https://img.shields.io/github/license/username/repo)
 
 
-<h2> 🚀 &nbsp;Tools and Technologies</h2>
+<h2> 🚀 &nbsp;Technologies</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  width="45" height="45"/>
@@ -139,6 +139,13 @@
 	
                                                                                                                 
                                                                                                                 
+</p>
+	
+	<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
 <figure><embed src="https://wakatime.com/share/@7ea96c3a-4602-4383-aec1-3014bf4396ea/6e2c2b38-a677-4b83-a585-6abace0ba333.svg"></embed></figure>
