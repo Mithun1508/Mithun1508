@@ -138,6 +138,19 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+ ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
+ ![Gitpod](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)![Gitpod](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+ ![Gitpod](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Gitpod](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Gitpod](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Gitpod](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+)
+![Apache JMeter](https://a11ybadges.com/badge?logo=apachejmeter)
+![Apache Kafka](https://a11ybadges.com/badge?logo=apachekafka)
+![RabbitMQ](https://a11ybadges.com/badge?logo=rabbitmq)
+![Puppet](https://a11ybadges.com/badge?logo=puppet)
+![Dynatrace](https://a11ybadges.com/badge?logo=dynatrace)
 
 
 <figure><embed src="https://wakatime.com/share/@7ea96c3a-4602-4383-aec1-3014bf4396ea/6e2c2b38-a677-4b83-a585-6abace0ba333.svg"></embed></figure>
