@@ -211,6 +211,9 @@
 ![RabbitMQ](https://a11ybadges.com/badge?logo=rabbitmq)
 ![Puppet](https://a11ybadges.com/badge?logo=puppet)
 ![Dynatrace](https://a11ybadges.com/badge?logo=dynatrace)
+![Coderwall](https://a11ybadges.com/badge?logo=coderwall)
+![CodeFactor](https://a11ybadges.com/badge?logo=codefactor)
+
 
 
 
