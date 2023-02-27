@@ -148,7 +148,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508)](https://git.io/streak-stats)
 
-# Languages and Frameworks
+# Frameworks and Libraries ♎ 
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
