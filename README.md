@@ -6,7 +6,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"/>
 </div>
+
 ![kroppa-digital](https://user-images.githubusercontent.com/93249038/222101295-d808c033-7318-4080-99bb-e6a8ef02f8e5.gif)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
 
