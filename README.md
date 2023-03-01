@@ -1,10 +1,11 @@
 
 ![Screenshot 2023-02-26 065442](https://user-images.githubusercontent.com/93249038/221388747-28ac3de7-7cdc-43ad-b59c-c1f5072674f0.png)
 
+![kroppa-digital](https://user-images.githubusercontent.com/93249038/222101295-d808c033-7318-4080-99bb-e6a8ef02f8e5.gif)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"/>
-	<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+	
 </div>
 
 
