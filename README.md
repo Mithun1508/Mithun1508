@@ -7,7 +7,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"/>
 </div>
 
-![kroppa-digital](https://user-images.githubusercontent.com/93249038/222101295-d808c033-7318-4080-99bb-e6a8ef02f8e5.gif)
+
+![screenshot_149bb0ae-6db9-4eb4-b1e3-d892cacf2051](https://user-images.githubusercontent.com/93249038/222103011-7b1d4e2a-2f77-4995-92a4-e2e87bb80e95.gif)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
 
