@@ -410,8 +410,7 @@ DEVELOP CODE ---> MANAGED BY GIT VERSION CONTROL ---> COMMITED TO REPOSITORY--->
  
   Central logging, Monitoring using stacks like ELK
   
-
-  
+# I make myself more presentable and precise in expressing My ideas and thought process Got IELTS (English Proficiency Test) Band Score - 6.0 (Overall) Competent user 23/40 Raw score
 
 
 
