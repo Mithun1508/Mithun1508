@@ -41,10 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
 </div>
 
-	
-![Screenshot 2023-02-26 073439](https://user-images.githubusercontent.com/93249038/221388460-5a785357-3087-4810-a5f3-7b86cebe0f1a.png)
-	
-![1](https://user-images.githubusercontent.com/93249038/221389761-88c01f74-2cf6-4339-ad87-b5ee3524ec55.gif)
+
 
 ###
 	
