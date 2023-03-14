@@ -374,6 +374,8 @@
   ✔️ Maintained Code Repository  ✔️  Automate the builds   ✔️ Perform daily checkin and commits to baseline
   ✔️ Test in clone environment  ✔️  Keeping the build fast
    ✔️ Make it easy to get the newest deliverables
+   
+   🔰 The DevOps Repository Manager: JFrog Artifactory Manager Do checkout My Enterprise Trial Environment  Checkout Mine at 'https://mithun1508.jfrog.io/ui/user_profile'.
  
  ## For Continuous Integration Phase:  Version Control -> Build -> Unit Test -> Deploy -> Auto Test -> Deploy to Production ->Measure + validate and then Production feedback
   
