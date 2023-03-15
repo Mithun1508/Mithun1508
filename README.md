@@ -419,7 +419,7 @@ checkout Mine 'https://app.runforesight.com/settings/profile/Mithun1508'
   ## ChecKout My Computational Problem skills at "https://projecteuler.net/Mithun1508"
  ## I make myself more presentable and precise in expressing My ideas and thought process Got IELTS (English Proficiency Test) Band Score - 6.0 (Overall) Competent user 23/40 Raw score
 
-<iframe src="https://github.com/sponsors/Mithun1508/button" title="Sponsor Mithun1508" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 
 
 
