@@ -390,6 +390,14 @@
 ## DEVOPS WORKFLOW:
 
 DEVELOP CODE ---> MANAGED BY GIT VERSION CONTROL ---> COMMITED TO REPOSITORY---> CODE PULLED BY JENKINS USING GIT PLUGIN AND Build Tools ---->Configuration Management Tools like deploys & provisions test Environment ---->Jenkins releases the code on the test Environment testing tools like Selenium  ----> Once its tested Jenkins sends it for the deployment on production sever --> after deployment continously monitored by Nagios -----> Docker container provides the Testing Environment to test the Build features
+
+
+Debugging Tests Smartly. Group tests, test suites along with their logs, and more to understand why even the most complex integration test failed.
+
+Identified CI stages and jobs with the highest failure rates, to know where I should focus for debugging and troubleshooting.
+
+checkout Mine 'https://app.runforesight.com/settings/profile/Mithun1508'
+
   
 
 # Cloud infra-Architecture
