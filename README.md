@@ -214,9 +214,7 @@
 ![CodeFactor](https://a11ybadges.com/badge?logo=codefactor)
 
 
-
-
-
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
 
 # OS 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
