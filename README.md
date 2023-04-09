@@ -300,6 +300,8 @@
     
   💭 writing a tiny standalone program to reproduce the bug  🔱finding a working version of the code and seeing what changed    
   
+  
+  
   😎 adding extra logging      ⭐ Looking through the  stackoverflow / github issues to see if anything matches
     
   # For Debugging Distributed Microservices Application 
@@ -421,6 +423,163 @@ checkout Mine 'https://app.runforesight.com/settings/profile/Mithun1508'
 
 
 
+
+Here are a few coding standards and guidelines that are considered as industry best practices for writing clean code:
+
+1) Limited use of global variables in  code
+Global variables have their pros and cons and their use largely depends on the complexity and size of your application. If large application then using an un-scoped global variable causes multiple side effects since there’s no way to tell who modified it and when its value changes. This poses a huge problem for apps while unit testing, alpha, and beta testing, debugging or while refactoring code.
+
+2) Standardization of headers for different modules
+Writing code that has good maintainability and readability follows a standard format for writing headers with necessary bits of information such as:
+
+module-name
+
+module creation date
+
+module author
+
+audit trail capturing modification history with author-name
+
+module summary
+
+different functions that are part of the module along with their input and output params
+
+any global variables that are used in the module
+
+3) Writing meaningful variable and function names
+James O Coplien Quote
+Writing meaningful names for variables, constants and functions makes the code self-documenting. It’s best to use a standard naming convention across the entire application/organization. Few best practices for naming conventions for better code readability are:
+
+The names should be simple and read like English. Avoid unnecessary abbreviations that complicate code
+
+Example: rmAddReq versus removeAddressRequest
+
+Use precise and meaningful names that explain the purpose (what it does) and the intent of a variable or function.
+
+Example: deleteAddress, deleteSupplier, createPotentialSupplier
+
+Keep code names consistent basis the action performed by the function. For example, all functions performing a delete action should start with deleteSomething. This cannot be a mix of removeSomething and deleteSomething across the codebase.
+
+Writing meaningful variable and function names
+Use camelCase for variable and function names.
+
+Avoid using digits for variable or function names
+
+Maintain a distinct identifier between local and global variables
+
+Example: localData versus globalData
+
+4) Indentation
+Imagine walking into a hypermarket and everything is in a disarray and it’s very difficult to find what you’re looking for. Well-organized code is very much similar to a well-arranged hypermarket and this can be achieved with indentation. Indentation makes code readable. Indentation is achieved by correctly using white spaces in certain scenarios such as:
+
+A space after each comma between parameters, arguments and function names
+
+Well-spaced nested and conditional statements
+
+Each brace starting on a new line with an exact indentation between the corresponding opening and closing braces.
+
+5) Error Handling and Reporting
+Try-catch(ing) everything! There’s a huge amount of time savings that can happen with robust error handling methods that report failures in a format that makes it easy to debug. You should return exceptions rather than error codes with each exception having sufficient context to detect the root cause of the error and the location within the codebase. You should maintain informative logs that capture the date and time of events while your app is in production. These logs will act as your go-to sheet for tracking and debugging. Also, you can prioritize errors and raise flags basis the criticality and impact of the error.
+
+6) Single Responsibility Principle (SRP)
+SRP states that focus on doing one thing. For programming, this translates that each function should be limited to performing a single task with no more than 4 lines. Each class, on the other hand, should not be more than 100 lines. A limitation like this forces you to think and write powerful code which will do more compared to elongated nested IF statements.
+
+7) Unit Testing with all got
+A lot of initial bugs can be identified with the unit and integration testing done via automation. A huge repository of automated test cases can test for core business functionality, logic and structure of the code. This will result in a much more stable code that is submitted for review. Each aspect of your code that contains logic needs to be unit tested. If this isn’t the case, it’s likely to fail in the future until your customers report it as a bug.
+
+Unit Testing
+8) Separation of Concerns (SoC)
+SoC is in line with the Single Responsibility Principle. The goal here is to ensure that you do not write giant functions that look after multiple “concerns”. SoC is a design principle that states the need for logically breaking a computer program into distinct sections, wherein each section addresses a separate concern. A concern is a bundle of instructions and information that can impact the code in a program. For example, think of a single function that validates n arguments, calculates their results and then prints the results. In this scenario, as per SoC, you can break this function into a primary function that validates the arguments and various helper functions that perform the task of calculating and printing the results. Each programming language provides in-built mechanisms to achieve SoC, as OOP languages can implement SoC by using objects.
+
+9) Test-driven development (TDD)
+Test-driven development is a practice that instructs developers to write code from scratch only if an existing automation test has failed. With a TDD approach, you tend to avoid duplication of code and the final codebase is clean, simple and bug-free. The TDD process is a cyclic approach as follows:
+
+Add a test
+
+Execute the test
+
+If the test fails, write a new code. If not, no need for a new code.
+
+Execute the test again
+
+10) Discourage using the GOTO statement
+Using the GOTO statement is highly discouraged as it breaks the logical flow of the program and makes it unstructured and difficult to trace while debugging.
+
+11) Target minimum length for your functions
+The length of your functions should be as small as possible. Aim to write optimized code where one function performs only one task. This approach makes the code more readable and understandable.
+
+12) Document your code
+This should ideally take care of itself if you follow the previous 9 points. However, you still need to add appropriate comments which make the code more understandable. Well commented code also serves a dual purpose of making the code base searchable while code review, code refactoring or debugging.
+
+How to review clean code that increases productivity
+It’s important to perform code reviews as it improves the overall code quality and makes it more stable. However, a code review needs to be a well-defined activity that is part of a planned process rather than two programmers casually reviewing and debugging code. There are a few programming best practices for code review.
+
+How to review clean code
+1) A well-defined code review process
+The code is pushed for review and taken as a pull request.
+Code is reviewed using GitHub’s pull-request review feature
+Code is modified if necessary until the required number of approvals are obtained
+Once all unit tests are passed, the code is merged
+2) Set of rules governing the code review process
+The code can only be merged with the main branch after a minimum of three approvals.
+Any code rejections must be mandatorily supported with sufficient explanations of why its rejected, else the code review will be disregarded. 
+3) Ask the right questions
+Code review must be done with well-defined goals and clear expectations. You should know what you’re looking for and the parameters you’ll be reviewing such as:
+
+Structure
+Style
+Logic
+Performance
+Test coverage
+Readability
+Maintainability
+Functionality
+4) Test first, Review later
+You need to test code before you submit it for review. This will help save time while reviewing as many errors might get resolved after initial testing and a more stable codebase is committed to the dev environment.
+
+5) Certain Don’ts  need to be wary of while performing Code Review
+Don’t exhaust yourself in code reviews – At a given point of time, you should spend a maximum of 60 minutes or a maximum of 400-500 lines of code per review. Don’t overengineer code reviews – Use the 80/20 rule (Pareto principle) logic while reviewing code, wherein you focus on getting 80% of the results from 20% of your effort.
+
+6) Static code analysis
+A lot of tasks performed while manually reviewing code can be automated using third-party static code analyzers. Static code analysis is the process of identifying errors by running it against standard coding rules in your source code. This is an automated code review process. Static code analysis helps in three ways:
+
+Identifying errors
+Recommending code formatting options basis your organization's best programming practices for indentation and so on.
+Computing software metrics
+Some popular static code analyzers are:
+Coverity
+Cppcheck
+Clang
+Frama-C
+Goanna
+Klocwork Insight
+Lint
+PC-Lint
+Code Refactoring – Best Practices
+Code refactoring is the process of redesigning or restructuring the existing codebase without changing its external intended output. Code refactoring takes place in a controlled manner with small transformations (refactoring) made to a series of elements in the codebase whose cumulative effect is significant. By making small increments you ensure that the system does not break post refactoring and unit tests are conducted after each refactoring.
+
+Code Refactoring – Best Practices
+Few programming best practices and techniques for code refactoring are:
+
+1) Make the code more readable and understandable
+2) Implement DRY (Don’t Repeat Yourself)
+
+Every time you code, check if something similar already exists within your code library and other documentation.
+Use functions and classes in a manner to avoid duplication of code.
+In case the same code exists in multiple places, consolidate the duplicate code.
+3) Remove redundancies in the form of unused core or unwanted comments. This should be deleted.
+4) Optimize your code for performance.
+5) Code refactoring should allow for:
+
+More abstraction
+Splits breaking the code into logical pieces
+Readable names, location, and availability of code for sharing
+Take a deeper look at your GOTO statements, nested IFs, and your choice of queries to request data from the database. Refactoring these will significantly improve performance.
+
+Benefits of Code Refactoring:
+Makes the code more maintainable
+Improves the extensibility of the code
+Lowers the cost of enhancement 
 
 
 
