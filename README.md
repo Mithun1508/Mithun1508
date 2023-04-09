@@ -48,7 +48,7 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
-
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 	
 # Competitive Coding and Social Media Profile Links
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-5a1735156)
