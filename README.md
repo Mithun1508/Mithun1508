@@ -442,9 +442,7 @@ checkout Mine 'https://app.runforesight.com/settings/profile/Mithun1508'
  🎯 Worked on Infrastructure as a  coding and AWS Cloud services like compute, Storage ,databases, Networking
  
   Central logging, Monitoring using stacks like ELK
-  
-  ## ChecKout My Computational Problem skills at "https://projecteuler.net/Mithun1508"
- ## I make myself more presentable and precise in expressing My ideas and thought process Got IELTS (English Proficiency Test) Band Score - 6.0 (Overall) Competent user 23/40 Raw score
+
 
 
 
