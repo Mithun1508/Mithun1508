@@ -278,8 +278,4 @@
 
 
 
-[![Frameworks & Library](https://gists-readme.yizack.com/api?user={Mithun1508})](https://www.apple.com/macos/catalina-preview)
-  
-
-## Checkout My Hackathon Participation and My Projects submitted here : https://devpost.com/software/hacktrack-45hwr9
 
