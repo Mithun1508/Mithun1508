@@ -1,6 +1,6 @@
 
 ![Screenshot 2023-02-26 065442](https://user-images.githubusercontent.com/93249038/221388747-28ac3de7-7cdc-43ad-b59c-c1f5072674f0.png)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 ![screenshot_149bb0ae-6db9-4eb4-b1e3-d892cacf2051](https://user-images.githubusercontent.com/93249038/222103011-7b1d4e2a-2f77-4995-92a4-e2e87bb80e95.gif)
