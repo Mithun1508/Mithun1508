@@ -171,7 +171,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/Mithun1508/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithun1508" alt="mithun1508" /></a> </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508)](https://git.io/streak-stats)
 
 # Frameworks and Libraries ♎ 
 
