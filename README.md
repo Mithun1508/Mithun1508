@@ -238,8 +238,6 @@ shot_149bb0ae-6db9-4eb4-b1e3-d892cacf2051](https://user-images.githubusercontent
 ![Dynatrace](https://a11ybadges.com/badge?logo=dynatrace)
 ![Coderwall](https://a11ybadges.com/badge?logo=coderwall)
 ![CodeFactor](https://a11ybadges.com/badge?logo=codefactor)
-
-
 [![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
 [![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
 
