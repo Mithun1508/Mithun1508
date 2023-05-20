@@ -24,7 +24,7 @@ Hey there! I'm Mithun
 
 3 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 𝒄𝒐𝒏𝒕𝒓𝒐𝒍: Github,Gitlab, Bitbucket
 
-4 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MYSQL, PostgreSQL, MongoDB,Cassandra, Firebase
+4 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MYSQL, PostgreSQL, MongoDB,Cassandra, Firebase and Redis 
 
 5 𝐀𝐏𝐈'𝐬: REST, GraphQL,tRPC
 
