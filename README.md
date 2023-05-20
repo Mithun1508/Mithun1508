@@ -24,7 +24,7 @@
 
 3 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 𝒄𝒐𝒏𝒕𝒓𝒐𝒍: Github,Gitlab, Bitbucket
 
-4 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MYSQL, PostgreSQL, MongoDB,Cassandra, Firebase and Redis 
+4 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MYSQL, PostgreSQL, MongoDB,Cassandra, Firebase 
 
 5 𝐀𝐏𝐈'𝐬: REST, GraphQL,tRPC
 
