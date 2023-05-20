@@ -1,6 +1,6 @@
 
 
-Hey there! I'm Mithun
+## Hey there! I'm Mithun.
 
 👨🏻‍💻  𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
