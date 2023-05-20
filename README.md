@@ -1,6 +1,13 @@
 
 
-![github profile](https://github.com/Mithun1508/Mithun1508/assets/93249038/7b4349f5-7bbb-484d-b3b7-36b011a2221a)
+Hey there! I'm Mithun
+👨🏻‍💻  About Me
+💡  I like to explore new technologies and develop software solutions and quick hacks.  
+🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+✍️  Desire/Objective Goals: Becoming a candidate Master on Code Forces, To Earn a Knight badge on Leetcode, 365 days coding challenge.
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+✉️  You can shoot me an email at mithuntran@gmail.com! I'll try to respond as soon as I can.
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 
 
