@@ -311,8 +311,6 @@ shot_149bb0ae-6db9-4eb4-b1e3-d892cacf2051](https://user-images.githubusercontent
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mithun1508&repo=Mithun1508
 )](https://github.com/anuraghazra/github-readme-stats)
 
