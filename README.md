@@ -2,7 +2,7 @@
 
 Hey there! I'm Mithun
 
-👨🏻‍💻  About Me
+👨🏻‍💻  𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
@@ -16,27 +16,27 @@ Hey there! I'm Mithun
 
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
-💻 My top Skills and Technologies: 
+💻 𝐌𝐲 𝐭𝐨𝐩 𝐒𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 
-1 Programming Languages: Java 1.8, Javascript/Typescript, Python,C#,Go
+1 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Java 1.8, Javascript/Typescript, Python,C#,Go
 
-2 Frameworks: SpringBoot, Express.js, Flask
+2 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: SpringBoot, Express.js, Flask
 
-3 Version control: Github,Gitlab, Bitbucket
+3 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 𝒄𝒐𝒏𝒕𝒓𝒐𝒍: Github,Gitlab, Bitbucket
 
-4 Databases: MYSQL, PostgreSQL, MongoDB,Cassandra, Firebase
+4 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MYSQL, PostgreSQL, MongoDB,Cassandra, Firebase
 
-5 API's: REST, GraphQL,tRPC
+5 𝐀𝐏𝐈'𝐬: REST, GraphQL,tRPC
 
-6 CI/CD Tools : Github Actions,CircleCI,ArgoCD
+6 ℂ𝕀/ℂ𝔻 𝕋𝕠𝕠𝕝𝕤 : Github Actions,CircleCI,ArgoCD
 
-7 Containerization: Docker, Containered,LXC
+7 𝕮𝖔𝖓𝖙𝖆𝖎𝖓𝖊𝖗𝖎𝖟𝖆𝖙𝖎𝖔𝖓: Docker, Containered,LXC
 
-8 Architectural patterns: Microservice,Monolithic, Serverless
+8 🅰🆁🅲🅷🅸🆃🅴🅲🆃🆄🆁🅰🅻 🅿🅰🆃🆃🅴🆁🅽🆂: Microservice,Monolithic, Serverless
 
-9 caching : CDN,Browser cache, Redis, Memcached 
+9 𝖈𝖆𝖈𝖍𝖎𝖓𝖌 : CDN,Browser cache, Redis, Memcached 
 
-10 Testing: Intergration Testing, Unit Testing, Functional Testing 
+10 🅃🄴🅂🅃🄸🄽🄶: Intergration Testing, Unit Testing, Functional Testing 
 
 
 ![screen![Uploading Screenshot 2023-05-18 070335.png…]()
