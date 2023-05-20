@@ -16,6 +16,27 @@ Hey there! I'm Mithun
 
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
+💻 My top Skills and Technologies: 
+
+1 Programming Languages: Java 1.8, Javascript/Typescript, Python,C#,Go
+
+2 Frameworks: SpringBoot, Express.js, Flask
+
+3 Version control: Github,Gitlab, Bitbucket
+
+4 Databases: MYSQL, PostgreSQL, MongoDB,Cassandra, Firebase
+
+5 API's: REST, GraphQL,tRPC
+
+6 CI/CD Tools : Github Actions,CircleCI,ArgoCD
+
+7 Containerization: Docker, Containered,LXC
+
+8 Architectural patterns: Microservice,Monolithic, Serverless
+
+9 caching : CDN,Browser cache, Redis, Memcached 
+
+10 Testing: Intergration Testing, Unit Testing, Functional Testing 
 
 
 ![screen![Uploading Screenshot 2023-05-18 070335.png…]()
