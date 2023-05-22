@@ -6,15 +6,17 @@
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
-🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+🌱  I'm on track Learning Artificial Intelligence, Systems Design, and Cloud Architecture.
 
 ✍️  Desire/Objective Goals: Becoming a candidate Master on Code Forces, To Earn a Knight badge on Leetcode, 365 days coding challenge.
 
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+💬 Ask me about Android, Java, Kotlin, Problem Solving. Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
 ✉️  You can shoot me an email at mithuntran@gmail.com! I'll try to respond as soon as I can.
 
-📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
+📫  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
+
+📝  I write articles on Medium @ https://medium.com/@mithuntran
 
 💻 𝐌𝐲 𝐭𝐨𝐩 𝐒𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 
