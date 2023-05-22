@@ -1,8 +1,10 @@
 
 
-## Hey there! I'm Mithun 👨‍💻
+## Hola, I'm Mithun!  👨‍💻
 
 👨🏻‍💻  𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+
+ I 🎓graduated from Anna university in 2018 with a Bachelor of Technology focused in Electrical and Electronics Engineering.
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
