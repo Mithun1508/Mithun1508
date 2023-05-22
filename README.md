@@ -12,7 +12,7 @@
 
 💬 Ask me about Android, Java, Kotlin, Problem Solving. Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
-✉️  You can shoot me an email at mithuntran@gmail.com! I'll try to respond as soon as I can.
+✉️  You can shoot me an email at mithuntran@gmail.com I'll try to respond as soon as I can.
 
 📫  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
