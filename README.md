@@ -6,7 +6,7 @@
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
-🌱  I'm on track Learning Artificial Intelligence, Systems Design, and Cloud Architecture.
+🌱  I'm on track Learning Artificial Intelligence, Systems Design, and Cloud Architecture. I enjoy working with include Java, ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2023,.
 
 ✍️  Desire/Objective Goals: Becoming a candidate Master on Code Forces, To Earn a Knight badge on Leetcode, 365 days coding challenge.
 
