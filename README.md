@@ -41,9 +41,8 @@
 10 🅃🄴🅂🅃🄸🄽🄶: Intergration Testing, Unit Testing, Functional Testing 
 
 
-![screen![Uploading Screenshot 2023-05-18 070335.png…]()
-shot_149bb0ae-6db9-4eb4-b1e3-d892cacf2051](https://user-images.githubusercontent.com/93249038/222103011-7b1d4e2a-2f77-4995-92a4-e2e87bb80e95.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+![debug java appl](https://github.com/Mithun1508/Mithun1508/assets/93249038/cb818120-afc6-4799-9587-1f7b3e7d79b6)
+
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
