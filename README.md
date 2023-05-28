@@ -278,7 +278,7 @@ shot_149bb0ae-6db9-4eb4-b1e3-d892cacf2051](https://user-images.githubusercontent
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
 
-# Editor / IDE
+# IDE (integrated development environment) - code editor, compiler, debugger, and build tools used
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visual-studio&style=flat)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&style=flat&logoColor=white)
