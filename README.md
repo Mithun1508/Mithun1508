@@ -273,7 +273,7 @@ shot_149bb0ae-6db9-4eb4-b1e3-d892cacf2051](https://user-images.githubusercontent
 ![Coderwall](https://a11ybadges.com/badge?logo=coderwall)
 ![CodeFactor](https://a11ybadges.com/badge?logo=codefactor)
 
-# OPerating Systems  
+# Operating Systems  
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
