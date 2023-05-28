@@ -91,8 +91,7 @@ shot_149bb0ae-6db9-4eb4-b1e3-d892cacf2051](https://user-images.githubusercontent
 
 ![Snake animation](https://github.com/Mithun1508/Mithun1508/blob/output/github-contribution-grid-snake.svg)
 [![An image of @mithun1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithun1508)](https://holopin.io/@mithun1508)
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 	
