@@ -20,7 +20,8 @@
 
 💻 𝐌𝐲 𝐭𝐨𝐩 𝐒𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 
-![languages new ](https://github.com/Mithun1508/Mithun1508/assets/93249038/b6728756-bfe2-449d-a73d-c0daab7022c0)
+
+![lang](https://github.com/Mithun1508/Mithun1508/assets/93249038/628487c2-7c3d-43e2-84e9-6314539e398f)
 
 
 1 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Java 1.8, Javascript/Typescript, Python,C#,Go
