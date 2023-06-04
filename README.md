@@ -43,7 +43,23 @@
 
 9 𝖈𝖆𝖈𝖍𝖎𝖓𝖌 : CDN,Browser cache, Redis, Memcached 
 
-10 🅃🄴🅂🅃🄸🄽🄶: Intergration Testing, Unit Testing, Functional Testing 
+10 🅃🄴🅂🅃🄸🄽🄶: Intergration Testing, Unit Testing, Functional Testing
+
+11 [̲̅T][̲̅e][̲̅x][̲̅t]: Notion AI,chatGPT,wordtune
+
+12 ιɱαɠҽʂ: Midjourny,Evoto
+
+13 ☮✎  ＶＩĎє𝓸  ☜💢:vidyo.ai,Maverick,tavus 
+
+14 ♘☢  尺ⓔŜєⒶ𝐫ⓒＨ  ☮👍: scholarcy, Adept,summate.it
+
+15 ♗🍮  Ｄ𝐄𝓢Ⓘ𝔾Ň  🏆👮: photoRoom, Galileo AI, Uizard 
+
+16  𝓟ʳⓔ𝕤𝕖𝕟𝕥ａŤƗ𝓸Ňｓ: Quinvio, SlidesAI, Prezo
+
+17 ​🇸​​🇵​​🇷​​🇪​​🇦​​🇩​​🇸​​🇭​​🇪​​🇪​​🇹​​🇸​:Ajelix, Botsheets, Sheet+
+
+18 [̲̅p][̲̅r][̲̅o][̲̅d][̲̅u][̲̅c][̲̅t][̲̅i][̲̅v][̲̅i][̲̅t][̲̅y]: typly, Merlin , xembly 
 
 
 ![debug java appl](https://github.com/Mithun1508/Mithun1508/assets/93249038/cb818120-afc6-4799-9587-1f7b3e7d79b6)
