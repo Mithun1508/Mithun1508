@@ -61,7 +61,7 @@
 
 18 [̲̅p][̲̅r][̲̅o][̲̅d][̲̅u][̲̅c][̲̅t][̲̅i][̲̅v][̲̅i][̲̅t][̲̅y]: typly, Merlin , xembly 
 
-## My Soft Skills 🚀👨🏼‍💻: 
+# My Soft Skills🚀👨🏼‍💻: 
 Team Work/Collaboration,Staying organized,Time Management,Creativity, Analytical/Critical Thinking, Communication.
 
 
