@@ -61,7 +61,8 @@
 
 18 [̲̅p][̲̅r][̲̅o][̲̅d][̲̅u][̲̅c][̲̅t][̲̅i][̲̅v][̲̅i][̲̅t][̲̅y]: typly, Merlin , xembly 
 
-## My Soft Skills 🚀👨🏼‍💻: Team Work/Collaboration,Staying organized,Time Management,Creativity, Analytical/Critical Thinking, Communication.
+## My Soft Skills 🚀👨🏼‍💻: 
+Team Work/Collaboration,Staying organized,Time Management,Creativity, Analytical/Critical Thinking, Communication.
 
 
 ![run-spring-boot](https://github.com/Mithun1508/Mithun1508/assets/93249038/5dedc391-eda0-411c-ba4c-66473738d62d)
