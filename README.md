@@ -1,82 +1,6 @@
 
 
-## Hola, I'm Mithun..!!
-
-👨🏻‍💻  𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-
-💡  I like to explore new technologies and develop software solutions and quick hacks.
-
-⚡️📌  I'm on track Learning Artificial Intelligence, Systems Design, and Cloud Architecture. I enjoy working with include Java, ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2023,.
-
-✍️  Desire/Objective Goals: Becoming a candidate Master on Code Forces, To Earn a Knight badge on Leetcode, 365 days coding challenge.
-
-💬 Ask me about Android, Java, Kotlin, Problem Solving. Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-
-✉️  You can shoot me an email at mithuntran@gmail.com I'll try to respond as soon as I can.
-
-📫  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
-
-📝  I write articles on Medium @ https://medium.com/@mithuntran
-
-💻 𝐌𝐲 𝐭𝐨𝐩 𝐒𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
-
-
-
-![lang](https://github.com/Mithun1508/Mithun1508/assets/93249038/bf1412a2-c89a-44a2-a4dd-2a1c5002d4fe)
-
-
-1 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Java 1.8, Javascript/Typescript, Python,C#,Go
-
-2 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: SpringBoot, Express.js, Flask
-
-3 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 𝒄𝒐𝒏𝒕𝒓𝒐𝒍: Github,Gitlab, Bitbucket
-
-4 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MYSQL, PostgreSQL, MongoDB,Cassandra, Firebase 
-
-5 𝐀𝐏𝐈'𝐬: REST, GraphQL,tRPC
-
-6 ℂ𝕀/ℂ𝔻 𝕋𝕠𝕠𝕝𝕤 : Github Actions,CircleCI,ArgoCD
-
-7 𝕮𝖔𝖓𝖙𝖆𝖎𝖓𝖊𝖗𝖎𝖟𝖆𝖙𝖎𝖔𝖓: Docker, Containered,LXC
-
-8 🅰🆁🅲🅷🅸🆃🅴🅲🆃🆄🆁🅰🅻 🅿🅰🆃🆃🅴🆁🅽🆂: Microservice,Monolithic, Serverless
-
-9 𝖈𝖆𝖈𝖍𝖎𝖓𝖌 : CDN,Browser cache, Redis, Memcached 
-
-10 🅃🄴🅂🅃🄸🄽🄶: Intergration Testing, Unit Testing, Functional Testing
-
-11 [̲̅T][̲̅e][̲̅x][̲̅t]: Notion AI,chatGPT,wordtune
-
-12 ιɱαɠҽʂ: Midjourny,Evoto
-
-13 ☮✎  ＶＩĎє𝓸  ☜💢:vidyo.ai,Maverick,tavus 
-
-14 ♘☢  尺ⓔŜєⒶ𝐫ⓒＨ  ☮👍: scholarcy, Adept,summate.it
-
-15 ♗🍮  Ｄ𝐄𝓢Ⓘ𝔾Ň  🏆👮: photoRoom, Galileo AI, Uizard 
-
-16  𝓟ʳⓔ𝕤𝕖𝕟𝕥ａŤƗ𝓸Ňｓ: Quinvio, SlidesAI, Prezo
-
-17 ​🇸​​🇵​​🇷​​🇪​​🇦​​🇩​​🇸​​🇭​​🇪​​🇪​​🇹​​🇸​:Ajelix, Botsheets, Sheet+
-
-18 [̲̅p][̲̅r][̲̅o][̲̅d][̲̅u][̲̅c][̲̅t][̲̅i][̲̅v][̲̅i][̲̅t][̲̅y]: typly, Merlin , xembly 
-
-## My Soft Skills🚀👨🏼‍💻: 
-1. Team Work/Collaboration 2. Staying organized 3. Time Management 4. Creativity 5. Analytical/Critical Thinking 6. Communication.
-
-
-![run-spring-boot](https://github.com/Mithun1508/Mithun1508/assets/93249038/5dedc391-eda0-411c-ba4c-66473738d62d)
-
-
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=Mithun1508)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+## Hola, This is Mithun..!!
 
 
 ###
@@ -98,7 +22,7 @@
 ###
 	
 
-![Snake animation](https://github.com/Mithun1508/Mithun1508/blob/output/github-contribution-grid-snake.svg)
+
 [![An image of @mithun1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithun1508)](https://holopin.io/@mithun1508)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
