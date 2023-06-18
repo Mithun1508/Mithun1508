@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">hey there this is Mithun!👋</h1>
+<h1 align="center">hey there!! this is Mithun..👋</h1>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
