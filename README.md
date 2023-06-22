@@ -84,7 +84,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
 
 
- ##  IDE integrated development environment - code editor, compiler, debugger, build tools Monitoring Code quality,Code review,Continuous integration,Dependency management Deployment and Project management used 
+ ##  IDE, code editor, compiler, debugger, build tools, Monitoring, Code quality,Code review,Continuous integration,Dependency management, Deployment and Project management used 
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visual-studio&style=flat)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&style=flat&logoColor=white)
