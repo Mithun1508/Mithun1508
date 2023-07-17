@@ -7,6 +7,20 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
+
+
+
+###
+![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Mithun1508's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508&theme=tokyonight&hide_border=true)
+
+![Mithun1508's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+###
+	
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -28,19 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-
-
-###
-![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Mithun1508's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508&theme=tokyonight&hide_border=true)
-
-![Mithun1508's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-
-###
-	
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
 ## Competitive Coding and Social Media Profile Links
 
