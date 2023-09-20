@@ -8,9 +8,7 @@
 
 ###
 ![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
 ![Mithun1508's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mithun1508&theme=tokyonight&hide_border=true)
-
 ![Mithun1508's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
