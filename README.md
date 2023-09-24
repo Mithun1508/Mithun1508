@@ -1,6 +1,6 @@
 Hello, I'm Mithun! 
 
-🎓graduated from Anna University in 2018 with a Bachelor of Technology focused in Electrical and Electronics Engineering 
+🎓Graduated from Anna University in 2018 with a Bachelor of Technology focused in Electrical and Electronics Engineering 
 
 👨‍💻 I’m a passionate Full Stack Developer with a relentless curiosity for all things tech.
 
