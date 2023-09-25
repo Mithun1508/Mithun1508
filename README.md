@@ -6,7 +6,7 @@ Hello, I'm Mithun!
 
 🌐 I specialize in crafting dynamic and user-friendly web applications, combining both front-end and back-end expertise to create seamless digital experiences.
 
-🚀 My journey involves continuous exploration and growth, as I tackle new challenges and embrace emerging technologies.
+🚀 My journey involves continuous exploration and growth, as I'm Solving new challenges and embrace emerging technologies.
 
 💡 I'm dedicated to sharing my insights and experiences through my Medium blogs, aiming to empower and inspire fellow developers and tech enthusiasts.
 
