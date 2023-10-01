@@ -1,8 +1,7 @@
-Hello, I'm Mithun! 
+![github profile header](https://github.com/Mithun1508/Mithun1508/assets/93249038/866d68ef-5b98-4841-8d5b-3ab7d658e3f6)
+
 
 🎓Graduated from Anna University in 2018 with a Bachelor of Technology focused in Electrical and Electronics Engineering 
-
-👨‍💻 I’m a passionate Full Stack Developer with a relentless curiosity for all things tech.
 
 🌐 I specialize in crafting dynamic and user-friendly web applications, combining both front-end and back-end expertise to create seamless digital experiences.
 
