@@ -47,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-## Tools and Technologies Currently working/Learning
 ![Tools and tech](https://github.com/Mithun1508/Mithun1508/assets/93249038/1b3f13d8-bbf4-44b7-bfb0-0133b3515d6f)
 
 ## Competitive Coding and Social Media Profile Links
