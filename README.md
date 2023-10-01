@@ -1,4 +1,4 @@
-![github profile header](https://github.com/Mithun1508/Mithun1508/assets/93249038/866d68ef-5b98-4841-8d5b-3ab7d658e3f6)
+![Tools and tech](https://github.com/Mithun1508/Mithun1508/assets/93249038/d3c889ac-eb28-402f-a6f0-96c5b2687faa)![github profile header](https://github.com/Mithun1508/Mithun1508/assets/93249038/866d68ef-5b98-4841-8d5b-3ab7d658e3f6)
 
 
 🎓Graduated from Anna University in 2018 with a Bachelor of Technology focused in Electrical and Electronics Engineering 
@@ -47,7 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-	
+## Tools and Technologies Currently working/Learning
+![Tools and tech](https://github.com/Mithun1508/Mithun1508/assets/93249038/1b3f13d8-bbf4-44b7-bfb0-0133b3515d6f)
+
 ## Competitive Coding and Social Media Profile Links
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-5a1735156)
