@@ -26,7 +26,7 @@
 ###
 	
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools Currently Working and Learning</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
