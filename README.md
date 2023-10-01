@@ -1,4 +1,4 @@
-![Tools and tech](https://github.com/Mithun1508/Mithun1508/assets/93249038/d3c889ac-eb28-402f-a6f0-96c5b2687faa)![github profile header](https://github.com/Mithun1508/Mithun1508/assets/93249038/866d68ef-5b98-4841-8d5b-3ab7d658e3f6)
+![github profile header](https://github.com/Mithun1508/Mithun1508/assets/93249038/866d68ef-5b98-4841-8d5b-3ab7d658e3f6)
 
 
 🎓Graduated from Anna University in 2018 with a Bachelor of Technology focused in Electrical and Electronics Engineering 
