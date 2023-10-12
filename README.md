@@ -1,20 +1,6 @@
 ![github profile header](https://github.com/Mithun1508/Mithun1508/assets/93249038/866d68ef-5b98-4841-8d5b-3ab7d658e3f6)
 
 
-🎓Graduated from Anna University in 2018 with a Bachelor of Technology focused in Electrical and Electronics Engineering 
-
-🌐 I specialize in crafting dynamic and user-friendly web applications, combining both front-end and back-end expertise to create seamless digital experiences.
-
-🚀 My journey involves continuous exploration and growth, as I'm Solving new challenges and embrace emerging technologies.
-
-💡 I'm dedicated to sharing my insights and experiences through my Medium blogs, aiming to empower and inspire fellow developers and tech enthusiasts.
-
-🧘‍♂️ In addition to my coding adventures, I've incorporated meditation into my daily routine to maintain a clear and focused mind while navigating the ever-evolving tech landscape.
-
-☕️ Let's chat over a cup of coffee about coding, the web development world, or anything else that piques our interest!
-
-✈️ When I'm not immersed in code, you'll find me exploring new corners of the world, gathering inspiration for my next coding project.
-
 
 
 
