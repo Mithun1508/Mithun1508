@@ -17,7 +17,7 @@
 
 ###
 	
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">🛠 Language and tools Currently Working and Learning</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -103,5 +103,7 @@
   ## API's/SDK  Explored   
  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=flat&logoColor=white)
  ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white)
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
