@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Web Development & DSA
 
-💬 Ask me about JAVA, Node.js, React, Linux, Git, Web Development
+💬 Ask me about JAVA, Node.js, React, MongoDB, Linux, Git, Web Development
 
 📫 How to reach me: linkedin:@mithun-e-5a1735156
 
