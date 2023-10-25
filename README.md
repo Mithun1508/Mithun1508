@@ -1,8 +1,14 @@
+
 🎓 I have done my Btech in Electrical and Electronics from Anna University in 2018
+
 👯 I’m looking to collaborate with - Open Source Projects
+
 ⚒ Past Work - Contributing at GSSoC 2022, HacktoberFest (2021,2022)
+
 🌱 I’m currently learning Web Development & DSA
+
 💬 Ask me about JAVA, Node.js, React, Linux, Git, Web Development
+
 📫 How to reach me: linkedin:@mithun-e-5a1735156
 
 ###
