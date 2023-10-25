@@ -68,7 +68,6 @@
    [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)](https://meta.stackexchange.com/users/1343479/mithun1508)
 [![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/7fea7387-cdf8-48e6-b96d-c8c28ffd5f30)
 [![codingninjas](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Mithun1508)
-[!Google]https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white](https://developers.google.com/profile/u/111142552063927292402)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/03dc8e03a7dbe8f8e50128911e6ae7d2)
 </div>
 
