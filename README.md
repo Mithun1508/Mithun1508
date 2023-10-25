@@ -1,11 +1,11 @@
 
 🎓 I have done my Btech in Electrical and Electronics from Anna University in 2018
 
-👯 I’m looking to collaborate with - Open Source Projects
+👯 I’m looking for Full Time opportunities 
 
-⚒ Past Work - Contributing at GSSoC, HacktoberFest
+⚒ Current Open source Contriburtions - Contributing at GSSoC, HacktoberFest
 
-🌱 I’m currently learning Web Development & DSA
+🌱 Currently Learning Web Development & DSA
 
 💬 Ask me about JAVA, Node.js, React, MongoDB, Linux, Git, Web Development
 
