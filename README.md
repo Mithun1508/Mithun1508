@@ -41,7 +41,7 @@
 
 ![Tools and tech](https://github.com/Mithun1508/Mithun1508/assets/93249038/1b3f13d8-bbf4-44b7-bfb0-0133b3515d6f)
 
-## My Cp handles and Social Media Profile Links
+## My Cp handles and Social Profiles
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-e-5a1735156/)
   [![Codechef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mithun_77)
