@@ -3,7 +3,7 @@
 
 👯 I’m looking to collaborate with - Open Source Projects
 
-⚒ Past Work - Contributing at GSSoC 2022, HacktoberFest (2021,2022)
+⚒ Past Work - Contributing at GSSoC, HacktoberFest
 
 🌱 I’m currently learning Web Development & DSA
 
