@@ -1,7 +1,7 @@
 
 🎓 I have done my Bachelor's of Engineering in Electrical and Electronics from Anna University in 2018
 
-👯 I’m looking for Full Time opportunities 
+🔭  I’m looking for Full Time opportunities 
 
 ⚒ Current Open source Contriburtions - Contributing at GSSoC, HacktoberFest
 
