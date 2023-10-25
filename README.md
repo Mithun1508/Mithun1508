@@ -1,13 +1,9 @@
-![github profile header](https://github.com/Mithun1508/Mithun1508/assets/93249038/866d68ef-5b98-4841-8d5b-3ab7d658e3f6)
-
-
-
-
-
-
-
-
-
+🎓 I have done my Btech in Electrical and Electronics from Anna University in 2018
+👯 I’m looking to collaborate with - Open Source Projects
+⚒ Past Work - Contributing at GSSoC 2022, HacktoberFest (2021,2022)
+🌱 I’m currently learning Web Development & DSA
+💬 Ask me about JAVA, Node.js, React, Linux, Git, Web Development
+📫 How to reach me: linkedin:@mithun-e-5a1735156
 
 ###
 
