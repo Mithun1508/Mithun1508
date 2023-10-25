@@ -1,5 +1,5 @@
 
-🎓 I have done my Btech in Electrical and Electronics from Anna University in 2018
+🎓 I have done my Bachelor's of Engineering in Electrical and Electronics from Anna University in 2018
 
 👯 I’m looking for Full Time opportunities 
 
