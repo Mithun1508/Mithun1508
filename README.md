@@ -70,7 +70,6 @@
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/03dc8e03a7dbe8f8e50128911e6ae7d2)
 </div>
 
-![git profile](https://github.com/Mithun1508/Mithun1508/assets/93249038/917bfcf5-07ef-46cb-8b24-6465a57b7f76)
 
   
 <h3 align="left"> Softwares,Design Tools, Static site Generators,Backend as a Service(BaaS)and Devops Tools Used </h3>
