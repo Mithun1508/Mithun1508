@@ -3,7 +3,7 @@
 
 🔭  I’m looking for Full Time opportunities 
 
-⚒  I'm Looking Out for Full time Opportunities & About My Open Source Contributions Looking to Contribute at GSoC DjangonautSpace Application 2024
+⚒   Open Source Contributions Looking to Contribute at GSoC DjangonautSpace Application 2024
 
 🌱 Currently Learning Web Development & DSA
 
