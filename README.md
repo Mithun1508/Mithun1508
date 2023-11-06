@@ -1,7 +1,7 @@
 
 🎓 I have done my Bachelor's of Engineering in Electrical and Electronics from Anna University in 2018
 
-🔭  I’m looking for Full Time opportunities and Open source Contributions
+🔭  I’m looking out for Full Time opportunities and willing to Collaborate on Open source Contributions
 
 🌱 Currently Learning Web Development & DSA
 
