@@ -3,7 +3,7 @@
 
 🔭  I’m looking for Full Time opportunities 
 
-⚒ Current Open source Contributions - Contributing at GSSoC, HacktoberFest
+⚒ Current Open source Contributions - Contributing at GSoC
 
 🌱 Currently Learning Web Development & DSA
 
