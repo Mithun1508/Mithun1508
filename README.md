@@ -3,7 +3,7 @@
 
 🔭  I’m looking out for Full Time opportunities and willing to Collaborate on Open source Contributions
 
-🌱 Currently Learning Web Development & DSA
+🌱 Currently Learning Web Development & DSA Other than that, I have also made Android Apps on Playstore 
 
 💬 Ask me about JAVA, Node.js, React, MongoDB, Linux, Git, Web Development
 
