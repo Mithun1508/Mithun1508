@@ -3,7 +3,7 @@
 
 🔭  I’m looking out for Full Time opportunities and willing to Collaborate on Open source Contributions
 
-🌱 Currently Learning Web Development & DSA Other than that, I have also made Android Apps on Playstore 
+🌱 Technologies Worked : Javascript, React, Angular, Vue, jQuery, Node, Java, Go Lang Ruby on Rails, Java 8, MongoDB 6.0, Git and Linux.Apart from this I have also made an Android Apps on Playstore 
 
 💬 Ask me about JAVA, Node.js, React, MongoDB, Linux, Git, Web Development
 
