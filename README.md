@@ -1,19 +1,13 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🎓 I have done my Bachelor's of Engineering in Electrical and Electronics from Anna University in 2018
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🔭  I’m looking out for Full Time opportunities and willing to Collaborate on Open source Contributions
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mithun1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mithun1508" height="30" width="40" /></a>
-</p>
+🌱 Technologies Worked : Javascript, React, Angular, Vue, jQuery, Node, Go, Ruby on Rails, Java 8, MongoDB 6.0, Git and Linux.Apart from this I have also made an Android Apps on Playstore 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithun1508&show_icons=true&locale=en&layout=compact" alt="mithun1508" /></p>
+💬 Ask me about JAVA, Node.js, React, MongoDB, Linux, Git, Web Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithun1508&" alt="mithun1508" /></p>
+📫 How to reach me: linkedin:@mithun-e-5a1735156
 
 
 ###
