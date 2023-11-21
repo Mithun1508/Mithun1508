@@ -9,7 +9,7 @@
 
 📫 How to reach me: linkedin:@mithun-e-5a1735156
 
-
+📟 Contests/Events Participations: ICPC 2023 Online Challenge powered by Huawei
 ###
 
 ![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)[![Mithun1508's Stack Overflow | Stats](https://stats.quine.sh/Mithun1508/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Mithun1508)
