@@ -1,11 +1,9 @@
 
-🎓 I have done my Bachelor's of Engineering in Electrical and Electronics from Anna University in 2018
+• A Full Stack Software Developer 
 
-🔭  I’m looking out for Full Time opportunities and willing to Collaborate on Open source Contributions
+• BE of Electrical Degree at Anna university
 
-🌱 Technologies Worked : Javascript, React, Angular, Vue, jQuery, Node, Go, Ruby on Rails, Java 8, MongoDB 6.0, Git and Linux.Apart from this I have also made an Android Apps on Playstore 
-
-💬 Ask me about JAVA, Node.js, React, MongoDB, Linux, Git, Web Development
+• Experienced in Java,JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL.
 
 📫 How to reach me: linkedin:@mithun-e-5a1735156
 
