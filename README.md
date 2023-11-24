@@ -11,7 +11,7 @@
 ###
 
 ![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
 [![Mithun1508's Stack Overflow | Stats](https://stats.quine.sh/Mithun1508/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Mithun1508)
 
 
