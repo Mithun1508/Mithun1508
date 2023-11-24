@@ -14,11 +14,6 @@
 [![Mithun1508's GitHub | Topics Over Time](https://stats.quine.sh/Mithun1508/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Mithun1508)
 
 
-### Technologies Currently Learning 
-	
-![Tools and tech](https://github.com/Mithun1508/Mithun1508/assets/93249038/1b3f13d8-bbf4-44b7-bfb0-0133b3515d6f)
-
-
 ## My CP Handles and Social Profiles
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-e-5a1735156/)
