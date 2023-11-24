@@ -37,29 +37,3 @@
 
   
 
-
- ## Operating Systems </h3>  
-![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
-
-
- ##  IDE, code editor, compiler, debugger and build tools  
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visual-studio&style=flat)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&style=flat&logoColor=white)
-
-## Server/Cloud/SaaS 
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&style=flat&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)
-![FireBase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&style=flat)
- ![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)
- 
- 
-  ## API's/SDK  Explored   
- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=flat&logoColor=white)
- ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white)
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun1508&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
