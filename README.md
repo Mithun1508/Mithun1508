@@ -1,4 +1,4 @@
-
+![Lnaguages and tools ](https://github.com/Mithun1508/Mithun1508/assets/93249038/32550e3f-b708-4f33-aafe-2d4ee6dbe0bf)
 • A Full Stack Software Developer 
 
 • BE of Electrical Degree at Anna university
@@ -13,7 +13,9 @@
 ![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Mithun1508's Stack Overflow | Stats](https://stats.quine.sh/Mithun1508/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Mithun1508)
-![Lnaguages and tools ](https://github.com/Mithun1508/Mithun1508/assets/93249038/9a26ef63-a0df-4266-a1a5-faaff628ccde)
+## Tech stack
+
+![Lnaguages and tools ](https://github.com/Mithun1508/Mithun1508/assets/93249038/db0b756d-4e79-4cfc-a99a-a1e2f2b77856)
 
 ## My CP and Development Profiles
 
