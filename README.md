@@ -6,7 +6,7 @@ software developer
 
 I'm a passionate Full Stack developer with 1 Yr experience in software industry a deep enthusiasm for open source projects and a knack for problem-solving. believe in adapting and staying updated on industry trends to excel in the ever-evolving tech world. Currently open to new opportunities, I'm excited to bring my skills and enthusiasm to a dynamic team. My experience is limited, yet my enthusiasm for learning and relevant skills acquired during studies and projects are assets.
 
-* 🌍  I'm based in Tiruchirappalli,India
+* 🌍  I'm based in Tiruchirappalli,TamilNadu,India
 * 🖥️  See my portfolio at [My website](http://earnest-duckanoo-191707.netlify.app/)
 * ✉️  You can contact me at [Mithuntran@gmail.com](mailto:Mithuntran@gmail.com)
 * 🧠  I'm learning Java SpringBoot, JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL
