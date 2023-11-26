@@ -39,6 +39,7 @@ I'm a passionate Full Stack developer with 1 Yr experience in software industry 
   [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mithun1508)
   [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/Mithun1508)
    [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)](https://meta.stackexchange.com/users/1343479/mithun1508)
+    [![Stack Exchange](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://developers.google.com/profile/u/111142552063927292402)                                           
 
 </div>
 
