@@ -10,7 +10,8 @@ I'm a passionate Full Stack developer with 1 Yr experience in software industry 
 * 🖥️  See my portfolio at [My website](http://earnest-duckanoo-191707.netlify.app/)
 * ✉️  You can contact me at [Mithuntran@gmail.com](mailto:Mithuntran@gmail.com)
 * 🧠  I'm learning Java SpringBoot, JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL
-* 🤝  I'm open to collaborating on interesting Projects
+* 🤝  My GSOC open source Contribution: https://github.com/jitsi/jitsi-meet/pull/14101\
+* 🚀  Recent Event participation: ICPC 2023 Online Challenge powered by Huawei:https://codeforces.com/contest/1885/standings
 
 ### Skills
 
