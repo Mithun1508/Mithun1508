@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mithun
 ==============================================================================================================================
+![Code repeat](https://github.com/Mithun1508/Mithun1508/assets/93249038/b1bf52b6-eed0-4c16-8e70-841e2f1adfbc)
 
 software developer
 ------------------
 
-I'm a passionate Full Stack developer with 1 Yr experience in software industry a deep enthusiasm for open source projects and a knack for problem-solving. believe in adapting and staying updated on industry trends to excel in the ever-evolving tech world. Currently open to new opportunities, I'm excited to bring my skills and enthusiasm to a dynamic team. My experience is limited, yet my enthusiasm for learning and relevant skills acquired during studies and projects are assets.
+
 
 * 🌍  I'm based in Tiruchirappalli,TamilNadu,India
 * 🖥️  See my portfolio at [My website](http://earnest-duckanoo-191707.netlify.app/)
