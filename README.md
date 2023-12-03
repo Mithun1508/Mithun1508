@@ -25,23 +25,27 @@ software developer
 
 ## My CP Handles
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-e-5a1735156/)
-  [![Codechef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mithun_77)
-  [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mithuntran)
-  [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Mith1508/)
- [![Leetcode Badge](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mithuntran/) 
- [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@mithun242)
- [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mithuntran)
-  [![CodePen](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)](https://www.topcoder.com/members/mithune)
-  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Mithun1508)
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20698323/mithun?tab=profile)
-  [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mithun1508)
-  [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/Mithun1508)
-   [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)](https://meta.stackexchange.com/users/1343479/mithun1508)
-    [![Stack Exchange](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://developers.google.com/profile/u/111142552063927292402)
-     [![Stack Exchange](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@mithun147)
-     [![Stack Exchange](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://devfolio.co/@Mithuntran)
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mithune" height="30" width="40" /></a>
+<a href="https://dev.to/mithun1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mithun1508" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mithun-e-5a1735156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithun-e-5a1735156" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mithun" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mithuntran" height="30" width="40" /></a>
+<a href="https://hashnode.com/@mithun147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mithun147" height="30" width="40" /></a>
+<a href="https://medium.com/@mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mithuntran" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mithun_77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mithun_77" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mithuntran" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mithuntran" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mith1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mith1508" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mithun242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mithun242" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithun1508&show_icons=true&locale=en&layout=compact" alt="mithun1508" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithun1508&" alt="mithun1508" /></p>
 
 
 
