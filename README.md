@@ -23,7 +23,6 @@ software developer
 [![Mithun1508's Stack Overflow | Stats](https://stats.quine.sh/Mithun1508/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Mithun1508)
 
 
-## My CP Handles
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
