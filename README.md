@@ -42,7 +42,7 @@ software developer
 <a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithun1508&show_icons=true&locale=en&layout=compact" alt="mithun1508" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithun1508&" alt="mithun1508" /></p>
 
