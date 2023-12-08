@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mithun
 ==============================================================================================================================
 
- Programmer 
 ------------------
 ![new gif](https://github.com/Mithun1508/Mithun1508/assets/93249038/99429b37-7648-429e-9c3e-373d91a13123)
 
 
-* 🌍  I'm based in Tiruchirappalli,TamilNadu,India
+* 🌍  I'm a passionate programmer based out of Tiruchirappalli,TamilNadu,India
 * 🖥️  See my portfolio at [My website](http://earnest-duckanoo-191707.netlify.app/)
 * ✉️  You can contact me at [Mithuntran@gmail.com](mailto:Mithuntran@gmail.com)
 * 🧠  I'm learning Java SpringBoot, JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL
