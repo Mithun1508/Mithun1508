@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm a passionate programmer based out of Tiruchirappalli,TamilNadu,India
-* 🖥️  See my portfolio at [My website](http://earnest-duckanoo-191707.netlify.app/)
+* 🖥️  See my portfolio at https://linktr.ee/mithuntran
 * ✉️  You can contact me at [Mithuntran@gmail.com](mailto:Mithuntran@gmail.com)
 * 🧠  I'm learning Java SpringBoot, JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL
   
