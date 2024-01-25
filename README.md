@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 ------------------
-![new gif](https://github.com/Mithun1508/Mithun1508/assets/93249038/99429b37-7648-429e-9c3e-373d91a13123)
 
 
 * 🌍  I'm a passionate programmer based out of Tiruchirappalli,TamilNadu,India
