@@ -13,7 +13,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-![Developer portfolio](https://github.com/Mithun1508/Mithun1508/assets/93249038/bfe7fa41-4e70-42b3-85b5-dc0a729bfd51)
 
 ![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&layout=pie)](https://github.com/anuraghazra/github-readme-stats)\
