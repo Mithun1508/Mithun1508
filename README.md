@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  
 
-![New Cp Coder ](https://github.com/Mithun1508/Mithun1508/assets/93249038/b2b2d192-242a-4f52-bbe5-6cebe02d2d59)
+![New Coder](https://github.com/Mithun1508/Mithun1508/assets/93249038/d3942edb-05b8-47d6-ae60-c7740342b3f7)
 
 ### Tech Stack
 
