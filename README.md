@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ------------------
 
-  
+  ![New Coder](https://github.com/Mithun1508/Mithun1508/assets/93249038/ededfe3c-7a08-474e-83aa-e06736332915)
+
 
 ### Tech Stack
 
