@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub 👨‍💻
+![new Computer typing speed](https://github.com/Mithun1508/Mithun1508/assets/93249038/13b7a6b4-63cf-43de-903e-643b0ce70e1e)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub 👨‍💻
 ==============================================================================================================================
 
 ------------------
@@ -15,8 +15,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
+![computer Typing speed](https://github.com/Mithun1508/Mithun1508/assets/93249038/edcf0e01-6d19-4fed-8989-d6f5af2122be)
 
-![web development ](https://github.com/Mithun1508/Mithun1508/assets/93249038/88e9546c-1c7c-436a-8f73-97567627a4d9)
+
 
 ![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&layout=pie)](https://github.com/anuraghazra/github-readme-stats)\
