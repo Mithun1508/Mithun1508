@@ -1,13 +1,13 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+
  Welcome to my GitHub 👨‍💻
 ==============================================================================================================================
 
 ------------------
 
  
-![new Computer typing speed](https://github.com/Mithun1508/Mithun1508/assets/93249038/13b7a6b4-63cf-43de-903e-643b0ce70e1e)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-
-
+![new Computer typing speed](https://github.com/Mithun1508/Mithun1508/assets/93249038/13b7a6b4-63cf-43de-903e-643b0ce70e1e)
 ### Tech Stack
 
 <p align="left">
