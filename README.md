@@ -7,7 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------
 
 
-![desktop setup](https://github.com/Mithun1508/Mithun1508/assets/93249038/c67c93e4-f6d8-4e5d-9662-f760109f8586)
+
+![desktop setup](https://github.com/Mithun1508/Mithun1508/assets/93249038/4a6d1933-dfe0-41e8-9880-45617cbe0d6f)
 
 
 <h3 align="left">Tech stack:</h3>
