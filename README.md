@@ -1,4 +1,4 @@
-![desktop setup3](https://github.com/Mithun1508/Mithun1508/assets/93249038/ad406c94-1974-4cb3-93b4-d19ec9a239f2)Hello world! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello world! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
  Welcome to my GitHub Profile👨‍💻
