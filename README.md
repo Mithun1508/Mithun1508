@@ -9,8 +9,8 @@ Hello world! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 
 
+![new One ](https://github.com/Mithun1508/Mithun1508/assets/93249038/be53f020-a185-4037-bd62-3bf8a0205e63)
 
-![desktop setup3](https://github.com/Mithun1508/Mithun1508/assets/93249038/d10fb840-0edb-42be-b36a-ce233f1e5565)
 
 
 <h3 align="left">Tech stack:</h3>
