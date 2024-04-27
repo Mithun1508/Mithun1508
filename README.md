@@ -1,24 +1,7 @@
-Hello world! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![icons8-mac-pro-50](https://github.com/Mithun1508/Mithun1508/assets/93249038/c6b26c56-13f5-41f5-9383-e9f968d09bd2)Hello world! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
- Welcome to my GitHub Profile👨‍💻![image](https://github.com/Mithun1508/Mithun1508/assets/93249038/fb940126-0245-4660-b1f9-f076ec297a9d)
-
-
-
-
-
-
-
-
-
-
-==============================================================================================================================
-
-------------------
-![New One 1](https://github.com/Mithun1508/Mithun1508/assets/93249038/a0c3dd74-096f-42e7-bb4f-db2c869766f7)
-
-
-
+ Welcome to my GitHub Profile👨‍💻![icons8-mac-pro-50](https://github.com/Mithun1508/Mithun1508/assets/93249038/63f8885a-4b8b-41b1-b5e4-a1e3738b7d4b)
 
 
 <h3 align="left">Tech stack:</h3>
