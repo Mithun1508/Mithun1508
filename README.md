@@ -1,4 +1,4 @@
-# Hello world! Welcome to my GitHub Profile👨‍💻🖥️💻⌨️
+# Hello world! Welcome to my GitHub Profile👨🏻‍💻🖥️💻⌨️
 
 ![PC setup](https://github.com/Mithun1508/Mithun1508/assets/93249038/4f1ab484-04f9-4d42-ab03-2c5c6f1ee0c7)
 
