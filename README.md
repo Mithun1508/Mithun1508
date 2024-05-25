@@ -2,6 +2,8 @@
 
 ![PC setup](https://github.com/Mithun1508/Mithun1508/assets/93249038/4f1ab484-04f9-4d42-ab03-2c5c6f1ee0c7)
 
+![TechNologist](https://github.com/Mithun1508/Mithun1508/assets/93249038/264f86ed-08a0-453c-9bda-416a56633c1a)
+
 ![New Gift](https://github.com/Mithun1508/Mithun1508/assets/93249038/ac564b9d-7ea1-4f3f-a177-2a511ff7e135)
 
 <h3 align="left">Tech stack:</h3>
