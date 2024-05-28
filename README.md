@@ -1,6 +1,7 @@
 # Hello world! Welcome to my GitHub Profile👨🏻‍💻🖥️💻⌨️
 
-![PC setup](https://github.com/Mithun1508/Mithun1508/assets/93249038/4f1ab484-04f9-4d42-ab03-2c5c6f1ee0c7)
+
+![New computer Programmer ](https://github.com/Mithun1508/Mithun1508/assets/93249038/67c6d3a9-4f75-4064-93c2-4549a9798700)
 
 ![New Gift](https://github.com/Mithun1508/Mithun1508/assets/93249038/ac564b9d-7ea1-4f3f-a177-2a511ff7e135)
 
