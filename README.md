@@ -2,7 +2,8 @@
 
 
 
-![New computer Programmer ](https://github.com/Mithun1508/Mithun1508/assets/93249038/7d1f863e-3014-44f6-831d-6af49d3704bb)
+
+![New computer Programmer1](https://github.com/Mithun1508/Mithun1508/assets/93249038/7278769b-5c0a-4504-8219-ad6adb874265)
 
 ![New Gift](https://github.com/Mithun1508/Mithun1508/assets/93249038/ac564b9d-7ea1-4f3f-a177-2a511ff7e135)
 
