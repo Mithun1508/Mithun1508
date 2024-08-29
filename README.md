@@ -105,7 +105,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&layout=pie)](https://github.com/anuraghazra/github-readme-stats)\
 [![Mithun1508's Stack Overflow | Stats](https://stats.quine.sh/Mithun1508/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Mithun1508)
 
-
+![Visitor Count](https://profile-counter.glitch.me/{Mithun1508}/count.svg)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
