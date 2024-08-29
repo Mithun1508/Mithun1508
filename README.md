@@ -98,14 +98,14 @@
 
 
 
+
 ![laguages and tools dev ](https://github.com/Mithun1508/Mithun1508/assets/93249038/cc7f7192-903f-4b2f-a86d-f123e7651e32)
+<img width="452" alt="Metrics Preview" src="https://github.com/user-attachments/assets/c813c2d1-2d52-4400-9d7a-1c62486426dc">
 
 
-![Mithun1508's Stats](https://github-readme-stats.vercel.app/api?username=Mithun1508&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1508&layout=pie)](https://github.com/anuraghazra/github-readme-stats)\
-[![Mithun1508's Stack Overflow | Stats](https://stats.quine.sh/Mithun1508/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Mithun1508)
 
-![Metrics](https://metrics.lecoq.io/Mithun1508?template=terminal&skyline=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&config.timezone=Asia%2FCalcutta)
+
+<img width="364" alt="Terminal based Prompts" src="https://github.com/user-attachments/assets/3730556a-e5b7-43c2-891b-614feb9d8231">
 
 
 
