@@ -107,7 +107,8 @@
 
 <img width="364" alt="Terminal based Prompts" src="https://github.com/user-attachments/assets/3730556a-e5b7-43c2-891b-614feb9d8231">
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mithun1508)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mithun1508}/count.svg)
 
