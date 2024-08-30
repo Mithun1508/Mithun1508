@@ -1,4 +1,4 @@
-
+<img width="349" alt="Invest In sw " src="https://github.com/user-attachments/assets/453fba55-406c-46b4-8711-e346ddc7fb49"><img width="394" alt="Support community and Overflow Metrics " src="https://github.com/user-attachments/assets/85e8c5f0-0bf9-4d59-897f-7cb868cc9d01"><img width="468" alt="stars list " src="https://github.com/user-attachments/assets/e9460702-9266-4c5d-a496-820b127fe812"><img width="470" alt="Stargazers " src="https://github.com/user-attachments/assets/728177a8-e5f9-457b-8afa-a74ee86b269d">
 
 
 
@@ -108,9 +108,12 @@
 <img width="458" alt="Placeholder commits " src="https://github.com/user-attachments/assets/a0ad1176-3883-4f30-b412-27699997701c">
 <img width="400" alt="walkatime coding habits " src="https://github.com/user-attachments/assets/149238c6-ebe0-4265-8f8d-44af6e21870d">
 <img width="541" alt="Contributions calender  " src="https://github.com/user-attachments/assets/a929f01b-fa0a-436f-96a2-98cef04b8703">
-
-
- 
+<img width="470" alt="Stargazers " src="https://github.com/user-attachments/assets/61e296a5-8167-4b46-b717-892b159bf904">
+<img width="472" alt="Featured Repositories " src="https://github.com/user-attachments/assets/dde5ca49-57c6-4514-afa2-6508dc80de6b">
+<img width="468" alt="stars list " src="https://github.com/user-attachments/assets/74e1f952-3d02-4350-b604-a67104c0fda2">
+<img width="394" alt="Support community and Overflow Metrics " src="https://github.com/user-attachments/assets/81a3a6d3-71c4-4087-857a-b3376b088ef7">
+<img width="377" alt="Code snippet  " src="https://github.com/user-attachments/assets/5acf5f88-7cc8-446e-b5d9-eaa0f307b1b5">
+<img width="349" alt="Invest In sw " src="https://github.com/user-attachments/assets/593fe81a-290a-4950-8853-c1b0c6ce7475">
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mithun1508}/count.svg)
 
