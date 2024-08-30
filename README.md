@@ -100,7 +100,6 @@
 
 
 ![laguages and tools dev ](https://github.com/Mithun1508/Mithun1508/assets/93249038/cc7f7192-903f-4b2f-a86d-f123e7651e32)
-<img width="452" alt="Metrics Preview" src="https://github.com/user-attachments/assets/c813c2d1-2d52-4400-9d7a-1c62486426dc">
 
 
 
