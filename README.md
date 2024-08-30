@@ -106,7 +106,11 @@
 
 
 <img width="364" alt="Terminal based Prompts" src="https://github.com/user-attachments/assets/3730556a-e5b7-43c2-891b-614feb9d8231">
+<img width="458" alt="Placeholder commits " src="https://github.com/user-attachments/assets/a0ad1176-3883-4f30-b412-27699997701c">
+<img width="400" alt="walkatime coding habits " src="https://github.com/user-attachments/assets/149238c6-ebe0-4265-8f8d-44af6e21870d">
 
+
+<img width="541" alt="Contributions calender  " src="https://github.com/user-attachments/assets/a929f01b-fa0a-436f-96a2-98cef04b8703">
 
 
  
