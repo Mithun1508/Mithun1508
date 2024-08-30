@@ -1,4 +1,3 @@
-<img width="349" alt="Invest In sw " src="https://github.com/user-attachments/assets/453fba55-406c-46b4-8711-e346ddc7fb49"><img width="394" alt="Support community and Overflow Metrics " src="https://github.com/user-attachments/assets/85e8c5f0-0bf9-4d59-897f-7cb868cc9d01"><img width="468" alt="stars list " src="https://github.com/user-attachments/assets/e9460702-9266-4c5d-a496-820b127fe812"><img width="470" alt="Stargazers " src="https://github.com/user-attachments/assets/728177a8-e5f9-457b-8afa-a74ee86b269d">
 
 
 
