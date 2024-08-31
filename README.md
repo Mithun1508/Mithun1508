@@ -1,4 +1,4 @@
-
+<img width="445" alt="Featured Activities and Gists " src="https://github.com/user-attachments/assets/d03c2403-78f6-4ad5-81ac-619df8fa2833">
 
 
 ![New desktop1122](https://github.com/Mithun1508/Mithun1508/assets/93249038/f0c6381d-c40c-455e-ae25-087cbd53b180)
@@ -113,6 +113,8 @@
 <img width="394" alt="Support community and Overflow Metrics " src="https://github.com/user-attachments/assets/81a3a6d3-71c4-4087-857a-b3376b088ef7">
 <img width="377" alt="Code snippet  " src="https://github.com/user-attachments/assets/5acf5f88-7cc8-446e-b5d9-eaa0f307b1b5">
 <img width="349" alt="Invest In sw " src="https://github.com/user-attachments/assets/593fe81a-290a-4950-8853-c1b0c6ce7475">
+<img width="408" alt="Commit activity day " src="https://github.com/user-attachments/assets/79c292d3-a6c3-4772-93f1-797a7610d49e">
+<img width="445" alt="Featured Activities and Gists " src="https://github.com/user-attachments/assets/0f987a31-a012-41a8-8a59-6e57ac3033f4">
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mithun1508}/count.svg)
 
