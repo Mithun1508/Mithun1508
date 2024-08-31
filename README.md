@@ -1,4 +1,4 @@
-<img width="445" alt="Featured Activities and Gists " src="https://github.com/user-attachments/assets/d03c2403-78f6-4ad5-81ac-619df8fa2833">
+
 
 
 ![New desktop1122](https://github.com/Mithun1508/Mithun1508/assets/93249038/f0c6381d-c40c-455e-ae25-087cbd53b180)
