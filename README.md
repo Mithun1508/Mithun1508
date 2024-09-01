@@ -104,7 +104,7 @@
 
 
 <img width="364" alt="Terminal based Prompts" src="https://github.com/user-attachments/assets/3730556a-e5b7-43c2-891b-614feb9d8231">
-<img width="296" alt="placeholder" src="https://github.com/user-attachments/assets/ebbaff63-b53a-4521-98b7-3640c5ea2b02">
+<img width="296" alt="placeholder" src="https://github.com/user-attachments/assets/d5cb5356-c01e-4a10-8fad-eda6ac7f16a2">
 <img width="400" alt="walkatime coding habits " src="https://github.com/user-attachments/assets/149238c6-ebe0-4265-8f8d-44af6e21870d">
 <img width="541" alt="Contributions calender  " src="https://github.com/user-attachments/assets/a929f01b-fa0a-436f-96a2-98cef04b8703">
 <img width="470" alt="Stargazers " src="https://github.com/user-attachments/assets/61e296a5-8167-4b46-b717-892b159bf904">
