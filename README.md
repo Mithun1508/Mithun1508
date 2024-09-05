@@ -104,17 +104,6 @@
 
 
 <img width="364" alt="Terminal based Prompts" src="https://github.com/user-attachments/assets/3730556a-e5b7-43c2-891b-614feb9d8231">
-<img width="296" alt="Placeholder " src="https://github.com/user-attachments/assets/ce6a06e7-8abf-4317-9d9f-1125409862fc">
-<img width="400" alt="walkatime coding habits " src="https://github.com/user-attachments/assets/149238c6-ebe0-4265-8f8d-44af6e21870d">
-<img width="541" alt="Contributions calender  " src="https://github.com/user-attachments/assets/a929f01b-fa0a-436f-96a2-98cef04b8703">
-<img width="470" alt="Stargazers " src="https://github.com/user-attachments/assets/61e296a5-8167-4b46-b717-892b159bf904">
-<img width="472" alt="Featured Repositories " src="https://github.com/user-attachments/assets/dde5ca49-57c6-4514-afa2-6508dc80de6b">
-<img width="468" alt="stars list " src="https://github.com/user-attachments/assets/74e1f952-3d02-4350-b604-a67104c0fda2">
-<img width="394" alt="Support community and Overflow Metrics " src="https://github.com/user-attachments/assets/81a3a6d3-71c4-4087-857a-b3376b088ef7">
-<img width="377" alt="Code snippet  " src="https://github.com/user-attachments/assets/5acf5f88-7cc8-446e-b5d9-eaa0f307b1b5">
-<img width="349" alt="Invest In sw " src="https://github.com/user-attachments/assets/593fe81a-290a-4950-8853-c1b0c6ce7475">
-<img width="408" alt="Commit activity day " src="https://github.com/user-attachments/assets/79c292d3-a6c3-4772-93f1-797a7610d49e">
-<img width="445" alt="Featured Activities and Gists " src="https://github.com/user-attachments/assets/0f987a31-a012-41a8-8a59-6e57ac3033f4">
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mithun1508}/count.svg)
 
