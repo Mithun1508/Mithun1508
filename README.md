@@ -105,7 +105,6 @@
 
 <img width="364" alt="Terminal based Prompts" src="https://github.com/user-attachments/assets/3730556a-e5b7-43c2-891b-614feb9d8231">
 
-![Visitor Count](https://profile-counter.glitch.me/{Mithun1508}/count.svg)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
