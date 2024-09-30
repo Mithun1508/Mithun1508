@@ -59,10 +59,6 @@
   <img src="https://profile-counter.glitch.me/Mithun1508/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Mithun1508/Mithun1508/output/snake.svg" alt="Snake animation" />
-
 
 
 
