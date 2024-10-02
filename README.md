@@ -8,7 +8,7 @@ I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some i
 
    ●  𝐌𝐢𝐭𝐡𝐮𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐯𝐢𝐝𝐞𝐨𝐬: Competitive Programming(Cp), Programming contests, Online Assessments(OA's), Software development Learnings, Open Source Contributions, vlog, IRL
  
-   ●  @𝑴𝒊𝒕𝒉𝒖𝒏𝑳𝑰𝑽𝑬 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒗𝒊𝒅𝒆𝒐𝒔 /@𝑴𝒊𝒕𝒉𝒖𝒏 𝑻𝒘𝒊𝒕𝒄𝒉: livestream  + Highlights 
+   ●  𝑴𝒊𝒕𝒉𝒖𝒏𝑳𝑰𝑽𝑬 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒗𝒊𝒅𝒆𝒐𝒔 /@𝑴𝒊𝒕𝒉𝒖𝒏 𝑻𝒘𝒊𝒕𝒄𝒉: livestream  + Highlights 
 
    ●   𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈(𝗦𝗪𝗘): improve technical and company Management skills longterm, financial stability 
 
