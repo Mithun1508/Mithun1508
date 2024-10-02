@@ -6,7 +6,7 @@ Here's some info about me!
 
 ⚡ Work experience:
 
-   ●  Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. previous 1 big tech company and 1 AI  SaaS based startup.
+   ●  Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. previous 1 big tech company and 1 Conversational AI SaaS based startup.
 
    ●   @Mithun channel videos: Competitive Programming(Cp), Programming contests, Online Assessments(OA's), Software development Learnings, Open Source Contributions.
 
@@ -19,6 +19,8 @@ Here's some info about me!
    ●   Startup: entrepreneurship/business, fulfillment, unlimited upsides 
 
    ●   Health: working out, Fitness 🏃
+
+   ●   Teaching Assistant at Anna University - Object-Oriented Programming II (Java). [Spring 2018]
  
    ● Interests 📈🎢📝🪂🎡🏂🏿:
        • Building products • Creating content I livestream On (YouTube/Twitch).
