@@ -21,6 +21,7 @@ Here's some info about me!
 
 
 ▶Interests 📈🎢📝🪂🎡🏂🏿:
+
 • Building products • Creating content I livestream On (YouTube/Twitch).
 
 
