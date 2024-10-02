@@ -10,7 +10,7 @@ I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some i
  
    ●  @𝑴𝒊𝒕𝒉𝒖𝒏𝑳𝑰𝑽𝑬 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒗𝒊𝒅𝒆𝒐𝒔 /@𝑴𝒊𝒕𝒉𝒖𝒏 𝑻𝒘𝒊𝒕𝒄𝒉: livestream  + Highlights 
 
-   ●   𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈: improve technical and company Management skills longterm, financial stability 
+   ●   𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈(𝗦𝗪𝗘): improve technical and company Management skills longterm, financial stability 
 
    ●   𝐒𝐭𝐚𝐫𝐭𝐮𝐩: entrepreneurship/business, fulfillment, unlimited upsides 
 
