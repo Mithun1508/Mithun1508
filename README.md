@@ -14,7 +14,7 @@ Full-time Currently working as a Associate Software Engineer👨🏻‍💻 at N
 
 • startup: entrepreneurship/business, fulfillment, unlimited upsides 
 
-• Health: working out, Fitness
+• Health: working out, Fitness 🏃
 
 
 -Interests 📈🎢📝:
