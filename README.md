@@ -1,4 +1,4 @@
-Hi there 👋How can I Help You?. 
+Hi there 👋How can I Help You?
 
 I'm Mithun and I'm a computer science student from India. 
 
