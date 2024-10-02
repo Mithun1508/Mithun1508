@@ -4,7 +4,7 @@ Here's some info about me!
 
 Full-time Currently working as a Associate Software Engineer👨🏻‍💻 at NTT DATA Inc. previous 1 big tech company and 1 AI  SaaS based startup.
 
-• @Mithun channel videos: stories, updates, Software Engineering Learnings, skits
+• @Mithun channel videos: stories, updates, Software Engineering Learnings, skits Let's Help each Others🤗.
 
 • @Mithun channel videos vlog, IRL
  
