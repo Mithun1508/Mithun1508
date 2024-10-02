@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Mithun and I'm a computer science student 💻🖥️⌨️🌐🖱️⌨️ from India. 
+Tell me How can I Help You?. I'm Mithun and I'm a computer science student 💻🖥️⌨️🌐🖱️⌨️ from India. 
 Here's some info about me!
 
 ⚡ Work experience:
