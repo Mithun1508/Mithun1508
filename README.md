@@ -6,7 +6,7 @@ Here's some info about me!
 
 ⚡ Work experience:
 
-   ●  Currently working as a Full-time Associate Software Engineer👨👨🏻‍💻🖳 at NTT DATA Inc. previous 1 big tech company and 1 AI  SaaS based startup.
+   ●  Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. previous 1 big tech company and 1 AI  SaaS based startup.
 
    ●   @Mithun channel videos: Competitive Programming(Cp), Programming contests, Online Assessments(OA's), Software development Learnings, Helping each Others.
 
