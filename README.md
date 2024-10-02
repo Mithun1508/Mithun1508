@@ -16,7 +16,7 @@ Here's some info about me!
 
    ●   Software Engineering: improve technical and company Management skills longterm, financial stability 
 
-   ●   startup: entrepreneurship/business, fulfillment, unlimited upsides 
+   ●   Startup: entrepreneurship/business, fulfillment, unlimited upsides 
 
    ●   Health: working out, Fitness 🏃
 
