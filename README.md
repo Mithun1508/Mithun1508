@@ -19,11 +19,9 @@ Here's some info about me!
    ●   Startup: entrepreneurship/business, fulfillment, unlimited upsides 
 
    ●   Health: working out, Fitness 🏃
-
-
-▶Interests 📈🎢📝🪂🎡🏂🏿:
-
-• Building products • Creating content I livestream On (YouTube/Twitch).
+ 
+   ● Interests 📈🎢📝🪂🎡🏂🏿:
+       • Building products • Creating content I livestream On (YouTube/Twitch).
 
 
 
