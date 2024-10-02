@@ -4,7 +4,7 @@ I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some i
 
 ⚡ 𝐖𝐨𝐫𝐤 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:
 
-   ●  𝑭𝒖𝒍𝒍-𝒕𝒊𝒎𝒆 𝗦𝗪𝗘: Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. previous 1 BIG TECH(FAANG) company and 1 Conversational AI SaaS based startup.
+   ●  𝑭𝒖𝒍𝒍-𝒕𝒊𝒎𝒆 𝗦𝗪𝗘: Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. previous 1 BIG TECH(FAANG) company and 1 Conversational ai SaaS based startup.
 
    ●  𝐌𝐢𝐭𝐡𝐮𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐯𝐢𝐝𝐞𝐨𝐬: Competitive Programming(Cp), Programming contests, Online Assessments(OA's), Software development Learnings, Open Source Contributions, vlog, IRL
  
@@ -16,7 +16,7 @@ I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some i
 
    ●   𝐇𝐞𝐚𝐥𝐭𝐡: working out, Fitness 🏃
 
-   ●   𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭: Object-Oriented Programming II (Java), Computer Systems, Basic Algorithms, Software Design Anna University[Spring 2018]
+   ●   𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭: Object-Oriented Programming II (Java), Computer Systems, Basic Algorithms, Software Design, Anna University[Spring 2018]
  
    ● 🅸🅽🆃🅴🆁🅴🆂🆃🆂 📈🎢📝🪂🎡🏂🏿:
        • Building products • Creating content (YouTube/Twitch).
