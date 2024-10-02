@@ -4,7 +4,7 @@ I'm Mithun and I'm a computer science student from India. Here's some info about
 
 ⚡ Work experience:
 
-   ●  Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. previous 1 big tech company and 1 Conversational AI SaaS based startup.
+   ●  𝑭𝒖𝒍𝒍-𝒕𝒊𝒎𝒆 𝗦𝗪𝗘: Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. previous 1 big tech company and 1 Conversational AI SaaS based startup.
 
    ●   @Mithun channel videos: Competitive Programming(Cp), Programming contests, Online Assessments(OA's), Software development Learnings, Open Source Contributions.
 
