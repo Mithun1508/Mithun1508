@@ -3,21 +3,21 @@ I'm Mithun and I'm a computer science student from India. Here's some info about
 
 Full-time Currently working as a Software Engineer at NTT DATA Inc. previous 1 big tech company and 1 AI  SaaS based startup.
 
--@Mithun channel videos: stories, updates, Learnings, skits
+• @Mithun channel videos: stories, updates, Learnings, skits
 
--@Mithun channel videos vlog, IRL
+• @Mithun channel videos vlog, IRL
+ 
+• @MithunLIVE channel videos /@Mithun Twitch: livestream  + Highlights 
 
--@MithunLIVE channel videos /@Mithun Twitch: livestream  + Highlights 
+• Software Engineering: improve technical and company Management skills longterm, financial stability 
 
--Software Engineering: improve technical and company Management skills longterm, financial stability 
+• startup: entrepreneurship/business, fulfillment, unlimited upsides 
 
--startup: entrepreneurship/business, fulfillment, unlimited upsides 
-
--Health: working out, Fitness
+• Health: working out, Fitness
 
 
 -Interests:
-Building products, Creating content (YouTube/Twitch).
+• Building products, • Creating content (YouTube/Twitch).
 
 
 
