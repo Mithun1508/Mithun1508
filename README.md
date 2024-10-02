@@ -1,9 +1,9 @@
 Hi there 👋
-I'm Mithun and I'm a computer science student from India. Here's some info about me!
+I'm Mithun and I'm a computer science student 💻🖥️🌐🖱️ᯤ from India. Here's some info about me!
 
 Full-time Currently working as a Associate Software Engineer at NTT DATA Inc. previous 1 big tech company and 1 AI  SaaS based startup.
 
-• @Mithun channel videos: stories, updates, Learnings, skits
+• @Mithun channel videos: stories, updates, Software Engineering Learnings, skits
 
 • @Mithun channel videos vlog, IRL
  
@@ -16,7 +16,7 @@ Full-time Currently working as a Associate Software Engineer at NTT DATA Inc. pr
 • Health: working out, Fitness
 
 
--Interests:
+-Interests 🔙:
 • Building products, • Creating content (YouTube/Twitch).
 
 
