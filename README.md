@@ -6,22 +6,20 @@ I'm Mithun and I'm a computer science student from India. Here's some info about
 
    ●  𝑭𝒖𝒍𝒍-𝒕𝒊𝒎𝒆 𝗦𝗪𝗘: Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. previous 1 big tech company and 1 Conversational AI SaaS based startup.
 
-   ●   @Mithun channel videos: Competitive Programming(Cp), Programming contests, Online Assessments(OA's), Software development Learnings, Open Source Contributions.
-
-   ●   @Mithun channel videos vlog, IRL
+   ●  𝐌𝐢𝐭𝐡𝐮𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐯𝐢𝐝𝐞𝐨𝐬: Competitive Programming(Cp), Programming contests, Online Assessments(OA's), Software development Learnings, Open Source Contributions, vlog, IRL
  
-   ●   @MithunLIVE channel videos /@Mithun Twitch: livestream  + Highlights 
+   ●  @𝑴𝒊𝒕𝒉𝒖𝒏𝑳𝑰𝑽𝑬 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒗𝒊𝒅𝒆𝒐𝒔 /@𝑴𝒊𝒕𝒉𝒖𝒏 𝑻𝒘𝒊𝒕𝒄𝒉: livestream  + Highlights 
 
-   ●   Software Engineering: improve technical and company Management skills longterm, financial stability 
+   ●   𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈: improve technical and company Management skills longterm, financial stability 
 
-   ●   Startup: entrepreneurship/business, fulfillment, unlimited upsides 
+   ●   𝐒𝐭𝐚𝐫𝐭𝐮𝐩: entrepreneurship/business, fulfillment, unlimited upsides 
 
-   ●   Health: working out, Fitness 🏃
+   ●   𝐇𝐞𝐚𝐥𝐭𝐡: working out, Fitness 🏃
 
-   ●   Teaching Assistant at Anna University - Object-Oriented Programming II (Java). [Spring 2018]
+   ●   𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 - Object-Oriented Programming II (Java) Anna University[Spring 2018]
  
-   ● Interests 📈🎢📝🪂🎡🏂🏿:
-       • Building products • Creating content I livestream On (YouTube/Twitch).
+   ● 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤 📈🎢📝🪂🎡🏂🏿:
+       • Building products • Creating content (YouTube/Twitch).
 
 
 
