@@ -17,7 +17,7 @@ Full-time Currently working as a Associate Software Engineer👨🏻‍💻 at N
 
 
 -Interests 📈🎢:
-• Building products, • Creating content (YouTube/Twitch).
+• Building products • Creating content (YouTube/Twitch).
 
 
 
