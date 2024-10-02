@@ -16,7 +16,7 @@ Full-time Currently working as a Associate Software Engineer👨🏻‍💻 at N
 • Health: working out, Fitness
 
 
--Interests 🔙:
+-Interests 📈🎢:
 • Building products, • Creating content (YouTube/Twitch).
 
 
