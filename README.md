@@ -2,6 +2,7 @@ Hi there 👋
 
 I'm Mithun and I'm a computer science student 💻🖥️⌨️🌐🖱️⌨️ from India. 
 Here's some info about me!
+⚡ Work experience:
 
  Currently working as a Full-time Associate Software Engineer👨🏻‍💻 at NTT DATA Inc. previous 1 big tech company and 1 AI  SaaS based startup.
 
