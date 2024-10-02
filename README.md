@@ -20,7 +20,7 @@ Here's some info about me!
    ●   Health: working out, Fitness 🏃
 
 
--Interests 📈🎢📝🪂:
+▶Interests 📈🎢📝🪂:
 • Building products • Creating content I livestream On (YouTube/Twitch).
 
 
