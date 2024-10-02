@@ -13,13 +13,11 @@ Full-time Currently working as a Software Engineer at NTT DATA Inc. previous 1 b
 
 -startup: entrepreneurship/business, fulfillment, unlimited upsides 
 
--Health: working out, sports(Running)
+-Health: working out, Fitness
 
 
 -Interests:
-Building products.
-
-Creating content (YouTube/Twitch).
+Building products, Creating content (YouTube/Twitch).
 
 
 
