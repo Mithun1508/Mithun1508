@@ -18,7 +18,7 @@ I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some i
 
    ●   𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 - Object-Oriented Programming II (Java) Anna University[Spring 2018]
  
-   ● 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤 📈🎢📝🪂🎡🏂🏿:
+   ● 🅸🅽🆃🅴🆁🅴🆂🆃🆂 📈🎢📝🪂🎡🏂🏿:
        • Building products • Creating content (YouTube/Twitch).
 
 
