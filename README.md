@@ -1,26 +1,3 @@
-Hi there 👋How can I Help You?
-
-I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some info about me!
-
-  ● I’m currently learning Microsoft Azure, ChatGPT - OpenAI, Generative AI, Large language models(LLMs).
-
-
-⚡ 𝐖𝐨𝐫𝐤 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:
-
-   ●  𝑭𝒖𝒍𝒍-𝒕𝒊𝒎𝒆 𝗦𝗪𝗘: Currently working as a Full-time Associate Software Engineer👨🏻‍💻🖳 at NTT DATA Inc. 
-   
-   previous ▪️➛ 1 BIG TECH(FAANG) company  ▪➛ 1 conversational AI platform SaaS based startup.
-
-   ●  𝐌𝐢𝐭𝐡𝐮𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐯𝐢𝐝𝐞𝐨𝐬: Competitive Programming(Cp), Programming contests, Online Assessments(OA's), Software development Learnings, Open Source Contributions, vlog, IRL
- 
-   ●  𝑴𝒊𝒕𝒉𝒖𝒏𝑳𝑰𝑽𝑬 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒗𝒊𝒅𝒆𝒐𝒔 /@𝑴𝒊𝒕𝒉𝒖𝒏 𝑻𝒘𝒊𝒕𝒄𝒉: livestream  + Highlights 
-
-   ●   𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈(𝗦𝗪𝗘): improve technical and company Management skills longterm, financial stability 
-
-   ●   𝐒𝐭𝐚𝐫𝐭𝐮𝐩: entrepreneurship/business, fulfillment, unlimited upsides 
-
-   ●   𝐇𝐞𝐚𝐥𝐭𝐡: working out, Fitness 🏃
-
 
 
 
