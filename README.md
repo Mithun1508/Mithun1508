@@ -22,8 +22,6 @@ I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some i
    ●   𝐒𝐭𝐚𝐫𝐭𝐮𝐩: entrepreneurship/business, fulfillment, unlimited upsides 
 
    ●   𝐇𝐞𝐚𝐥𝐭𝐡: working out, Fitness 🏃
-
-   ●   𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭: Object-Oriented Programming II (Java), Computer Systems, Basic Algorithms, Software Design, Anna University[Spring 2018]
  
    ● 🅸🅽🆃🅴🆁🅴🆂🆃🆂 📈🎢📝🪂🎡🏂🏿:
        • Building products • Creating content Live coding(YouTube/Twitch).
