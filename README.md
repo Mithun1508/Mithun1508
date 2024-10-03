@@ -22,9 +22,7 @@ I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some i
    ●   𝐒𝐭𝐚𝐫𝐭𝐮𝐩: entrepreneurship/business, fulfillment, unlimited upsides 
 
    ●   𝐇𝐞𝐚𝐥𝐭𝐡: working out, Fitness 🏃
- 
-   ● 🅸🅽🆃🅴🆁🅴🆂🆃🆂 📈🎢📝🪂🎡🏂🏿:
-       • Building products • Creating content Live coding(YouTube/Twitch).
+
 
 
 
