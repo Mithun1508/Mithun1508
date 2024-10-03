@@ -3,8 +3,6 @@ Hi there 👋How can I Help You?
 I'm Mithun and I'm a computer science student(CS Grad) from India. Here's some info about me!
 
   ● I’m currently learning Microsoft Azure, ChatGPT - OpenAI, Generative AI, Large language models(LLMs).
-  
-  ● Fun fact: I use tabs over spaces
 
 
 ⚡ 𝐖𝐨𝐫𝐤 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:
