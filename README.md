@@ -59,11 +59,8 @@
 <a target="_blank" href="https://www.spotify.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="42" height="42" /></a>
 <a target="_blank" href="https://www.salesforce.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="42" height="42" /></a>
 <a target="_blank" href="https://www.cisco.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="42" height="42" /></a>
-<a target="_blank" href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_teams/microsoft_teams-icon.svg" alt="microsoft teams" width="42" height="42" /></a>
-<a target="_blank" href="https://zoom.us" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zoom/zoom-icon.svg" alt="zoom" width="42" height="42" /></a>
 <a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
 <a target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_sharepoint/microsoft_sharepoint-icon.svg" alt="microsoft sharepoint" width="42" height="42" /></a>
-<a target="_blank" href="https://workspace.google.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_workspace/google_workspace-icon.svg" alt="google workspace" width="42" height="42" /></a>
 <a target="_blank" href="https://trello.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="42" height="42" /></a>
 <a target="_blank" href="https://www.apple.com/apple-podcasts/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_podcasts/apple_podcasts-icon.svg" alt="apple podcasts" width="42" height="42" /></a>
 <a target="_blank" href="https://podcasts.google.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_podcasts/google_podcasts-icon.svg" alt="google podcasts" width="42" height="42" /></a>
