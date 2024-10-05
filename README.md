@@ -61,6 +61,7 @@
 <a target="_blank" href="https://www.cisco.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="42" height="42" /></a>
 <a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
 <a target="_blank" href="https://www.apple.com/app-store/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="app store" width="42" height="42" /></a>
+<a target="_blank" href="https://www.apple.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="42" height="42" /></a>
 <a target="_blank" href="https://www.icloud.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_icloud/apple_icloud-icon.svg" alt="icloud" width="42" height="42" /></a>
 
 <br/>  
