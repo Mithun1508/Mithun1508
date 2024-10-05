@@ -46,6 +46,27 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+   <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
+<a target="_blank" href="https://www.instagram.com/yourprofile" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="42" height="42" /></a>
+<a target="_blank" href="https://wa.me/yourphonenumber" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="42" height="42" /></a>
+<a target="_blank" href="https://slack.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="42" height="42" /></a>
+<a target="_blank" href="https://www.twitch.tv" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="twitch" width="42" height="42" /></a>
+<a target="_blank" href="https://www.ibm.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="ibm" width="42" height="42" /></a>
+<a target="_blank" href="https://www.spotify.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="42" height="42" /></a>
+<a target="_blank" href="https://www.salesforce.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="42" height="42" /></a>
+<a target="_blank" href="https://www.cisco.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="42" height="42" /></a>
+<a target="_blank" href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_teams/microsoft_teams-icon.svg" alt="microsoft teams" width="42" height="42" /></a>
+<a target="_blank" href="https://zoom.us" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zoom/zoom-icon.svg" alt="zoom" width="42" height="42" /></a>
+<a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
+<a target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_sharepoint/microsoft_sharepoint-icon.svg" alt="microsoft sharepoint" width="42" height="42" /></a>
+<a target="_blank" href="https://workspace.google.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_workspace/google_workspace-icon.svg" alt="google workspace" width="42" height="42" /></a>
+<a target="_blank" href="https://trello.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="42" height="42" /></a>
+<a target="_blank" href="https://www.apple.com/apple-podcasts/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_podcasts/apple_podcasts-icon.svg" alt="apple podcasts" width="42" height="42" /></a>
+<a target="_blank" href="https://podcasts.google.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_podcasts/google_podcasts-icon.svg" alt="google podcasts" width="42" height="42" /></a>
 <br/>  
 
 
