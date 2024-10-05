@@ -116,7 +116,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" alt="Liquibase" title="Liquibase"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" alt="Ethereum" title="Ethereum"/></code>
+
 </div>
 
 <div align="left">
