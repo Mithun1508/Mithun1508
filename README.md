@@ -176,23 +176,3 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-
-<div align="left">
-    <p>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="LLM" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Gemini" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Generative AI" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="AI" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="5G" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Metaverse" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Low code / No code reality" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Apple Vision Pro" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Microsoft Azure" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Blockchain" width="42" height="42" /></a>
-        <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Web 3.0" width="42" height="42" /></a>
-    </p>
-</div>
-
-
-
