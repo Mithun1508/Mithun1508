@@ -92,9 +92,7 @@
 <code><img width="150" src="https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white" alt="IntelliJ" title="IntelliJ"/></code>
 <code><img width="150" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" title="IntelliJ"/></code>
 <code><img width="150" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></code>
-<code><img width="150" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></code>
-<code><img width="150" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></code>
-code><img width="150" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="IntelliJ"/></code>
+
 
 <code><img width="150" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="IntelliJ" title="IntelliJ"/></code>
 <code><img width="150" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="IntelliJ"/></code>
