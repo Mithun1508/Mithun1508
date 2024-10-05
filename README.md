@@ -60,9 +60,9 @@
 <a target="_blank" href="https://www.salesforce.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="42" height="42" /></a>
 <a target="_blank" href="https://www.cisco.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="42" height="42" /></a>
 <a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
-<a target="_blank" href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_sharepoint/microsoft_sharepoint-icon.svg" alt="microsoft sharepoint" width="42" height="42" /></a>
-<a target="_blank" href="https://www.apple.com/apple-podcasts/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_podcasts/apple_podcasts-icon.svg" alt="apple podcasts" width="42" height="42" /></a>
-<a target="_blank" href="https://www.apple.com/ios/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_ios/apple_ios-icon.svg" alt="apple ios" width="42" height="42" /></a>
+<a target="_blank" href="https://www.apple.com/app-store/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="app store" width="42" height="42" /></a>
+<a target="_blank" href="https://www.icloud.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_icloud/apple_icloud-icon.svg" alt="icloud" width="42" height="42" /></a>
+
 <br/>  
 
 
