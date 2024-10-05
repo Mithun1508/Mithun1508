@@ -175,6 +175,8 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
+
+
 <div align="left">
     <p>
         <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI" width="42" height="42" /></a>
@@ -191,4 +193,3 @@
         <a target="_blank" href="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="Web 3.0" width="42" height="42" /></a>
     </p>
 </div>
-
