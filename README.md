@@ -36,7 +36,7 @@
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/mithuntran" target="blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a>
+<a href="https://www.instagram.com/mithuntran" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram logo" width="40" height="40" /></a>
 
 <a target="_blank" href="https://slack.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="42" height="42" /></a>
 <a target="_blank" href="https://www.twitch.tv" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="twitch" width="42" height="42" /></a>
