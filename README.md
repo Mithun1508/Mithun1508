@@ -19,7 +19,6 @@ def coding_status():
     
     print(f"The coding process is {status}")
 
-# Call the functions
 blame_god()
 
 coding_status()
