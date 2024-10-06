@@ -35,9 +35,7 @@
 <a target="_blank" href="https://dev.to/Mithun1508" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a href="https://github.com/Mithun1508" target="_blank">
 
-<a target="_blank" href="https://wa.me/yourphonenumber" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="whatsapp" width="42" height="42" /></a>
 
-<a target="_blank" href="https://wa.me/yourphonenumber" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="whatsapp" width="42" height="42" /></a>
 
 
 
