@@ -31,17 +31,8 @@
   <a href="https://www.twitch.tv/mithun15 YT" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
  <a href="https://www.youtube.com/@Newusermithun" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-
 <a target="_blank" href="https://dev.to/Mithun1508" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a href="https://github.com/Mithun1508" target="_blank">
-
-
-
-
-
-
-
-  
 <a target="_blank" href="https://wa.me/yourphonenumber" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="42" height="42" /></a>
 <a target="_blank" href="https://slack.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="42" height="42" /></a>
 <a target="_blank" href="https://www.twitch.tv" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="twitch" width="42" height="42" /></a>
@@ -53,7 +44,6 @@
 <a target="_blank" href="https://www.apple.com/app-store/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="app store" width="42" height="42" /></a>
 <a target="_blank" href="https://www.apple.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="42" height="42" /></a>
 <a target="_blank" href="https://www.icloud.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_icloud/apple_icloud-icon.svg" alt="icloud" width="42" height="42" /></a>
-
 <br/>  
 
 
