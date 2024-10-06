@@ -13,17 +13,15 @@ def blame_god():
     
         print(f"God is the reason for {problem}")
 
-def coding_status():
+function codingStatus() {
 
-    status = "I am dead"
+    let status = "I am dead";
     
-    print(f"The coding process is {status}")
+    console.log("The coding process is " + status);
+    
+}
 
-blame_god()
-
-coding_status()
-
-
+codingStatus();
 
 ![New desktop1122](https://github.com/Mithun1508/Mithun1508/assets/93249038/f0c6381d-c40c-455e-ae25-087cbd53b180)
 
