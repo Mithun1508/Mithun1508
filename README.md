@@ -150,29 +150,51 @@
 
 <div align="left">
      <p>
-       <a target="_blank" href="file:///C:/Users/mithun.e/OneDrive%20-%20NTT/Pictures/new.svg" style="display: inline-block;"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+	     
 <a target="_blank" href="https://camo.githubusercontent.com/06591fdcad0985741be7573b2755eb8b2d89b83ef1e4b1456abecc1f0f075f76/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72657363726970742d69636f6e2e737667" style="display: inline-block;"><img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="typescript" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/3293285324c7f76311f1add9c368c20721954f4db6f051eb39c8ffe3d67cfd46/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73776966742d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/94ff27c17f249c089fdd1e76649652231580609e808474ef7e00d7bf07d2b926/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6761747362792d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/67bff4aa0dd5025bd4b1047ae04dd9af0d3aeaccf1ce4d6959e09d219b3ec1c4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/8cdbcf003a7bdae052baec154c06620bba9bfd89f6fbfc2a4aea3bace8594658/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/b80747215c0d23a4ce8dca6856047504ffbffc8cf565f86740d1a59ccbd3b89a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74657374696e676c6962726172792d69636f6e2e737667" style="display: inline-block;"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="html5" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
+
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/9fb8c7cad55c2ac1f2f94927172a2fd43f1ca48993952ac62f87684664309ee1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6b756265726e657465732d69636f6e2e737667" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+
 <a target="_blank" href="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
+</p>
 </div>
 
