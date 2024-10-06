@@ -46,11 +46,7 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-   <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
+  
 <a target="_blank" href="https://www.instagram.com/yourprofile" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="42" height="42" /></a>
 <a target="_blank" href="https://wa.me/yourphonenumber" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="42" height="42" /></a>
 <a target="_blank" href="https://slack.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="42" height="42" /></a>
@@ -165,6 +161,16 @@
 <code><img width="150" src="https://camo.githubusercontent.com/4a95d31496a4911b9db7710776577cf7ec2158d2813511eb9862e38654de1e3b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667" title="IntelliJ"/></code>
 <code><img width="150" src="https://camo.githubusercontent.com/67bff4aa0dd5025bd4b1047ae04dd9af0d3aeaccf1ce4d6959e09d219b3ec1c4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667" title="IntelliJ"/></code>
 <code><img width="150" src="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667"/></code>
+
+
+
+
+<code><img width="150" src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" title="IntelliJ"/></code>
+<code><img width="150" src="https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" title="IntelliJ"/></code>
+<code><img width="150" src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" title="IntelliJ"/></code>
+<code><img width="150" src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667"/></code>
+<code><img width="150" src="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667"/></code>
+
 
 </div>
 
