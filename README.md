@@ -17,7 +17,7 @@ def blame_god():
 
 function codingStatus() {
 
-    let status = "I am already died Infinite Times";
+    let status = "I am already died inside Infinite Times";
     
     console.log("The coding process is " + status);
     
