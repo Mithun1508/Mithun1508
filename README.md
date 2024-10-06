@@ -1,6 +1,9 @@
 def blame_god():
+
     problems = ["problem1", "problem2", "problem3"]
+    
     for problem in problems:
+
         print(f"God is the reason for {problem}")
 
 blame_god()
