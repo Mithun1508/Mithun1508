@@ -7,19 +7,20 @@ print("Currently debugging... sir/madam Please do not disturb.")
 
 def blame_god():
 
- problems = ["problem1", "problem2", "problem3"]
- 
-for problem in problems:
+    problems = ["problem1", "problem2", "problem3"]
     
-print(f"God is the reason for {problem}")
-   
-blame_god()
+    for problem in problems:
+    
+        print(f"God is the reason for {problem}")
 
 def coding_status():
 
     status = "I am dead"
     
     print(f"The coding process is {status}")
+
+# Call the functions
+blame_god()
 
 coding_status()
 
