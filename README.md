@@ -9,11 +9,11 @@ def blame_god():
 
  problems = ["problem1", "problem2", "problem3"]
  
-    for problem in problems:
+for problem in problems:
     
-   print(f"God is the reason for {problem}")
+print(f"God is the reason for {problem}")
    
-    blame_god()
+blame_god()
 
 
 ![New desktop1122](https://github.com/Mithun1508/Mithun1508/assets/93249038/f0c6381d-c40c-455e-ae25-087cbd53b180)
