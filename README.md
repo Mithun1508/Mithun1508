@@ -13,6 +13,8 @@ def blame_god():
     
         print(f"God is the reason for {problem}")
 
+  blame_god()
+
 function codingStatus() {
 
     let status = "I am dead";
