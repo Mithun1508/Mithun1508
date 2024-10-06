@@ -15,6 +15,15 @@ print(f"God is the reason for {problem}")
    
 blame_god()
 
+def coding_status():
+
+    status = "I am dead"
+    
+    print(f"The coding process is {status}")
+
+coding_status()
+
+
 
 ![New desktop1122](https://github.com/Mithun1508/Mithun1508/assets/93249038/f0c6381d-c40c-455e-ae25-087cbd53b180)
 
