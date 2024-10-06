@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
-<a target="_blank" href="https://www.instagram.com/yourprofile" style="display: inline-block;"><img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" alt="instagram" width="70" height="50" /></a>
+<a target="_blank" href="https://www.instagram.com/yourprofile" style="display: inline-block;"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="instagram" width="70" height="50" /></a>
 <a href="https://codepen.io/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mithune" height="30" width="40" /></a>
 <a href="https://dev.to/mithun1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mithun1508" height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithun-e-5a1735156" height="30" width="40" /></a>
