@@ -1,3 +1,10 @@
+$ git commit -m "I Hate My Life" 2 spaces semicolon. 
+
+if disturbed: 
+
+print("Currently debugging... sir/madam Please do not disturb.")
+
+
 def blame_god():
 
     problems = ["problem1", "problem2", "problem3"]
