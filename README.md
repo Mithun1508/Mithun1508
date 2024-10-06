@@ -155,7 +155,6 @@
 
 </div>
 
-$ git commit -m "I Hate My Life" 2 spaces semicolon.
 
 if disturbed:
 
