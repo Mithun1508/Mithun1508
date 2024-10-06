@@ -47,7 +47,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
   
-<a target="_blank" href="https://www.instagram.com/yourprofile" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="42" height="42" /></a>
 <a target="_blank" href="https://wa.me/yourphonenumber" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="42" height="42" /></a>
 <a target="_blank" href="https://slack.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="42" height="42" /></a>
 <a target="_blank" href="https://www.twitch.tv" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="twitch" width="42" height="42" /></a>
