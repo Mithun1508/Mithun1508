@@ -25,6 +25,20 @@ function codingStatus() {
 
 codingStatus();
 
+happiness_level=100
+
+social_interaction=0
+
+stay_away_from_people() {
+
+    happiness_level=$((happiness_level + 10))
+    
+    social_interaction=$((social_interaction - 1))
+    
+    echo "Happiness increased! Current happiness level: $happiness_level"
+    
+}
+
 ![New desktop1122](https://github.com/Mithun1508/Mithun1508/assets/93249038/f0c6381d-c40c-455e-ae25-087cbd53b180)
 
 
