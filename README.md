@@ -2,7 +2,7 @@
 
 if disturbed: 
 
-    print("Currently debugging... sir/madam Please do not disturb.")
+print("Currently debugging... sir/madam Please do not disturb.")
 
 
 def blame_god():
