@@ -1,8 +1,8 @@
-# $ git commit -m "I Hate My Life" 2 spaces semicolon. 
+ $ git commit -m "I Hate My Life" 2 spaces semicolon. 
 
-# if disturbed: 
+if disturbed: 
 
-# print("Currently debugging... sir/madam Please do not disturb.")
+ print("Currently debugging... sir/madam Please do not disturb.")
 
 
 def blame_god():
