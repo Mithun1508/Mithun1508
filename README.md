@@ -160,6 +160,9 @@ if disturbed:
 
 print("Currently debugging... sir/madam Please do not disturb.")
 
+
+
+
 def blame_god():
 
 problems = ["problem1", "problem2", "problem3"]
@@ -170,6 +173,9 @@ for problem in problems:
  
 blame_god()
 
+
+
+
 function codingStatus() {
 
 let status = "I am already died inside Infinite Times";
@@ -178,6 +184,12 @@ console.log("The coding process is " + status);
 }
 
 codingStatus();
+
+
+
+
+
+
 
 happiness_level=100
 
