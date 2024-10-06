@@ -156,6 +156,7 @@
 </div>
 
 def if_disturbed():
+
     print("Currently debugging... sir/madam, please do not disturb.")
 
 # Example usage
@@ -166,8 +167,11 @@ if_disturbed()
 
 
 def blame_god():
+
     problems = ["problem1", "problem2", "problem3"]
+    
     for problem in problems:
+    
         print(f"God is the reason for {problem}")
 
 blame_god()
@@ -175,8 +179,11 @@ blame_god()
 
 
 function codingStatus() {
+
     let status = "I have already died inside Infinite Times";
+    
     console.log("The coding process is " + status);
+    
 }
 
 codingStatus();
@@ -187,12 +194,18 @@ codingStatus();
 
 
 happiness_level=100
+
 social_interaction=0
 
+
 stay_away_from_people() {
+
     happiness_level=$((happiness_level + 10))
+    
     social_interaction=$((social_interaction - 1))
+    
     echo "Happiness increased! Current happiness level: $happiness_level"
+    
 }
 
 stay_away_from_people
