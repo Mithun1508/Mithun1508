@@ -155,12 +155,11 @@
 
 </div>
 
-def if_disturbed():
+if_disturbed:
 
     print("Currently debugging... sir/madam, please do not disturb.")
 
-# Example usage
-if_disturbed()
+
 
 
 
