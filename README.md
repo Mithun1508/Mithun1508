@@ -155,6 +155,7 @@
 
 </div>
 
+# Debugging as a Software developer 
 if_disturbed:
 
     print("Currently debugging... sir/madam, please do not disturb.")
@@ -163,7 +164,7 @@ if_disturbed:
 
 
 
-
+# My Life In Python:
 
 def blame_god():
 
@@ -176,7 +177,7 @@ def blame_god():
 blame_god()
 
 
-
+# 200 response
 function codingStatus() {
 
     let status = "I have already died inside Infinite Times";
@@ -190,7 +191,7 @@ codingStatus();
 
 
 
-
+# social status
 
 happiness_level=100
 
