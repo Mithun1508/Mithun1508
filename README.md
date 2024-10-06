@@ -1,43 +1,4 @@
- $ git commit -m "I Hate My Life" 2 spaces semicolon. 
 
-if disturbed: 
-
-print("Currently debugging... sir/madam Please do not disturb.")
-
-
-def blame_god():
-
-    problems = ["problem1", "problem2", "problem3"]
-    
-    for problem in problems:
-    
-        print(f"God is the reason for {problem}")
-
-  blame_god()
-
-function codingStatus() {
-
-    let status = "I am already died inside Infinite Times";
-    
-    console.log("The coding process is " + status);
-    
-}
-
-codingStatus();
-
-happiness_level=100
-
-social_interaction=0
-
-stay_away_from_people() {
-
-    happiness_level=$((happiness_level + 10))
-    
-    social_interaction=$((social_interaction - 1))
-    
-    echo "Happiness increased! Current happiness level: $happiness_level"
-    
-}
 
 ![New desktop1122](https://github.com/Mithun1508/Mithun1508/assets/93249038/f0c6381d-c40c-455e-ae25-087cbd53b180)
 
@@ -193,4 +154,43 @@ stay_away_from_people() {
 
 
 </div>
+
+$ git commit -m "I Hate My Life" 2 spaces semicolon.
+
+if disturbed:
+
+print("Currently debugging... sir/madam Please do not disturb.")
+
+def blame_god():
+
+problems = ["problem1", "problem2", "problem3"]
+
+for problem in problems:
+
+    print(f"God is the reason for {problem}")
+blame_god()
+
+function codingStatus() {
+
+let status = "I am already died inside Infinite Times";
+
+console.log("The coding process is " + status);
+}
+
+codingStatus();
+
+happiness_level=100
+
+social_interaction=0
+
+stay_away_from_people() {
+
+happiness_level=$((happiness_level + 10))
+
+social_interaction=$((social_interaction - 1))
+
+echo "Happiness increased! Current happiness level: $happiness_level"
+}
+
+
 
