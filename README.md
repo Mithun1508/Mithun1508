@@ -156,9 +156,11 @@
 </div>
 
 # Debugging as a Software developer :
-if_disturbed:
 
-    print("Currently debugging... sir/madam, please do not disturb.")
+
+if_disturbed:
+      
+    print("Currently debugging turning On INFO logs in prod.... sir/madam, please do not disturb.")
 
 
 
@@ -178,11 +180,16 @@ blame_god()
 
 
 # 200 HTTP Status Code (Success) :
+const logger = console;
+
 function codingStatus() {
 
     let status = "I have already died inside Infinite Times";
+
     
     console.log("The coding process is " + status);
+    
+    logger.log("The coding process is " + status);
     
 }
 
