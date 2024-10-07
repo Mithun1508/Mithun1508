@@ -197,7 +197,7 @@ codingStatus();
 
 
 
-# social status :
+# social Interactions :
 
 happiness_level=100
 
