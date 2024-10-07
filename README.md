@@ -177,7 +177,7 @@ def blame_god():
 blame_god()
 
 
-# 200 response
+# 200 HTTP Status Code (Success)
 function codingStatus() {
 
     let status = "I have already died inside Infinite Times";
