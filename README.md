@@ -184,7 +184,7 @@ const logger = console;
 
 function codingStatus() {
 
-    let status = "I have already died inside Infinite Times";
+    let status = "I am already dead";
 
     console.log("The coding process is " + status);
     
