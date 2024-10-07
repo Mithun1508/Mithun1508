@@ -166,7 +166,7 @@ if_disturbed:
 
 
 
-# My Life In Python :
+# My Life In Python 3.0 :
 
 def blame_god():
 
