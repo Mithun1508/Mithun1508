@@ -179,20 +179,27 @@ def blame_god():
 blame_god()
 
 
-# 200 HTTP Status Code (Success) :
-const logger = console;
+# Coding Kinda Sucks:
 
-function codingStatus() {
+console.log("i hate coding");
+console.log("i hate coding");
+console.log("i hate coding");
+console.log("i hate coding");
 
-    let status = "I am already dead";
+int main()
+{
+    printf("goodbye coding\n");
+    printf("goodbye coding\n");
+    printf("goodbye coding\n");
+    printf("goodbye coding\n");
+    }
 
-    console.log("The coding process is " + status);
-    
-    logger.log("The coding process is " + status);
-    
+public static void main(String[] args){
+    System.out.println("i hate coding");
+    System.out.println("i hate coding");
+    System.out.println("i hate coding");
+    System.out.println("i hate coding");
 }
-
-codingStatus();
 
 
 
