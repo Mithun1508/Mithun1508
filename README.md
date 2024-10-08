@@ -204,13 +204,13 @@ int main()
 
 public static void main(String[] args){
 
-    System.out.println("i hate coding");
+    System.out.println("Coding Delusion");
     
-    System.out.println("i hate coding");
+    System.out.println("Coding Delusion");
     
-    System.out.println("i hate coding");
+    System.out.println("Coding Delusion");
     
-    System.out.println("i hate coding");
+    System.out.println("Coding Delusion");
 }
 
 
