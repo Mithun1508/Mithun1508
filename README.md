@@ -192,17 +192,18 @@ console.log("i hate coding");
 int main()
 {
 
-    printf("goodbye coding\n");
+    printf("In 2024 goodbye coding\n");
     
-    printf("goodbye coding\n");
+    printf("In 2024 goodbye coding\n");
     
-    printf("goodbye coding\n");
+    printf("In 2024 goodbye coding\n");
     
-    printf("goodbye coding\n");
+    printf("In 2024 goodbye coding\n");
     
     }
 
 public static void main(String[] args){
+
     System.out.println("i hate coding");
     
     System.out.println("i hate coding");
