@@ -51,6 +51,10 @@
 <a href="https://openai.com/chatgpt" target="_blank">
   <img src="https://img.shields.io/badge/ChatGPT-%2300A67E.svg?&style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </a>
+<a href="https://www.codingninjas.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
+</a>
+
 
 <br/>  
 
