@@ -181,13 +181,13 @@ blame_god()
 
 # Coding Kinda Sucks:
 
-console.log("i hate coding");
+console.log("i am already dead");
 
-console.log("i hate coding");
+console.log("i am already dead");
 
-console.log("i hate coding");
+console.log("i am already dead");
 
-console.log("i hate coding");
+console.log("i am already dead");
 
 int main()
 {
