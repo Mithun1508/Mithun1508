@@ -54,6 +54,14 @@
 <a href="https://www.codingninjas.com/" target="_blank">
   <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
 </a>
+<a target=“_blank” href=“https://www.ibm.com/topics/chatbots” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg” alt=“IBM” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://www.ibm.com/topics/generative-ai” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg” alt=“IBM” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://www.ibm.com/topics/large-language-models” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg” alt=“IBM” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://www.atlassian.com/software/confluence” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/atlassian/atlassian-icon.svg” alt=“Atlassian” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://www.cisco.com/c/en/us/solutions/what-is-5g.html” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg” alt=“Cisco” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://www.reddit.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg” alt=“Reddit” width=“42” height=“42” /></a> 
+<a target=“_blank” href=“https://www.quora.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/quora/quora-icon.svg” alt=“Quora” width=“42” height=“42” /></a> 
+<a target=“_blank” href=“https://medium.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/medium/medium-icon.svg” alt=“Medium” width=“42” height=“42” /></a>
 
 
 <br/>  
