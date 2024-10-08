@@ -54,7 +54,9 @@
 <a href="https://www.codingninjas.com/" target="_blank">
   <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
 </a>
-<a target=“_blank” href=“https://www.atlassian.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/atlassian/atlassian-icon.svg” alt=“Atlassian” width=“42” height=“42” /></a>
+<a href=“https://www.atlassian.com” target="_blank"/>
+   <img src="https://www.vectorlogo.zone/logos/atlassian/atlassian-icon.svg" alt="atlassian" />	
+</a>
 <a target=“_blank” href=“https://www.salesforce.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg” alt=“Salesforce” width=“42” height=“42” /></a>
 <a target=“_blank” href=“https://www.atlassian.com/software/jira” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg” alt=“Jira” width=“42” height=“42” /></a>
 
