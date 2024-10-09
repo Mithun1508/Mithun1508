@@ -44,10 +44,10 @@
 <a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
 
 <a href="https://www.codingninjas.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas"  width="42" height="42" />
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
 </a>
 <a href="https://www.reddit.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit"  width="42" height="42" />
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit"  />
 </a>
 
 <br/>  
@@ -75,9 +75,9 @@
 <code><img width="50" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" title="IntelliJ"/></code>
 <code><img width="100" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="IntelliJ" title="IntelliJ"/></code>
 <code><img width="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="IntelliJ"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/></code>
+<code><img width="50" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/></code>
+<code><img width="50" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/></code>
 <code><img width="50" src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" title="IntelliJ"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" title="IntelliJ"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/></code>
@@ -86,10 +86,10 @@
 <code><img width="100" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></code>
+<code><img width="50" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></code>
 <code><img width="50" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></code>
+<code><img width="50" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></code>
