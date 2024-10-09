@@ -43,20 +43,13 @@
 <a target="_blank" href="https://www.cisco.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="42" height="42" /></a>
 <a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
 <a target="_blank" href="https://www.apple.com/app-store/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="app store" width="42" height="42" /></a>
-<a href="https://github.com/features/copilot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
-</a>
-<a href="https://openai.com/chatgpt" target="_blank">
-  <img src="https://img.shields.io/badge/ChatGPT-%2300A67E.svg?&style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-</a>
+
 <a href="https://www.codingninjas.com/" target="_blank">
   <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
 </a>
 <a href="https://www.reddit.com/" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit" />
 </a>
-<code><img width="150" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/></code>
-
 
 <br/>  
 
