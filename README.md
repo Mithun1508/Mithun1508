@@ -73,12 +73,9 @@
 <code><img width="150" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/></code>
-<code><img width="150" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" title="IntelliJ"/></code>
-<code><img width="150" src="https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white" alt="IntelliJ" title="IntelliJ"/></code>
 <code><img width="150" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" title="IntelliJ"/></code>
 <code><img width="150" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="IntelliJ" title="IntelliJ"/></code>
 <code><img width="150" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="IntelliJ"/></code>
-<code><img width="150" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/></code>
@@ -97,10 +94,8 @@
 <code><img width="150" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></code>
-<code><img width="150" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></code>
-<code><img width="150" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/></code>
 <code><img width="150" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/></code>
 
