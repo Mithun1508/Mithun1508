@@ -135,7 +135,6 @@
  <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="Pycharm" title="Sublime Text"/></code>
  <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" alt="Vim" title="Sublime Text"/></code>
  <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Vim" title="visual sudio"/></code>
-</div>
 </code>
 	<code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" alt="Neovim" title="Neovim"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
