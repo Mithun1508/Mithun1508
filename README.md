@@ -177,18 +177,12 @@
 
 </div>
 
-# Debugging as a Software developer :
 
 
 if_disturbed:
       
     print("Currently debugging turning On INFO logs in prod.... sir/madam, please do not disturb.")
 
-
-
-
-
-# My Life In Python 3.0 :
 
 def blame_god():
 
