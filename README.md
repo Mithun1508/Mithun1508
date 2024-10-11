@@ -9,7 +9,7 @@
 
 <h3 align="left">Social Profiles </h3>
 <p align="left">
-<a href="https://codepen.io/mithune" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="mithune" height="30" width="40" /></a>
+<a href="https://codepen.io/mithune" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/CodePen_Logo.svg/330px-CodePen_Logo.svg.png" alt="mithune" height="30" width="40" /></a>
 <a href="https://dev.to/mithun1508" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="mithun1508" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mithun-5a1735156/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="mithun-e-5a1735156" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20698323/mithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mithun" height="30" width="40" /></a>
