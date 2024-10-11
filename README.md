@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mith1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mith1508" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mithun242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mithun242" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mithun242" target="blank"><img align="center" src="https://www.hackerearth.com/recruit/homepage-files/assets/images/hackerEarth-logo.svg" alt="@mithun242" height="70" width="70" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
 <a href="https://www.techgig.com/codegladiators/dashboard" target="blank"><img align="center" src="https://www.techgig.com/files/contest_upload_files/tg-logo-banner-060723.png" alt="mithune" height="60" width="60" /></a>
@@ -58,7 +58,7 @@
 <a target="_blank" href="https://www.cisco.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="42" height="42" /></a>
 <a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
 <a href="https://www.reddit.com/" target="_blank">
-  <img src="https://redditinc.com/hubfs/Reddit%20Inc/Brand/Reddit_Lockup_Logo.svg" alt="reddit" alt="skype" width="42" height="42"  />
+  <img src="https://redditinc.com/hubfs/Reddit%20Inc/Brand/Reddit_Lockup_Logo.svg" alt="reddit" alt="skype" width="70" height="70"  />
 </a>
 <a href="https://developers.google.com/profile/u/111142552063927292402/dashboard" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Google_Code_Jam_logo.png/330px-Google_Code_Jam_logo.png" alt="Code Jam"  width="100" height="100"  />
