@@ -92,7 +92,7 @@
 <code><img width="100" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/></code>
 <a target="_blank" href="https://www.apple.com/app-store/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="app store" width="42" height="42" /></a>
 
 </div>
