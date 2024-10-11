@@ -85,17 +85,12 @@
 <code><img width="100" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></code>
-<code><img width="50" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></code>
 <code><img width="50" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></code>
 <code><img width="50" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></code>
-<code><img width="50" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></code>
-<code><img width="50" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/></code>
 <a target="_blank" href="https://www.apple.com/app-store/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="app store" width="42" height="42" /></a>
 
