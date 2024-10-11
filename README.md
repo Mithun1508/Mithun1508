@@ -26,6 +26,18 @@
 <a href="https://www.techgig.com/codegladiators/dashboard" target="blank"><img align="center" src="https://www.techgig.com/files/contest_upload_files/tg-logo-banner-060723.png" alt="mithune" height="60" width="60" /></a>
 <a href="https://coderbyte.com/profile/user0syp7ngu1" target="blank"><img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="mithune" height="60" width="60" /></a>
 <a href="https://app.codility.com/programmers/" target="blank"><img align="center" src="https://www.codility.com/wp-content/uploads/2020/03/On_light-png.webp" alt="mithune" height="60" width="60" /></a>
+<a href="https://www.codingninjas.com/" target="_blank">
+  <img src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" />
+</a>
+<a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
+  <img src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="Coding Ninjas" />
+</a>
+<a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
+  <img src="https://projecteuler.net/themes/logo_default.png" alt="projecteuler" />
+</a>
+<a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
+  <img src="https://stx1.spoj.com/gfx/2015e.png" alt="spoj" />
+</a>
 
 </p>
 <div align="left">
@@ -46,10 +58,6 @@
 <a target="_blank" href="https://www.salesforce.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="42" height="42" /></a>
 <a target="_blank" href="https://www.cisco.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="42" height="42" /></a>
 <a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
-
-<a href="https://www.codingninjas.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
-</a>
 <a href="https://www.reddit.com/" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit"  />
 </a>
