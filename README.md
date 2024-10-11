@@ -23,9 +23,9 @@
 <a href="https://www.hackerearth.com/@mithun242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mithun242" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
-<a href="https://www.techgig.com/codegladiators/dashboard" target="blank"><img align="center" src="https://www.techgig.com/files/contest_upload_files/tg-logo-banner-060723.png" alt="mithune" height="70" width="70" /></a>
-<a href="https://coderbyte.com/profile/user0syp7ngu1" target="blank"><img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="mithune" height="70" width="70" /></a>
-<a href="https://app.codility.com/programmers/" target="blank"><img align="center" src="https://www.codility.com/wp-content/uploads/2020/03/On_light-png.webp" alt="mithune" height="70" width="70" /></a>
+<a href="https://www.techgig.com/codegladiators/dashboard" target="blank"><img align="center" src="https://www.techgig.com/files/contest_upload_files/tg-logo-banner-060723.png" alt="mithune" height="50" width="50" /></a>
+<a href="https://coderbyte.com/profile/user0syp7ngu1" target="blank"><img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="mithune" height="50" width="50" /></a>
+<a href="https://app.codility.com/programmers/" target="blank"><img align="center" src="https://www.codility.com/wp-content/uploads/2020/03/On_light-png.webp" alt="mithune" height="50" width="50" /></a>
 
 </p>
 <div align="left">
