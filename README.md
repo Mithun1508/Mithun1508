@@ -193,7 +193,7 @@ def blame_god():
     
     for problem in problems:
     
-        print(f"God is the reason for {problem}")
+    print(f"God is the reason for {problem}")
 
 blame_god()
 
