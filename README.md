@@ -189,7 +189,7 @@ if_disturbed:
 
 def blame_god():
 
-    problems = ["problem1", "problem2", "problem3"]
+ problems = ["problem1", "problem2", "problem3"]
     
     for problem in problems:
     
