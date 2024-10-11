@@ -23,6 +23,14 @@
 <a href="https://www.hackerearth.com/@mithun242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mithun242" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
+<a target=“_blank” href=“https://coderbyte.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/coderbyte/coderbyte-icon.svg” alt=“Coderbyte” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://www.codility.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/codility/codility-icon.svg” alt=“Codility” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://www.codewars.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/codewars/codewars-icon.svg” alt=“Codewars” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://atcoder.jp” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/atcoder/atcoder-icon.svg” alt=“AtCoder” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://projecteuler.net” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/projecteuler/projecteuler-icon.svg” alt=“Project Euler” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://codingcompetitions.withgoogle.com/codejam” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/google_codejam/google_codejam-icon.svg” alt=“Google Code Jam” width=“42” height=“42” /></a>
+<a target=“_blank” href=“https://www.techgig.com” style=“display: inline-block;”><img src=“https://www.vectorlogo.zone/logos/techgig/techgig-icon.svg” alt=“TechGig” width=“42” height=“42” /></a>
+
 </p>
 <div align="left">
   <a href="https://x.com/mithuntran" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
