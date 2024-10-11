@@ -72,12 +72,12 @@
 <code><img width="50" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/></code>
-<code><img width="50" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" title="IntelliJ"/></code>
+<code><img width="70" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" title="IntelliJ"/></code>
 <code><img width="100" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="IntelliJ" title="IntelliJ"/></code>
-<code><img width="50" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/></code>
-<code><img width="50" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/></code>
-<code><img width="50" src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" title="IntelliJ"/></code>
+<code><img width="70" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" title="IntelliJ"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" title="IntelliJ"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/></code>
@@ -85,7 +85,7 @@
 <code><img width="100" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></code>
-<code><img width="50" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></code>
 <code><img width="100" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></code>
@@ -99,7 +99,7 @@
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
  <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
- <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png" alt="AppCode" title="Sublime Text"/></code>
+ <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png" alt="AppCode" title="AppCode"/></code>
   <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Sublime Text"/></code>
   <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="Pycharm" title="Sublime Text"/></code>
  <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" alt="Vim" title="VIM"/></code>
