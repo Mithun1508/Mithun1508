@@ -38,7 +38,7 @@
 <a href="https://www.spoj.com/" target="_blank">
   <img src="https://stx1.spoj.com/gfx/2015e.png" alt="spoj" height="70" width="70" / />
 </a>
-/p>
+
 <div align="left">
  <a href="https://x.com/mithuntran" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://www.twitch.tv/mithun15 YT" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
