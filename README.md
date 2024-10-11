@@ -184,7 +184,7 @@
 
 if_disturbed:
       
-    print("Currently debugging turning On INFO logs in prod.... sir/madam, please do not disturb for High productivity.")
+    print("Currently enabling INFO logs in production for Debugging. Sir/Madam Please do not disturb for optimal productivity.")
 
 
 def blame_god():
