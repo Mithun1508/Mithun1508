@@ -27,16 +27,16 @@
 <a href="https://coderbyte.com/profile/user0syp7ngu1" target="blank"><img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="mithune" height="60" width="60" /></a>
 <a href="https://app.codility.com/programmers/" target="blank"><img align="center" src="https://www.codility.com/wp-content/uploads/2020/03/On_light-png.webp" alt="mithune" height="60" width="60" /></a>
 <a href="https://www.codingninjas.com/" target="_blank">
-  <img src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" alt="mithune" height="60" width="60" / />
+  <img src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" alt="mithune" height="70" width="70" / />
 </a>
 <a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
-  <img src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="interviewbit" alt="mithune" height="60" width="60" / />
+  <img src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="interviewbit" alt="mithune" height="70" width="70" / />
 </a>
 <a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
-  <img src="https://projecteuler.net/themes/logo_default.png" alt="projecteuler" alt="mithune" height="60" width="60" / />
+  <img src="https://projecteuler.net/themes/logo_default.png" alt="projecteuler" alt="mithune" height="70" width="70" / />
 </a>
-<a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
-  <img src="https://stx1.spoj.com/gfx/2015e.png" alt="spoj" />
+<a href="https://www.spoj.com/" target="_blank">
+  <img src="https://stx1.spoj.com/gfx/2015e.png" alt="spoj" height="70" width="70" / />
 </a>
 
 </p>
