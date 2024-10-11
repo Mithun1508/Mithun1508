@@ -98,7 +98,7 @@
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
- <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Sublime Text"/></code>
+ <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
  <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png" alt="AppCode" title="Sublime Text"/></code>
   <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Sublime Text"/></code>
   <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="Pycharm" title="Sublime Text"/></code>
