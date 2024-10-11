@@ -23,13 +23,6 @@
 <a href="https://www.hackerearth.com/@mithun242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mithun242" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
-<a href="https://coderbyte.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coderbyte/coderbyte-original.svg" alt="Coderbyte" height="30" width="40" /></a>
-<a href="https://www.codility.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codility/codility-original.svg" alt="Codility" height="30" width="40" /></a>
-<a href="https://www.codewars.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codewars/codewars-original.svg" alt="Codewars" height="30" width="40" /></a>
-<a href="https://atcoder.jp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atcoder/atcoder-original.svg" alt="Atcoder" height="30" width="40" /></a>
-<a href="https://projecteuler.net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/projecteuler/projecteuler-original.svg" alt="Project Euler" height="30" width="40" /></a>
-<a href="https://codingcompetitions.withgoogle.com/codejam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecodejam/googlecodejam-original.svg" alt="Google Code Jam" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/topcoder/topcoder-original.svg" alt="Topcoder" height="30" width="40" /></a>
 
 </p>
 <div align="left">
