@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit"  />
 </a>
 <a href="https://developers.google.com/profile/u/111142552063927292402/dashboard" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Google_Code_Jam_logo.png/330px-Google_Code_Jam_logo.png" alt="Code Jam"  width="42" height="42"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Google_Code_Jam_logo.png/330px-Google_Code_Jam_logo.png" alt="Code Jam"  width="70" height="70"  />
 </a>
 
 <br/>  
