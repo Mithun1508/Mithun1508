@@ -201,3 +201,7 @@ def blame_god():
 
 blame_god()
 
+let user = "Mithun1508";
+console.log(`The GitHub user ${user} is dead`);
+
+
