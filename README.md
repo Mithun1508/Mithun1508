@@ -106,7 +106,7 @@
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
  <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/></code>
- <code><img width="70" src="https://images.ctfassets.net/8j5aqoy0ts8s/3V650c91OiNdKFEHshpKMs/759fe6983e0f99bb2f8e11f0cffa024c/atlassian-blue-logo.png" alt="Atlassian" title="Bitbucket"/></code>
+ <code><img width="90" src="https://images.ctfassets.net/8j5aqoy0ts8s/3V650c91OiNdKFEHshpKMs/759fe6983e0f99bb2f8e11f0cffa024c/atlassian-blue-logo.png" alt="Atlassian" title="Bitbucket"/></code>
  <code><img width="70" src="https://www.vmware.com/media/blt8c9a8aaca0ffd4ac/blt5a3e185aed7848a3/65fac63dd3267616e27e7051/vmware-logo-grey.svg" alt="vmware" title="vmware "/></code>
  <code><img width="70" src="https://mocki.io/mocki.svg" alt="vmware" title="vmware "/></code>
 <code><img width="70" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"/></code>
