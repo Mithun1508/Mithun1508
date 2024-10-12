@@ -151,6 +151,13 @@
 <code><img width="40" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" alt="Ethereum" title="Ethereum"/></code>
 <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" alt="DiscordBot" title="DiscordBot"/></code>
 <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordJS-Dark.svg" alt="DiscordJs" title="DiscordJs"/></code>
+
+<code><img width="40" src="https://download.logo.wine/logo/Confluence_(software)/Confluence_(software)-Logo.wine.png" alt="DiscordJs" title="DiscordJs"/></code>
+<code><img width="40" src="https://www.logo.wine/a/logo/PlayStation/PlayStation-Logo.wine.svg" alt="DiscordJs" title="Playstation"/></code>
+<code><img width="40" src="https://i.pcmag.com/imagery/reviews/01RiFnood1oFGiIBEog0PFu-11.fit_scale.size_1028x578.v1569472221.jpg 
+" alt="DiscordJs" title="DiscordJs"/></code>
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cisco_Webex_logo_-_Brandlogos.net.svg/330px-Cisco_Webex_logo_-_Brandlogos.net.svg.png" alt="DiscordJs" title="ciscowebex"/></code>
+
 </code>
 
 </div>
