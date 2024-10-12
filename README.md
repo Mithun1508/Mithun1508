@@ -106,6 +106,11 @@
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
  <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/></code>
+ <code><img width="40" src="https://images.ctfassets.net/8j5aqoy0ts8s/3V650c91OiNdKFEHshpKMs/759fe6983e0f99bb2f8e11f0cffa024c/atlassian-blue-logo.png" alt="Atlassian" title="Bitbucket"/></code>
+ <code><img width="40" src="https://www.vmware.com/media/blt8c9a8aaca0ffd4ac/blt5a3e185aed7848a3/65fac63dd3267616e27e7051/vmware-logo-grey.svg" alt="vmware" title="vmware "/></code>
+ <code><img width="40" src="https://mocki.io/mocki.svg" alt="vmware" title="vmware "/></code>
+<code><img width="40" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"/></code>
+ <code><img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHufB3egdfSUSc93jD0Ylu76gptzSKh9GYA&s" alt="Github copilot" title="Copilot "/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube"/></code>
 <code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" alt="styled-components" title="styled-components"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></code>
