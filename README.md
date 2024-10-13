@@ -1,6 +1,7 @@
 
 
-![New desktop1122](https://github.com/Mithun1508/Mithun1508/assets/93249038/f0c6381d-c40c-455e-ae25-087cbd53b180)
+![Ultra wide desktop setup](https://github.com/user-attachments/assets/81aad11d-e125-4506-8254-0a632b006d8e)
+
 
 
 
