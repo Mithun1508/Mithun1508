@@ -5,7 +5,8 @@
 
 
 
-<img width="548" alt="Ultrawide desktop" src="https://github.com/user-attachments/assets/f6b8a86d-ddf7-4048-aca7-c71290e9ce34">
+<img width="960" alt="Ultrawide " src="https://github.com/user-attachments/assets/f136f4d8-983b-4e66-b8c9-13efbf6df409">
+
 
 
 
