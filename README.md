@@ -1,12 +1,6 @@
 
 
-
-
-
-
-
-<img width="960" alt="Ultrawide " src="https://github.com/user-attachments/assets/f136f4d8-983b-4e66-b8c9-13efbf6df409">
-
+![Screenshot 2024-10-20 150426](https://github.com/user-attachments/assets/d34e358c-6138-4487-a630-94e188299938)
 
 
 
