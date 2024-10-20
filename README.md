@@ -1,10 +1,11 @@
 
 
-![Ultra wide desktop setup](https://github.com/user-attachments/assets/81aad11d-e125-4506-8254-0a632b006d8e)
 
 
 
 
+
+<img width="548" alt="Ultrawide desktop" src="https://github.com/user-attachments/assets/f6b8a86d-ddf7-4048-aca7-c71290e9ce34">
 
 
 
