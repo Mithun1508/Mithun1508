@@ -1,7 +1,6 @@
 
 
-![Screenshot 2024-10-20 150426](https://github.com/user-attachments/assets/d34e358c-6138-4487-a630-94e188299938)
-
+<img width="915" alt="Ultrawide deskop1" src="https://github.com/user-attachments/assets/26632bb7-4afc-44b9-b53f-bee43c26f8dc">
 
 
 <h3 align="left">Social Profiles </h3>
