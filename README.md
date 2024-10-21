@@ -30,23 +30,7 @@
 <a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
   <img src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="interviewbit" alt="mithune" height="70" width="70" / />
 </a>
-	
-<a href="https://www.codewars.com/users/Mithun1508" target="_blank">
-  <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="projecteuler" alt="mithune" height="70" width="70" / />
-</a>
-<a href="https://www.spoj.com/" target="_blank">
-  <img src="https://stx1.spoj.com/gfx/2015e.png" alt="spoj" height="70" width="70" / />
-</a>
 
-<a href="https://www.spoj.com/" target="_blank">
-  <img src="https://www.mycplus.com/ezoimgfmt/cdn.mycplus.com/mycplus/wp-content/uploads/2011/02/challenge24-header.jpg?ezimgfmt=ng:webp/ngcb1" alt="spoj" height="70" width="70" / />
-</a>
-<a href="https://www.spoj.com/" target="_blank">
-  <img src="https://www.mycplus.com/ezoimgfmt/cdn.mycplus.com/mycplus/wp-content/uploads/2011/02/The-International-Obfuscated-C-Code-Contest.png?ezimgfmt=ng:webp/ngcb1" height="70" width="70" / />
-</a>
-<a href="https://www.spoj.com/" target="_blank">
-  <img src="https://ipsc.ksp.sk/static/ipsc.gif" alt="spoj" height="70" width="70" / />
-</a>
 
 <div align="left">
  <a href="https://x.com/mithuntran" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
