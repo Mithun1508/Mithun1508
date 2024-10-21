@@ -30,8 +30,7 @@
 <a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
   <img src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="interviewbit" alt="mithune" height="70" width="70" / />
 </a>
-
- <a href="https://x.com/mithuntran" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />  </a>
+<a href="https://x.com/mithuntran" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />  </a>
   <a href="https://www.twitch.tv/mithun15 YT" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
  <a href="https://www.youtube.com/@Newusermithun" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /> </a>
