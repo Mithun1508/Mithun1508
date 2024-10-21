@@ -47,9 +47,6 @@
 <a href="https://www.reddit.com/" target="_blank">
   <img src="https://redditinc.com/hubfs/Reddit%20Inc/Brand/Reddit_Lockup_Logo.svg" alt="reddit" alt="skype" width="70" height="70"  />
 </a>
-<a href="https://developers.google.com/profile/u/111142552063927292402/dashboard" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Google_Code_Jam_logo.png/330px-Google_Code_Jam_logo.png" alt="Code Jam"  width="100" height="100"  />
-</a>
 
 <br/>  
 
