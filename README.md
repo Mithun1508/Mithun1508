@@ -211,6 +211,4 @@ let user = "Mithun1508";
 
 console.log(`The GitHub user ${user} is dead`);
 
-print("Feeling like: Why was I born?" if True else "Everything is fine.")
-
 
