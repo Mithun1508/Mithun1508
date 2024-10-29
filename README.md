@@ -192,23 +192,3 @@
 
 
 
-if_disturbed:
- 
-  print("Currently enabling INFO logs in production for Debugging. Sir/Madam Please do not disturb for optimal productivity.\n")
-
-
-def blame_god():
-
- problems = ["problem1", "problem2", "problem3"]
- 
- for problem in problems:
- 
- print(f"God is the reason for {problem}")
-
-blame_god()
-
-let user = "Mithun1508";
-
-console.log(`The GitHub user ${user} is dead`);
-
-
