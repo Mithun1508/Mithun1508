@@ -1,7 +1,8 @@
 
+![ultrawide desktop](https://github.com/user-attachments/assets/7641c48c-19ff-4630-b355-bbffd70e011e)
 
 
-<img width="893" alt="Ultrawide desktop1 " src="https://github.com/user-attachments/assets/572f20f7-11b2-4dd5-89c2-c3e84725925d">
+
 
 
 
