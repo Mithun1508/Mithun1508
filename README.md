@@ -120,15 +120,6 @@
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" title="prometheus"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" title="ElasticSearch"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RedHat-Dark.svg" alt="RedHat" title="RedHat"/>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" alt="RedHat" title="windows"/>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg " alt="RedHat" title="powershell"/>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg" alt="Notion" title="Notion"/>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg " alt="kotlin" title="Notion"/>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenShift.svg" alt="kotlin" title="Notion"/>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Regex-Dark.svg" alt="Regex" title="Regex"/>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg " alt="Regex" title="styledcomponents"/>
-<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Webpack-Dark.svg" alt="Regex" title="styledcomponents"/>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
