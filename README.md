@@ -5,15 +5,8 @@
 <code><img width="100" src="https://camo.githubusercontent.com/d0acab0cf5d545c31ff8e05123d4895e54af4678a7bb0f6c84556ca4de1dcea9/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f706c6179696e672f323736353434363439313438323335373736" alt="Bitbucket" title="Bitbucket"/></code>
 <code><img width="100" src="https://camo.githubusercontent.com/429c38f2a4e99187b2b513aefda304c75af8d88a8976fd7d7f18cd035936d07a/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f7673636f64652f323736353434363439313438323335373736" alt="Bitbucket" title="Bitbucket"/></code>
 <code><img width="120" src="https://camo.githubusercontent.com/2a45e1c3ddbd0d0ff518aba1e9e9414e6de1c2febe559f56f33baa723ecaac6c/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f73706f746966792f323736353434363439313438323335373736" alt="Bitbucket" title="Bitbucket"/></code>
-
-
-
-
-
-
 <h3 align="left">Social Profiles </h3>
 <p align="left">
-<a href="https://codepen.io/mithune" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/CodePen_Logo.svg/330px-CodePen_Logo.svg.png" alt="mithune" height="30" width="40" /></a>
 <a href="https://dev.to/mithun1508" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="mithun1508" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mithun-5a1735156/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="mithun-e-5a1735156" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20698323/mithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mithun" height="30" width="40" /></a>
@@ -28,13 +21,8 @@
 <a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
 <a href="https://www.techgig.com/codegladiators/dashboard" target="blank"><img align="center" src="https://www.techgig.com/files/contest_upload_files/tg-logo-banner-060723.png" alt="mithune" height="60" width="60" /></a>
-<a href="https://coderbyte.com/profile/user0syp7ngu1" target="blank"><img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="mithune" height="60" width="60" /></a>
-<a href="https://app.codility.com/programmers/" target="blank"><img align="center" src="https://www.codility.com/wp-content/uploads/2020/03/On_light-png.webp" alt="mithune" height="60" width="60" /></a>
 <a href="https://www.codingninjas.com/" target="_blank">
   <img src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" alt="mithune" height="70" width="70" / />
-</a>
-<a href="https://www.interviewbit.com/profile/mithun_273/" target="_blank">
-  <img src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="interviewbit" alt="mithune" height="70" width="70" / />
 </a>
 <a href="https://x.com/mithuntran" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />  </a>
   <a href="https://www.twitch.tv/mithun15 YT" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> </a>
@@ -43,12 +31,6 @@
 <a target="_blank" href="https://dev.to/Mithun1508" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a href="https://www.instagram.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram logo" width="40" height="40" /></a>
 <a target="_blank" href="https://slack.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="42" height="42" /></a>
-<a target="_blank" href="https://www.twitch.tv" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="twitch" width="42" height="42" /></a>
-<a target="_blank" href="https://www.ibm.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="ibm" width="42" height="42" /></a>
-<a target="_blank" href="https://www.spotify.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="42" height="42" /></a>
-<a target="_blank" href="https://www.salesforce.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="42" height="42" /></a>
-<a target="_blank" href="https://www.cisco.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="42" height="42" /></a>
-<a target="_blank" href="https://www.skype.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="42" height="42" /></a>
 <a href="https://www.reddit.com/" target="_blank">
   <img src="https://redditinc.com/hubfs/Reddit%20Inc/Brand/Reddit_Lockup_Logo.svg" alt="reddit" alt="skype" width="70" height="70"  />
 </a>
@@ -61,10 +43,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun1508&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mithun1508&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
