@@ -29,12 +29,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
  <a href="https://www.youtube.com/@Newusermithun" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /> </a>
 <a target="_blank" href="https://dev.to/Mithun1508" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a href="https://www.instagram.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram logo" width="40" height="40" /></a>
-<a target="_blank" href="https://slack.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="42" height="42" /></a>
-<a href="https://www.reddit.com/" target="_blank">
-  <img src="https://redditinc.com/hubfs/Reddit%20Inc/Brand/Reddit_Lockup_Logo.svg" alt="reddit" alt="skype" width="70" height="70"  />
-</a>
-
 <br/>  
 
 
@@ -108,6 +102,33 @@
 <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" alt="DiscordBot" title="DiscordBot"/></code>
 <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordJS-Dark.svg" alt="DiscordJs" title="DiscordJs"/></code>
 <code><img width="100" src="https://download.logo.wine/logo/Confluence_(software)/Confluence_(software)-Logo.wine.png" alt="DiscordJs" title="DiscordJs"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" alt="IntelliJ" title="IntelliJ"/></code>
+<code><img width="100" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" title="IntelliJ"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" title="IntelliJ"/></code>
+<code><img width="100" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="IntelliJ" title="IntelliJ"/></code>
+<code><img width="70" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" title="IntelliJ"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" title="IntelliJ"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/></code>
+<code><img width="100" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/></code>
+<code><img width="70" src="https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/></code>
+<a target="_blank" href="https://www.apple.com/app-store/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="app store" width="42" height="42" /></a>
 
 </code>
 
@@ -137,39 +158,6 @@
 <code><img width="50" src="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667"/></code>
 
 
-</div>
-
-<div align="center">
-
-<code><img width="100" src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" alt="IntelliJ" title="IntelliJ"/></code>
-<code><img width="100" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" title="IntelliJ"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/></code>
-<code><img width="70" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" title="IntelliJ"/></code>
-<code><img width="100" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="IntelliJ" title="IntelliJ"/></code>
-<code><img width="70" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/></code>
-<code><img width="70" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/></code>
-<code><img width="70" src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" title="IntelliJ"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" title="IntelliJ"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></code>
-<code><img width="70" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/></code>
-<code><img width="100" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/></code>
-<code><img width="70" src="https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/></code>
-<a target="_blank" href="https://www.apple.com/app-store/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="app store" width="42" height="42" /></a>
-
-</div>
 
 # GitHub stats⚡
 <img width="737" alt="issues and PR " src="https://github.com/user-attachments/assets/ef45971c-e851-48cc-afa0-b0d220a1d984">
