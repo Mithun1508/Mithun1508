@@ -20,7 +20,6 @@
 <a href="https://www.hackerearth.com/@mithun242" target="blank"><img align="center" src="https://www.hackerearth.com/recruit/homepage-files/assets/images/hackerEarth-logo.svg" alt="@mithun242" height="70" width="70" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
-<a href="https://www.techgig.com/codegladiators/dashboard" target="blank"><img align="center" src="https://www.techgig.com/files/contest_upload_files/tg-logo-banner-060723.png" alt="mithune" height="60" width="60" /></a>
 <a href="https://www.codingninjas.com/" target="_blank">
   <img src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" alt="mithune" height="70" width="70" / />
 </a>
