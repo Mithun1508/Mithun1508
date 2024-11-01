@@ -172,7 +172,7 @@
 </div>
 
 # GitHub stats ⚡
-<img width="853" alt="issues and PR " src="https://github.com/user-attachments/assets/abc6ff22-b3d0-4d71-bcf3-adc39ed91d51">
+<img width="737" alt="issues and PR " src="https://github.com/user-attachments/assets/ef45971c-e851-48cc-afa0-b0d220a1d984">
 <img width="548" alt="recent activity " src="https://github.com/user-attachments/assets/9724676c-9fc4-4604-9400-a761ba5ae214">
 
 
