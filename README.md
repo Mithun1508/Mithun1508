@@ -2,6 +2,13 @@
 ![ultrawide desktop](https://github.com/user-attachments/assets/7641c48c-19ff-4630-b355-bbffd70e011e)
 
 
+<code><img width="40" src="https://camo.githubusercontent.com/d0acab0cf5d545c31ff8e05123d4895e54af4678a7bb0f6c84556ca4de1dcea9/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f706c6179696e672f323736353434363439313438323335373736" alt="Bitbucket" title="Bitbucket"/></code>
+
+<code><img width="40" src="https://camo.githubusercontent.com/429c38f2a4e99187b2b513aefda304c75af8d88a8976fd7d7f18cd035936d07a/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f7673636f64652f323736353434363439313438323335373736" alt="Bitbucket" title="Bitbucket"/></code>
+
+<code><img width="40" src="https://camo.githubusercontent.com/2a45e1c3ddbd0d0ff518aba1e9e9414e6de1c2febe559f56f33baa723ecaac6c/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f73706f746966792f323736353434363439313438323335373736" alt="Bitbucket" title="Bitbucket"/></code>
+
+
 
 
 
@@ -115,6 +122,15 @@
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" title="prometheus"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" title="ElasticSearch"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RedHat-Dark.svg" alt="RedHat" title="RedHat"/>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" alt="RedHat" title="windows"/>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg " alt="RedHat" title="powershell"/>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg" alt="Notion" title="Notion"/>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg " alt="kotlin" title="Notion"/>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenShift.svg" alt="kotlin" title="Notion"/>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Regex-Dark.svg" alt="Regex" title="Regex"/>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg " alt="Regex" title="styledcomponents"/>
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Webpack-Dark.svg" alt="Regex" title="styledcomponents"/>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
