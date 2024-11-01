@@ -32,13 +32,8 @@
 <br/>  
 
 
-   
 
 
-###
-
-
-###
 
 ## Code Editors, IDE and Tools
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
@@ -156,7 +151,7 @@
 <code><img width="50" src="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667"/></code>
 
 
-## GitHub stats⚡
+### GitHub stats⚡
 <img width="737" alt="issues and PR " src="https://github.com/user-attachments/assets/ef45971c-e851-48cc-afa0-b0d220a1d984">
 <img width="431" alt="recent activity " src="https://github.com/user-attachments/assets/bb0857e3-0fa2-4c52-a46d-a1b876c6b008">
 
