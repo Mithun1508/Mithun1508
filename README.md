@@ -171,7 +171,7 @@
 
 </div>
 
-Github Stats ⚡
+# GitHub Stats ⚡
 <img width="853" alt="issues and PR " src="https://github.com/user-attachments/assets/abc6ff22-b3d0-4d71-bcf3-adc39ed91d51">
 <img width="548" alt="recent activity " src="https://github.com/user-attachments/assets/9724676c-9fc4-4604-9400-a761ba5ae214">
 
