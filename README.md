@@ -61,6 +61,6 @@
 <img width="737" alt="issues and PR " src="https://github.com/user-attachments/assets/ef45971c-e851-48cc-afa0-b0d220a1d984">
 <img width="431" alt="recent activity " src="https://github.com/user-attachments/assets/bb0857e3-0fa2-4c52-a46d-a1b876c6b008">
 
-# Hacktoberfest Open source Contribution:
+# Hacktoberfest Open source Contribution
 [![An image of @mithun1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithun1508)](https://holopin.io/@mithun1508)
 
