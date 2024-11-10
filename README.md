@@ -62,6 +62,10 @@
 <img width="431" alt="recent activity " src="https://github.com/user-attachments/assets/bb0857e3-0fa2-4c52-a46d-a1b876c6b008">
 
 
+
+<img width="703" alt="most used programming lang " src="https://github.com/user-attachments/assets/16f3b2b3-0529-4b5c-99ee-a56cc3be4632">
+
+
 # My GSoC 2023 Open source contribution
 https://github.com/jitsi/jitsi-meet/pull/14101
 
