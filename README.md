@@ -1,4 +1,4 @@
-<img width="437" alt="commit history" src="https://github.com/user-attachments/assets/35ad19d9-3420-4243-a7ce-1229d6f39510">
+
 ![ultrawide desktop](https://github.com/user-attachments/assets/7641c48c-19ff-4630-b355-bbffd70e011e)
 
 <code><img width="150" src="https://camo.githubusercontent.com/bd79fc2e32377bd33f2f6c24c23173869947309ed945d1b1a62277026edf97bc/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f7374617475732f3237363534343634393134383233353737363f73696d706c653d74727565" alt="Bitbucket" title="Bitbucket"/></code>
@@ -57,14 +57,12 @@
 <code><img width="50" src="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667"/></code>
 
 <img width="811" alt="contributions Mith " src="https://github.com/user-attachments/assets/c07701a3-a96d-4dcf-a4d9-517f5cda43d2">
-
-<img width="437" alt="commit history" src="https://github.com/user-attachments/assets/a113535f-a5fb-4a74-a303-2f4b0a23e04d">
 <img width="737" alt="issues and PR " src="https://github.com/user-attachments/assets/ef45971c-e851-48cc-afa0-b0d220a1d984">
+<img width="437" alt="commit history" src="https://github.com/user-attachments/assets/a113535f-a5fb-4a74-a303-2f4b0a23e04d">
 <img width="431" alt="recent activity " src="https://github.com/user-attachments/assets/bb0857e3-0fa2-4c52-a46d-a1b876c6b008">
 
 
 # My GSoC 2023 Open source contribution
 https://github.com/jitsi/jitsi-meet/pull/14101
-
 
 <img width="950" alt="Jitsi meet " src="https://github.com/user-attachments/assets/81d86795-cec4-4192-aa41-fedb9ec57b6b">
