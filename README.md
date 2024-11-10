@@ -56,14 +56,13 @@
 <code><img width="50" src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" title="sass"/></code>
 <code><img width="50" src="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667"/></code>
 
+<img width="703" alt="most used programming lang " src="https://github.com/user-attachments/assets/16f3b2b3-0529-4b5c-99ee-a56cc3be4632">
 <img width="811" alt="contributions Mith " src="https://github.com/user-attachments/assets/c07701a3-a96d-4dcf-a4d9-517f5cda43d2">
 <img width="737" alt="issues and PR " src="https://github.com/user-attachments/assets/ef45971c-e851-48cc-afa0-b0d220a1d984">
 <img width="437" alt="commit history" src="https://github.com/user-attachments/assets/a113535f-a5fb-4a74-a303-2f4b0a23e04d">
 <img width="431" alt="recent activity " src="https://github.com/user-attachments/assets/bb0857e3-0fa2-4c52-a46d-a1b876c6b008">
 
 
-
-<img width="703" alt="most used programming lang " src="https://github.com/user-attachments/assets/16f3b2b3-0529-4b5c-99ee-a56cc3be4632">
 
 
 # My GSoC 2023 Open source contribution
