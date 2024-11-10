@@ -69,3 +69,6 @@
 https://github.com/jitsi/jitsi-meet/pull/14101
 
 <img width="950" alt="Jitsi meet " src="https://github.com/user-attachments/assets/81d86795-cec4-4192-aa41-fedb9ec57b6b">
+
+
+<img width="551" alt="Notable contributions" src="https://github.com/user-attachments/assets/e06b6d32-7390-4d8f-992a-d88a36b2e983">
