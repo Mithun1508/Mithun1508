@@ -82,7 +82,10 @@
 # My GSoC 2023 Open source contribution
 https://github.com/jitsi/jitsi-meet/pull/14101
 
-<img width="950" alt="Jitsi meet " src="https://github.com/user-attachments/assets/81d86795-cec4-4192-aa41-fedb9ec57b6b">
 
 
-<img width="551" alt="Notable contributions" src="https://github.com/user-attachments/assets/e06b6d32-7390-4d8f-992a-d88a36b2e983">
+
+<img width="620" alt="GSoc 24 PR" src="https://github.com/user-attachments/assets/466ae1df-cd37-44ed-bcbc-4d3569298709">
+
+
+<img width="664" alt="3 PR in new repos " src="https://github.com/user-attachments/assets/682213bd-accf-49bd-a1c1-66101d3107a7">
