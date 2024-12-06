@@ -1,4 +1,4 @@
-<img width="358" alt="Code snippets of the day " src="https://github.com/user-attachments/assets/5013226b-3c22-478d-b137-8db22c5661bb">
+
 ![ultrawide desktop](https://github.com/user-attachments/assets/7641c48c-19ff-4630-b355-bbffd70e011e)
 
 
