@@ -1,4 +1,4 @@
-
+<img width="358" alt="Code snippets of the day " src="https://github.com/user-attachments/assets/5013226b-3c22-478d-b137-8db22c5661bb">
 ![ultrawide desktop](https://github.com/user-attachments/assets/7641c48c-19ff-4630-b355-bbffd70e011e)
 
 
@@ -102,4 +102,13 @@ https://github.com/jitsi/jitsi-meet/pull/14101
 
 <img width="641" alt="Repossitory license " src="https://github.com/user-attachments/assets/570778a0-4e75-43bf-9d6d-b2592c468844">
 <img width="627" alt="Github project Introduction" src="https://github.com/user-attachments/assets/a9acb4ec-ede0-4bf8-ad54-ed60c83f4f87">
+
+
+
+<img width="358" alt="Code snippets of the day " src="https://github.com/user-attachments/assets/376450f6-3cc9-4517-b2a8-591ba6adecf7">
+<img width="362" alt="stackOverflowmetrics" src="https://github.com/user-attachments/assets/f6557db1-da62-4c38-aec5-f7e9bc8666b2">
+
+
+
+
 
