@@ -1,4 +1,4 @@
-<img width="367" alt="Metrics Generator " src="https://github.com/user-attachments/assets/f663cbd4-c6c6-440d-86fb-c19dc095c5c8">
+
 ![ultrawide desktop](https://github.com/user-attachments/assets/7641c48c-19ff-4630-b355-bbffd70e011e)
 
 
