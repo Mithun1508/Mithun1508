@@ -97,4 +97,9 @@ https://github.com/jitsi/jitsi-meet/pull/14101
 
 
 
+<img width="485" alt="Metrics Generator" src="https://github.com/user-attachments/assets/13f89a71-b903-478e-aa05-317ba4908c18">
+
+
+<img width="641" alt="Repossitory license " src="https://github.com/user-attachments/assets/570778a0-4e75-43bf-9d6d-b2592c468844">
+<img width="627" alt="Github project Introduction" src="https://github.com/user-attachments/assets/a9acb4ec-ede0-4bf8-ad54-ed60c83f4f87">
 
