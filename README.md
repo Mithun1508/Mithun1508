@@ -82,29 +82,12 @@
 # My GSoC 2023 Open source contribution
 https://github.com/jitsi/jitsi-meet/pull/14101
 
-
-
-
 <img width="620" alt="GSoc 24 PR" src="https://github.com/user-attachments/assets/466ae1df-cd37-44ed-bcbc-4d3569298709">
-
-
 <img width="664" alt="3 PR in new repos " src="https://github.com/user-attachments/assets/682213bd-accf-49bd-a1c1-66101d3107a7">
-
-
-
 <img width="367" alt="Metrics Generator " src="https://github.com/user-attachments/assets/617563c5-d35f-4834-9feb-b612ce0a7411">
 <img width="361" alt="gists user websites" src="https://github.com/user-attachments/assets/36773eaa-8d42-4eb6-b173-1663f726aae4">
-
-
-
 <img width="485" alt="Metrics Generator" src="https://github.com/user-attachments/assets/13f89a71-b903-478e-aa05-317ba4908c18">
-
-
-<img width="641" alt="Repossitory license " src="https://github.com/user-attachments/assets/570778a0-4e75-43bf-9d6d-b2592c468844">
 <img width="627" alt="Github project Introduction" src="https://github.com/user-attachments/assets/a9acb4ec-ede0-4bf8-ad54-ed60c83f4f87">
-
-
-
 <img width="358" alt="Code snippets of the day " src="https://github.com/user-attachments/assets/376450f6-3cc9-4517-b2a8-591ba6adecf7">
 <img width="362" alt="stackOverflowmetrics" src="https://github.com/user-attachments/assets/f6557db1-da62-4c38-aec5-f7e9bc8666b2">
 
