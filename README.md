@@ -22,7 +22,7 @@
 <code><img width="150" src="https://camo.githubusercontent.com/429c38f2a4e99187b2b513aefda304c75af8d88a8976fd7d7f18cd035936d07a/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f7673636f64652f323736353434363439313438323335373736" alt="Bitbucket" title="Bitbucket"/></code>
 <code><img width="180" src="https://camo.githubusercontent.com/2a45e1c3ddbd0d0ff518aba1e9e9414e6de1c2febe559f56f33baa723ecaac6c/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f73706f746966792f323736353434363439313438323335373736" alt="Bitbucket" title="Bitbucket"/></code>
 
-<h3 align="left">SOCIAL PROFILES📱</h3>
+<h3 align="left">Social Profiles📱</h3>
 <p align="left">
 <a href="https://dev.to/mithun1508" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="mithun1508" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mithun-5a1735156/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="mithun-e-5a1735156" height="30" width="40" /></a>
