@@ -1,7 +1,8 @@
 
 
-![Work From Home Desk Setup for Productivity](https://github.com/user-attachments/assets/7ed7ae10-6a18-4c6b-8c88-754ee3339bad)
 
+
+<img width="395" alt="Windows PC" src="https://github.com/user-attachments/assets/955e5f47-85ff-4fd2-9b01-54150dd96dcc" />
 
 
 <code><img width="100" src="https://camo.githubusercontent.com/2ebaf114252ac1a9e0232e6adf119c1b95105921f2287097a2b74ed93ab8dca0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f616268697368656b6e61696964752f617765736f6d652d6769746875622d70726f66696c652d726561646d65" title="Javascript"/></code>
