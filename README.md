@@ -1,7 +1,5 @@
 
-
-
-<img width="395" alt="Windows PCCC" src="https://github.com/user-attachments/assets/a8088410-b2b3-46aa-9105-6f9620eea4c3" />
+<img width="846" alt="windowsx pccc " src="https://github.com/user-attachments/assets/bb0a2880-630a-4909-b848-653cf0e3df0d" />
 
 
 
