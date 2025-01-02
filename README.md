@@ -1,6 +1,6 @@
 
-<img width="846" alt="windowsx pccc " src="https://github.com/user-attachments/assets/bb0a2880-630a-4909-b848-653cf0e3df0d" />
 
+![Desk setup for productivity](https://github.com/user-attachments/assets/bfbd9920-0488-4e8e-9026-70bf8cd1fbc5)
 
 
 <code><img width="100" src="https://camo.githubusercontent.com/2ebaf114252ac1a9e0232e6adf119c1b95105921f2287097a2b74ed93ab8dca0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f616268697368656b6e61696964752f617765736f6d652d6769746875622d70726f66696c652d726561646d65" title="Javascript"/></code>
