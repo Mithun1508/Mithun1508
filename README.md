@@ -1,7 +1,12 @@
 
 
 
-<img width="618" alt="Desk setup for productivity" src="https://github.com/user-attachments/assets/c119612e-dfad-4162-83d7-5ef0425211dd" />
+
+<img width="734" alt="PC setup" src="https://github.com/user-attachments/assets/865e0dac-7c20-4b2e-800a-8d24a6443721" />
+
+
+
+
 
 
 <code><img width="100" src="https://camo.githubusercontent.com/2ebaf114252ac1a9e0232e6adf119c1b95105921f2287097a2b74ed93ab8dca0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f616268697368656b6e61696964752f617765736f6d652d6769746875622d70726f66696c652d726561646d65" title="Javascript"/></code>
