@@ -1,7 +1,8 @@
 
 
 
-<img width="603" alt="Desktop PC" src="https://github.com/user-attachments/assets/2590dccb-380d-4173-b35b-b7012e356865" />
+<img width="782" alt="Desk Home setup prod" src="https://github.com/user-attachments/assets/55a4f116-d2cb-46aa-bfaf-f88bd26ea551" />
+
 
 
 
