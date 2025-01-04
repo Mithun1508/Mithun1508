@@ -1,7 +1,7 @@
 
 
 
-<img width="782" alt="Desk Home setup prod" src="https://github.com/user-attachments/assets/55a4f116-d2cb-46aa-bfaf-f88bd26ea551" />
+<img width="772" alt="Desk Home setup prod1" src="https://github.com/user-attachments/assets/1439cd56-5662-4cdc-93a9-33db5cea813e" />
 
 
 
