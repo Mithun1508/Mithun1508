@@ -29,7 +29,6 @@
 
 <h3 align="left">Social Profiles📱</h3>
 <p align="left">
-<a href="https://dev.to/mithun1508" target="blank"><img align="center" src="file:///C:/Users/mithun.e/Downloads/dev-to.svg" alt="mithun1508" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mithun-5a1735156/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="mithun-e-5a1735156" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20698323/mithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mithun" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mithuntran" target="blank"><img align="center" src="https://logotyp.us/file/codesandbox.svg" alt="mithuntran" height="50" width="50" /></a>
