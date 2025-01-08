@@ -1,3 +1,24 @@
+<h3 align="center"> computer science student and passionate developer from India</h3>
+
+- 🔭 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
+
+- 🌱 I’m currently learning **Java Spring Boot, JavaScript, Microsoft Azure, GitHub, Linux OS, Artificial intelligence (AI)**
+
+- 👯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
+
+- 👨‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
+
+- 📝 I regularly write articles on [https://dev.to/mithuntr](https://dev.to/mithuntr)
+
+- 💬 Ask me about **Java 11, Full-stack development, Front-end development, Object-Oriented Programming and AI**
+
+- 📫 How to reach me **mithuntran@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lLk8UzHKGGpNVhlLIMNMGgg_JotuZtAW/view](https://drive.google.com/file/d/1lLk8UzHKGGpNVhlLIMNMGgg_JotuZtAW/view)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 
