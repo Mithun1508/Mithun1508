@@ -1,4 +1,4 @@
-<h3 align="center"> 🟠🟢🟡 >> Hi there! Thanks for Visiting my GitHub profile. Let's raise a PR and Collaborate. I'm a computer science student and passionate developer from India</h3>
+<h3 align="center"> 🟠🟢🟡 >> Hi there! Thanks for Visiting my GitHub profile. Let's Raise a pull request (PR) and Collaborate. I'm a computer science student and passionate developer from India</h3>
 
 - 🔭 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
