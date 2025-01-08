@@ -11,7 +11,7 @@ Systems design**
 
 - 📝 I regularly write articles on [https://dev.to/mithuntr](https://dev.to/mithuntr)
 
-- 💬 Ask me about **Java Platform, Enterprise Edition, Full-stack development, Front-end development, Object-Oriented Programming and AI**
+- 💬 Ask me about **Java Platform, Enterprise Edition, Full-stack development, Front-end development, Object-Oriented Programming, AI, innovation and Technology.**
 
 - 📫 How to reach me **mithuntran@gmail.com**
 
