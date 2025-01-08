@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
-- 🌱 I’m currently learning **Java Spring Boot, JavaScript, Microsoft Azure, GitHub, Linux OS, Artificial intelligence (AI)**
+- 🌱 I’m currently learning **Java Spring Boot, Distributed systems, Microservices, Docker, Kubernetes, Microsoft Azure, GenAI**
 
 - 👯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
