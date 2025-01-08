@@ -4,7 +4,7 @@
 
 - 🖥️💻</> I’m currently learning **Web development, android development, Distributed systems, Microservices, Docker, Kubernetes, Microsoft Azure, GenAI, Systems design.**
 
-- 👯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) Creating a pull request (PR) in GitHub, Write a descriptive PR, Create a draft PR, Merge your changes.
+- 👯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) Create a pull request (PR) On GitHub, Write a descriptive PR, Create a draft PR, Merge your changes.
 
 - 👨🏻‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
 
