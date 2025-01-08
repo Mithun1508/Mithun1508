@@ -2,18 +2,18 @@
 
 - 🔭 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
-- 🌱 I’m currently learning **Java Spring Boot, React library for web native user interfaces, Distributed systems, Microservices, Docker, Kubernetes, Microsoft Azure, GenAI, 
+- 🖥️💻</> I’m currently learning **Java Spring Boot, React library for web native user interfaces, Distributed systems, Microservices, Docker, Kubernetes, Microsoft Azure, GenAI, 
 Systems design**
 
-- 👯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
+- 👯🧑‍💻 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
-- 👨‍💻 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
+- 👨🏻‍💻🧑🏻‍💻֎🇦🇮 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/mithuntr](https://dev.to/mithuntr)
 
 - 💬 Ask me about **Java Platform Enterprise Edition, Full-stack development, Front-end development, Object-Oriented Programming, AI, innovation and Technology.**
 
-- 📫 How to reach me **mithuntran@gmail.com**
+- 📲🌐 ᯤ How to reach me **mithuntran@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lLk8UzHKGGpNVhlLIMNMGgg_JotuZtAW/view](https://drive.google.com/file/d/1lLk8UzHKGGpNVhlLIMNMGgg_JotuZtAW/view)
 
