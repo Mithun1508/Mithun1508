@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up? Thanks for Visiting my GitHub profile</h1>
+<h1 align="left">Hello world! Thanks for Visiting my GitHub profile</h1>
 
 ###
 
-<p align="left">My name is Mithun ... Harnessing 3+ years of exp in IT services & consulting industry refining products & modules in a product based environment  ..., from india....</p>
+<p align="left">This is Mithun ... Harnessing 3+ years of exp in IT services & consulting industry refining products & modules in a product based environment  ..., from india....</p>
 
 ###
 
