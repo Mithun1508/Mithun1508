@@ -1,10 +1,4 @@
-<h1 align="left">Hello world!   print("Thanks for Visiting my GitHub profile");</h1>
 
-###
-
-<p align="left">This is Mithun ... Harnessing 3+ years of exp in Software IT services & consulting industry refining products & modules in a product based environment  ..., from india....</p>
-
-###
 
 
 <h3 align="center"> </h3>
