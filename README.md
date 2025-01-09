@@ -1,3 +1,12 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Mithun ... Harnessing 3+ years of exp in IT services & consulting industry refining products & modules in a product based environment  ..., from india....</p>
+
+###
+
+
 <h3 align="center"> </h3>
 
 - 🔭 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
