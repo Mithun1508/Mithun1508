@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/mithuntr](https://dev.to/mithuntr)
 
-- 💬 Ask me about **Java Platform Enterprise Edition, Full-stack development, Front-end development, Object-Oriented Programming, AI֎🇦🇮, innovation and Technology.**
+- 💬 Ask me about ** Anything here https://github.com/Mithun1508/Mithun/issues/1**
 
 - 📲ᯤ📩 How to reach me **mithuntran@gmail.com**
 
