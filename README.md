@@ -15,7 +15,7 @@
 
 - 💬 Ask me about Anything here https://github.com/Mithun1508/Mithun/issues/1
 
-- 📲ᯤ📩 How to reach me **mithuntran@gmail.com**
+- 📲📩ᯤ How to reach me **mithuntran@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lLk8UzHKGGpNVhlLIMNMGgg_JotuZtAW/view](https://drive.google.com/file/d/1lLk8UzHKGGpNVhlLIMNMGgg_JotuZtAW/view)
 
