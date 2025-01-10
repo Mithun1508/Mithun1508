@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/mithuntr](https://dev.to/mithuntr)
 
-- 💬 Ask me about ** Anything here https://github.com/Mithun1508/Mithun/issues/1**
+- 💬 Ask me about Anything here https://github.com/Mithun1508/Mithun/issues/1
 
 - 📲ᯤ📩 How to reach me **mithuntran@gmail.com**
 
