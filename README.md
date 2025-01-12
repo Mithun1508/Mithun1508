@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻☕ I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
-- 🖥️💻 I’m currently learning **Java Spring Boot, Web Development, Android Mobile App Development, User interface (UI) design, User experience (UX) design, Distributed systems, Microservices, DevOps, Docker, Kubernetes, Microsoft Azure, GenAI, Systems design.**
+- 🖥️💻 I’m currently learning **Java SE 17 JDK 17 LTS Version,Java Spring Boot, Spring Data, Spring Cloud, Spring Security, Spring Session, Spring Web MVC framework, Spring REST API, Object-oriented programming (OOP), Web Development, web design, Android Mobile Application Development, User interface (UI) design, User experience (UX) design, Distributed systems, Microservices, DevOps, Docker, Kubernetes, Microsoft Azure, GenAI, Systems design.**
 
 - 👯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) Create a pull request (PR) On GitHub, Write a descriptive PR, Create a draft PR, Merge your changes.
 
