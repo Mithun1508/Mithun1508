@@ -3,7 +3,7 @@
 
 <h3 align="center"> </h3>
 
-- 👨🏻‍💻☕ I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
+- 👨🏻‍💻☕ I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) • Building products • Creating content (YouTube/Twitch)
 
 - 🖥️💻 I’m currently learning **Web Development, web design, Android Mobile Application Development, User interface (UI) design, User experience (UX) design, Distributed systems, Microservices, DevOps, Docker, Kubernetes, Microsoft Azure, GenAI, Systems design.**
 
