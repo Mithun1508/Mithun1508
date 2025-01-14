@@ -3,7 +3,7 @@
 
 <h3 align="center"> </h3>
 
-- 🖥️ As a Associate Software Development Engineer at NTT Data, I work on developing, maintaining scalable and reliable backend systems that support millions of users & businesses. I have contributed to multiple scale projects that improved the performance, security, and availability of Azure cloud services.
+- 🖥️ As an Associate Software Development Engineer at NTT Data, I work on developing, maintaining scalable and reliable backend systems that support millions of users & businesses. I have contributed to multiple scale projects that improved the performance, security, and availability of Azure cloud services.
 
 - 🌐 I am also a passionate content creator on YouTube, where I share my knowledge & experience in tech and my life. https://www.youtube+.com/@Newusermithun
 
