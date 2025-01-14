@@ -3,9 +3,13 @@
 
 <h3 align="center"> </h3>
 
-- 👨🏻‍💻☕ I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) • Building a Software Product • Creating content On YouTube(YT)
+- 🖥️ As a Associate Software Development Engineer at NTT Data, I work on developing, maintaining scalable and reliable backend systems that support millions of users & businesses. I have contributed to multiple scale projects that improved the performance, security, and availability of Azure cloud services.
 
-- 🖥️💻 I’m currently learning **Web Development, Android Mobile Application Development, web design, User interface (UI) design, User experience (UX) design, Distributed systems, Microservices, DevOps, Docker, Kubernetes, Microsoft Azure, GenAI, Systems design.**
+- 🌐 I am also a passionate content creator on YouTube, where I share my knowledge & experience in tech and my life. https://www.youtube+.com/@Newusermithun
+
+- 👨🏻‍💻 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) • Building a Software Product • Creating content On YouTube(YT)
+
+-  I’m currently learning **Web Development, Android Mobile Application Development, web design, User interface (UI) design, User experience (UX) design, Distributed systems, Microservices, DevOps, Docker, Kubernetes, Microsoft Azure, GenAI, Systems design.**
 
 - 👯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) Create a pull request (PR) On GitHub, Write a descriptive PR, Create a draft PR, Merge your changes.
 
