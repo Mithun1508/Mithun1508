@@ -7,7 +7,7 @@
 
 - 🌐 I am also a passionate content creator on YouTube, where I share my knowledge & experience in tech and my life. https://www.youtube+.com/@Newusermithun
 
-- 👨🏻‍💻 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) • Building a Software Product • Creating content On YouTube(YT)
+- 👨🏻‍💻 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
 - 👨🏻‍🏫 I’m currently learning **Web Development, Android Mobile Application Development, web design, User interface (UI) design, User experience (UX) design, Distributed systems, Microservices, DevOps, Docker, Kubernetes, Microsoft Azure, GenAI, Systems design.**
 
