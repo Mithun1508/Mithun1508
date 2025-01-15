@@ -5,7 +5,7 @@
 
 - 🖥️ As an Associate Software Development Engineer at NTT Data, I work on developing, maintaining scalable and reliable backend systems that support millions of users & businesses. I have contributed to multiple scale projects that improved the performance, security, and availability of Azure cloud services.
 
-- 🌐 I am also a passionate content creator on YouTube, Where I share insights & vlogs Tech, Software industry, placements, Onsite interview experiences, referrals, Resume screening: https://www.youtube.com/@Newusermithun****
+- 🌐 I am also a passionate content creator on YouTube, Where I share insights & vlogs Tech, Software industry, placements, Onsite interview experiences, referrals, Resume screening: https://www.youtube.com/@Newusermithun
 
 - 👨🏻‍💻 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
