@@ -5,11 +5,13 @@
 
 - 🖥️ As an Associate Software Development Engineer at NTT Data, I work on developing, maintaining scalable and reliable backend systems that support millions of users & businesses. I have contributed to multiple scale projects that improved the performance, security, and availability of Azure cloud services.
 
-- 🌐 I am also a passionate content creator on YouTube, Where I share insights & vlogs On Tech, Software industry, placements, Onsite interview experiences, referrals, Resume screening: https://www.youtube.com/@Newusermithun
+- 🌐 I am also a passionate content creator on YouTube, Where I share my insights, Learnings & vlogs On Tech industry, Software development, Onsite interview experiences, Resume screening & referrals: https://www.youtube.com/@Newusermithun
+  
+-  I am Open to participate, mentor various Programming competitions/contests/Hackathons/community driven by various technologies.
 
 - 👨🏻‍💻 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
-- 👨🏻‍🏫 I’m currently learning **Full Stack Web Development, Distributed systems,  Microservices, DevOps,  Docker,  Kubernetes,  Microsoft Azure, Generative AI,  System design.**
+- 👨🏻‍🏫 I’m currently learning **Full Stack Web Development, Distributed systems, Microservices, DevOps, Docker, Kubernetes,  Microsoft Azure, Generative AI, System design.**
 
 - 🎯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) Create a pull request (PR) On GitHub, Write a descriptive PR, Create a draft PR, Merge your changes.
 
