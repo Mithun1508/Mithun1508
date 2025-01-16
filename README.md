@@ -7,7 +7,7 @@
 
 - 🌐 I am also a passionate content creator on YouTube, Where I share my insights, Learnings & vlogs On Tech industry, Software development, Onsite interview experiences, Resume screening & referrals: https://www.youtube.com/@Newusermithun
   
--  I am Open to participate, mentor various Programming competitions/contests/Hackathons/community driven by various technologies.
+- 🙋🏻 I am Open to participate, mentor various Programming competitions/contests/Hackathons/community driven by various technologies.
 
 - 👨🏻‍💻 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server)
 
