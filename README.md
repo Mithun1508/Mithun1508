@@ -3,11 +3,12 @@
 
 <h3 align="center"> </h3>
 
-- 🖥️ As an Associate Software Development Engineer at NTT Data, I work on developing, maintaining scalable and reliable backend systems that support millions of users & businesses. I have contributed to multiple scale projects that improved the performance, security, and availability of Azure cloud services.
+- 🖥️ As an Associate Software Development Engineer at NTT Data, I work with cutting-edge technologies to develop, maintain and support scalable, reliable backend systems that support millions of users and businesses. I have contributed to multiple large-scale projects, enhancing performance, security, and availability, and delivering robust solutions for Azure cloud services.
 
-- 🌐 I am also a passionate content creator on YouTube, Where I share my insights, Learnings & vlogs On Tech industry, Software development, Onsite interview experiences, Resume screening & referrals: https://www.youtube.com/@Newusermithun
+- 🌐 I am also a  passionate YouTube content creator, sharing insights, learnings, and vlogs on the tech industry, software development, Competitive programming, onsite interview experiences, resume screening, and referrals:
+https://www.youtube.com/@Newusermithun
   
-- 🙋🏻 I am Open to participate, mentor various Programming competitions/contests/Hackathons/community driven by various technologies.
+- 🙋🏻 I am open to participating in and mentoring various programming competitions, contests, hackathons, and community events driven by diverse technologies.
 
 - 👨🏻‍💻 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) . Received 18 stars⭐ and 2 forks from the community support.
 
