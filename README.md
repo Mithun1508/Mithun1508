@@ -115,13 +115,6 @@ https://github.com/jitsi/jitsi-meet/pull/14101
 <img width="664" alt="3 PR in new repos " src="https://github.com/user-attachments/assets/682213bd-accf-49bd-a1c1-66101d3107a7">
 
 
-<img width="447" alt="community placeholder" src="https://github.com/user-attachments/assets/b6ea5dc0-1930-4a47-b739-5c90db293963" />
-
-<img width="614" alt="Notable contributions " src="https://github.com/user-attachments/assets/27acd05a-25ea-4604-8646-2417daf35850" />
-
-
-<img width="367" alt="Metrics Generator " src="https://github.com/user-attachments/assets/617563c5-d35f-4834-9feb-b612ce0a7411">
-
 
 
 
