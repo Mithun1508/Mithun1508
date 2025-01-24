@@ -50,7 +50,6 @@ https://www.youtube.com/@Newusermithun
 <p align="left">
 </p>
 
-<h3 align="left">Social Profiles📱</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mithun-5a1735156/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="mithun-e-5a1735156" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20698323/mithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mithun" height="30" width="40" /></a>
