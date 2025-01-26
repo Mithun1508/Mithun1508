@@ -1,33 +1,6 @@
 <img width="772" alt="Desk Home setup prod1" src="https://github.com/user-attachments/assets/1439cd56-5662-4cdc-93a9-33db5cea813e" />
 
 
-<h3 align="center"> </h3>
-
-- 🖥️ As an Associate Software Development Engineer at NTT Data, I work with cutting-edge technologies to develop, maintain and support scalable, reliable backend systems that support millions of users and businesses. I have contributed to multiple large-scale projects, enhancing performance, security, and availability, and delivering robust solutions for Azure cloud services.
-
-- 🌐 I am also a  passionate YouTube content creator, sharing insights, learnings, and vlogs on the tech industry, software development, Competitive programming, onsite interview experiences, resume screening, and referrals:
-https://www.youtube.com/@Newusermithun
-  
-- 🙋🏻 I am open to participating in and mentoring various programming competitions, contests, hackathons, and community events driven by diverse technologies.
-
-- 👨🏻‍💻 I’m currently working on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) . Received 18 stars⭐ and 2 forks from the community support.
-
-- 👨🏻‍🏫 I’m currently learning **Full Stack Web Development, Distributed systems, Microservices, DevOps, Docker, Kubernetes,  Microsoft Azure, Generative AI, System design.**
-
-- 🎯 I’m looking to collaborate on [ChatGPT-Phone-Call-Server](https://github.com/Mithun1508/ChatGPT-Phone-Call-Server) Create a pull request (PR) On GitHub, Write a descriptive PR, Create a draft PR, Merge your changes.
-
-- 🌐 All of my projects are available at [https://earnest-duckanoo-191707.netlify.app/](https://earnest-duckanoo-191707.netlify.app/)
-
-- 📝 I regularly write articles on [https://dev.to/mithuntr](https://dev.to/mithuntr)
-
-- 💬 Ask me about Anything here https://github.com/Mithun1508/Mithun/issues/1
-
-- 📲📩ᯤ How to reach me **mithuntran@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lLk8UzHKGGpNVhlLIMNMGgg_JotuZtAW/view](https://drive.google.com/file/d/1lLk8UzHKGGpNVhlLIMNMGgg_JotuZtAW/view)
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
