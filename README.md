@@ -14,13 +14,6 @@
 <a href="https://www.codechef.com/users/mithun_77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mithun_77" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mithuntran" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mithuntran" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mith1508" target="blank"><img align="center" src="https://leetcode.com/static/webpack_bundles/images/logo.c36eaf5e6.svg" alt="mith1508" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mithun242" target="blank"><img align="center" src="https://www.hackerearth.com/recruit/homepage-files/assets/images/hackerEarth-logo.svg" alt="@mithun242" height="70" width="70" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mithuntran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mithuntran" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/mithune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mithune" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/" target="_blank">
-  <img src="https://files.codingninjas.in/new_cn_logo-29829.svg" alt="Coding Ninjas" alt="mithune" height="70" width="70" / />
-</a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
  <a href="https://www.youtube.com/@Newusermithun" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /> </a>
 <a target="_blank" href="https://dev.to/Mithun1508" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
