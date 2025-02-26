@@ -1,7 +1,7 @@
 <img width="772" alt="Desk Home setup prod1" src="https://github.com/user-attachments/assets/1439cd56-5662-4cdc-93a9-33db5cea813e" />
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
