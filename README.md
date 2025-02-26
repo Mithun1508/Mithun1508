@@ -21,7 +21,7 @@
 
 
 
-## Programming Languages and Tech stack
+## Programming Languages, Frameworks and Tech stack
 <div align="center">
 
 <code><img width="50" src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" title="Javascript"/></code>
