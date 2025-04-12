@@ -1,4 +1,9 @@
-<img width="772" alt="Desk Home setup prod1" src="https://github.com/user-attachments/assets/1439cd56-5662-4cdc-93a9-33db5cea813e" />
+
+
+
+
+<img width="686" alt="Long Monitors" src="https://github.com/user-attachments/assets/05eafcd2-4605-419b-9f4c-0941cbb4986b" />
+
 
 
 <h3 align="left">Connect with me</h3>
