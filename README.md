@@ -2,7 +2,6 @@
 
 
 
-<img width="686" alt="Long Monitors" src="https://github.com/user-attachments/assets/05eafcd2-4605-419b-9f4c-0941cbb4986b" />
 
 
 
