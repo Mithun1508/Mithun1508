@@ -1,7 +1,8 @@
 
+<img width="960" alt="workspace" src="https://github.com/user-attachments/assets/b61df6ae-b44b-48d5-a43a-5bdbd51eed94" />
 
 
-![Desktop space](https://github.com/user-attachments/assets/86cba64e-162f-4e9d-bb52-f3f83ee274ea)
+
 
 
 
