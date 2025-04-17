@@ -1,3 +1,4 @@
+<img width="601" alt="Monitor setup" src="https://github.com/user-attachments/assets/848ffc4a-b227-4005-ad3d-c83a8d4c9b84" />
 
 
 
