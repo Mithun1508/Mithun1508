@@ -1,7 +1,8 @@
 
 
 
-![Screenshot 2025-04-18 180908](https://github.com/user-attachments/assets/4518d85e-fd5a-4bc7-8895-d65e47110530)
+
+![updated desktop](https://github.com/user-attachments/assets/b079d7cc-ca2a-4a9f-8237-4794167a05d6)
 
 
 
