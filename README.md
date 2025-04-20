@@ -1,8 +1,9 @@
 
 
 
+![new One](https://github.com/user-attachments/assets/050b36e7-9924-4c51-af99-584223fab592)
 
-![updated desktop](https://github.com/user-attachments/assets/b079d7cc-ca2a-4a9f-8237-4794167a05d6)
+
 
 
 
