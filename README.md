@@ -1,2 +1,3 @@
 
-<img width="753" alt="Screensetup2" src="https://github.com/user-attachments/assets/eb39562a-9d62-48f0-8772-06b11e1c5215" />
+
+<img width="739" alt="Screensetup212" src="https://github.com/user-attachments/assets/70c819f8-7630-4549-b50c-8cb6954e043a" />
