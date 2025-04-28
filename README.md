@@ -1,2 +1,2 @@
 
-<img width="215" alt="desk setup" src="https://github.com/user-attachments/assets/f2e9509a-b6dd-42af-b72a-582719769f37" />
+<img width="215" alt="desk setup" src="https://github.com/user-attachments/assets/5c2855ba-d694-41e9-937d-c64c41aec661" />
