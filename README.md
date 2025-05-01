@@ -1,2 +1,2 @@
 
-![Desk setup](https://github.com/user-attachments/assets/ccd12cb2-3181-4474-baa6-b14d6279b4a8)
+![Desk setup](https://github.com/user-attachments/assets/2bd88d68-5c76-4d16-92f5-48c6dc27694c)
