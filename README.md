@@ -1,3 +1,2 @@
 
-
-<img width="480" alt="Desk setup" src="https://github.com/user-attachments/assets/219b6cde-4eb0-4cd3-b2d5-c2c7334666ac" />
+![Desk setup](https://github.com/user-attachments/assets/ccd12cb2-3181-4474-baa6-b14d6279b4a8)
