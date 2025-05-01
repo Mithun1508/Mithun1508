@@ -1,2 +1,3 @@
-![Screenshot 2025-04-30 110116](https://github.com/user-attachments/assets/514c4abd-703b-4216-825f-c0fe2e70fa31)
 
+
+<img width="480" alt="Desk setup" src="https://github.com/user-attachments/assets/219b6cde-4eb0-4cd3-b2d5-c2c7334666ac" />
