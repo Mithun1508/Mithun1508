@@ -1,2 +1,2 @@
 
-<img width="432" alt="desk setup2" src="https://github.com/user-attachments/assets/0a6bad27-252c-4179-a8c2-baa992401afb" />
+![wide desktop](https://github.com/user-attachments/assets/0ee7a4dc-09c2-4d21-a18c-5d9ba1169967)
