@@ -1,2 +1,1 @@
-
-![desktop wide](https://github.com/user-attachments/assets/2db4cabe-d0b8-4ee4-9c38-706cce9f2423)
+<img width="688" alt="desk setup 1" src="https://github.com/user-attachments/assets/0f3385e1-f774-4f72-b157-9948d46d0773" />
