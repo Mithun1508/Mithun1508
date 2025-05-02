@@ -1,2 +1,2 @@
 
-![wide desktop](https://github.com/user-attachments/assets/0ee7a4dc-09c2-4d21-a18c-5d9ba1169967)
+![desktop wide](https://github.com/user-attachments/assets/2db4cabe-d0b8-4ee4-9c38-706cce9f2423)
