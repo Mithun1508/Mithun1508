@@ -1,2 +1,1 @@
-
-<img width="427" alt="new desk" src="https://github.com/user-attachments/assets/72e97197-7998-43f0-8cf5-886f53d5d508" />
+<img width="625" alt="new desk1" src="https://github.com/user-attachments/assets/8ea9aa5e-e224-4f63-bab1-4a0b66163d3b" />
