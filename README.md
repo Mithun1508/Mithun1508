@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3a3d2505-0e5a-43a3-be63-e26b934396fa)# 👋 Welcome to @Mithun1508's GitHub Profile Configuration!
+👋 Welcome to @Mithun1508's GitHub Profile Configuration!
 
 
 
