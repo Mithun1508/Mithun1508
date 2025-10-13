@@ -1,4 +1,17 @@
-# 👋 Welcome to @Mithun1508's GitHub Profile Configuration!
+![image](https://github.com/user-attachments/assets/3a3d2505-0e5a-43a3-be63-e26b934396fa)# 👋 Welcome to @Mithun1508's GitHub Profile Configuration!
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/5971cd4c-359b-4c4c-87e5-09b0d237013a)
+
+
+
+
+
+
 
 The central repository for managing and showcasing my GitHub profile's dynamic elements and configurations.
 
@@ -7,7 +20,6 @@ The central repository for managing and showcasing my GitHub profile's dynamic e
 ![Stars](https://img.shields.io/github/stars/Mithun1508/Mithun1508?style=social)
 ![Forks](https://img.shields.io/github/forks/Mithun1508/Mithun1508?style=social)
 
-![GitHub Profile Header Image](/header.png)
 
 
 ## ✨ Features
